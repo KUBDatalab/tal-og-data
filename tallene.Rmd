@@ -1,0 +1,107 @@
+---
+title: Tal og data fra KUB Datalab
+output: html_document
+htmlwidgets: TRUE
+always_allow_html: true
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(here::here("rmd_config.R"))
+```
+
+Vi henter en gang om dagen, kl. 1 om natten UTC.
+
+Sidst opdateret `r print(Sys.time())`
+
+
+Vi trækker data gennem apien i vores kalendersystem og genererer denne 
+rapport/oversigt/noget.
+
+Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at 
+arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver
+os lov til have vores egen server...)
+
+```{r}
+library(plotly)
+library(rmarkdown)
+library(here)
+library(ggplot2)
+library(plotly)
+library(knitr)
+library(tidyr)
+library(dplyr)
+library(httr)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+            geom_bar(position = "dodge")
+ggplotly(p)
+```
+
+
+Er vi online, eller er vi lokalt:
+
+```{r}
+if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+  print("lokalt")
+  client_secret <- keyring::key_get("libcal")
+}else{
+  print("online")
+  client_secret <- Sys.getenv("CLIENT_SECRET")
+}
+```
+
+Få token:
+```{r}
+token_endpoint <- "https://kubkalender.kb.dk/1.1/oauth/token"
+client_id <- "110"
+token <- POST(token_endpoint,
+              body = list(grant_type = "client_credentials",
+                          client_id = client_id,
+                          client_secret = client_secret)) %>% 
+  content()
+```
+
+Får vi overhovedet et token?
+```{r}
+token <- token %>% 
+  .[["access_token"]]
+```
+
+Hent kalendere:
+```{r hent_kalendere}
+
+kalendere <- modify_url(
+  url = "https://kubkalender.kb.dk",
+  path = c("1.1", "calendars")
+) %>% 
+  GET(add_headers('Authorization' = paste("bearer", token)))
+kalendere
+```
+
+
+```{r hent_kalendere_2}
+kalendere <- kalendere %>% content() %>% 
+  as_tibble()
+
+kalendere
+
+```
+
+
+```{r hent_kalendere_3}
+kalendere %>% 
+unnest_wider(calendars) %>% 
+  unnest_wider(url) %>%
+  unnest_wider(owner, names_repair = "universal") %>%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...6)
+
+kalendere %>%
+  select(calid, kalender_navn, public) %>% print()
+```
+
+Kønsfordeling er baseret på opgørelse fra Danmarks Statistik med antallet 
+af mænd og kvinder der har et givet navn pr 1. januar 2021.
+Nogle navne kan bruges af både mænd og kvinder. De optræder som et vægtet 
+gennemsnit af fordelingen. Enkelte navne optræder ikke i Danmarks statistik.
+De optræder som NA
