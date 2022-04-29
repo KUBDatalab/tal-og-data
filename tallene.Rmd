@@ -64,7 +64,19 @@ Får vi overhovedet et token?
 ```{r}
 token <- token %>% 
   .[["access_token"]]
+
 ```
+
+først antal characterer i hemmeligheden
+```{r}
+print(nchar(client_secret))
+```
+
+så antal characterer i token.
+```{r}
+print(nchar(token))
+```
+
 
 Hent kalendere:
 ```{r hent_kalendere}
@@ -82,22 +94,22 @@ kalendere
 kalendere <- kalendere %>% content() %>% 
   as_tibble()
 
-kalendere
+print(kalendere)
 
 ```
 
 
 ```{r hent_kalendere_3}
-kalendere %>% 
-unnest_wider(calendars) %>% 
-  unnest_wider(url) %>%
-  unnest_wider(owner, names_repair = "universal") %>%
-  rename(kalender_navn = name...2,
-         ejer_id = id,
-         ejer_navn = name...6)
-
-kalendere %>%
-  select(calid, kalender_navn, public) %>% print()
+# kalendere %>% 
+# unnest_wider(calendars) %>% 
+#   unnest_wider(url) %>%
+#   unnest_wider(owner, names_repair = "universal") %>%
+#   rename(kalender_navn = name...2,
+#          ejer_id = id,
+#          ejer_navn = name...6)
+# 
+# kalendere %>%
+#   select(calid, kalender_navn, public) %>% print()
 ```
 
 Kønsfordeling er baseret på opgørelse fra Danmarks Statistik med antallet 
