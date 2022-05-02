@@ -21,7 +21,7 @@ Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at
 arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver
 os lov til have vores egen server...)
 
-```{r}
+```{r biblioteker, echo =F, warning=F}
 library(plotly)
 library(rmarkdown)
 library(here)
@@ -31,15 +31,12 @@ library(knitr)
 library(tidyr)
 library(dplyr)
 library(httr)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
 ```
 
 
 Er vi online, eller er vi lokalt:
 
-```{r}
+```{r online_tjeck, echo = F}
 if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
   print("lokalt")
   client_secret <- keyring::key_get("libcal")
@@ -50,32 +47,17 @@ if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
 ```
 
 Få token:
-```{r}
+```{r get_token, echo=F}
 token_endpoint <- "https://kubkalender.kb.dk/1.1/oauth/token"
 client_id <- "110"
 token <- POST(token_endpoint,
               body = list(grant_type = "client_credentials",
                           client_id = client_id,
                           client_secret = client_secret)) %>% 
-  content()
-```
-
-Får vi overhovedet et token?
-```{r}
-token <- token %>% 
+  content() %>% 
   .[["access_token"]]
-
 ```
 
-først antal characterer i hemmeligheden
-```{r}
-print(nchar(client_secret))
-```
-
-så antal characterer i token.
-```{r}
-print(nchar(token))
-```
 
 
 Hent kalendere:
@@ -85,31 +67,29 @@ kalendere <- modify_url(
   url = "https://kubkalender.kb.dk",
   path = c("1.1", "calendars")
 ) %>% 
-  GET(add_headers('Authorization' = paste("bearer", token)))
-kalendere
-```
-
-
-```{r hent_kalendere_2}
-kalendere <- kalendere %>% content() %>% 
+  GET(add_headers('Authorization' = paste("bearer", token))) %>% 
+  content() %>% 
   as_tibble()
 
-print(kalendere)
-
 ```
 
+Første print af kalendere:
+```{r print_kalendere}
+print(kalendere)
+```
 
-```{r hent_kalendere_3}
-# kalendere %>% 
-# unnest_wider(calendars) %>% 
-#   unnest_wider(url) %>%
-#   unnest_wider(owner, names_repair = "universal") %>%
-#   rename(kalender_navn = name...2,
-#          ejer_id = id,
-#          ejer_navn = name...6)
-# 
-# kalendere %>%
-#   select(calid, kalender_navn, public) %>% print()
+Andet print af kalendere:
+```{r print_kalendere_3}
+kalendere <- kalendere %>%
+unnest_wider(calendars) %>%
+  unnest_wider(url) %>%
+  unnest_wider(owner, names_repair = "universal") %>%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...6)
+
+kalendere %>%
+  select(calid, kalender_navn, public) %>% print()
 ```
 
 Kønsfordeling er baseret på opgørelse fra Danmarks Statistik med antallet 
