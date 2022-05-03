@@ -1,0 +1,235 @@
+"";"id";"title";"allday";"start";"end";"description";"url_public";"url_admin";"location_id";"location_type";"location_name";"campus_id";"campus_name";"category_id";"category_name";"owner_id";"owner_name";"presenter";"calendar_id";"calendar_name";"calendar_public";"calendar_admin";"registration";"color";"featured_image";"more_info";"setup_time";"teardown_time";"has_registration_opened";"has_registration_closed";"physical_seats";"physical_seats_taken";"online_seats";"online_seats_taken";"seats_taken";"wait_list"
+"1";3498777;"Generelt dataværksted";FALSE;"2020-09-02T12:30:00+02:00";"2020-09-02T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498777";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498777";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"2";3498778;"Generelt dataværksted";FALSE;"2020-09-09T12:30:00+02:00";"2020-09-09T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498778";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498778";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"3";3498779;"Generelt dataværksted";FALSE;"2020-09-16T12:30:00+02:00";"2020-09-16T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498779";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498779";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"4";3498780;"Generelt dataværksted";FALSE;"2020-09-23T12:30:00+02:00";"2020-09-23T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498780";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498780";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"5";3513887;"Basic introduction to OpenRefine – cleaning messy data";FALSE;"2020-09-25T13:00:00+02:00";"2020-09-25T14:00:00+02:00";"<p>OpenRefine is a free tool, which can help you clean messy data. At the course you will import an excel-file to OpenRefine, work with several data cleaning options in OpenRefine, and export the file to excel after the cleaning. You will edit the data via OpenRefine&rsquo;s graphical user interface as well as via simple coding. In addition to these hands-on exercises, you will see examples of how OpenRefine can be used to enrich your data with data from online sources.</p>
+
+<p>The course is a basic introduction. You are not expected to have worked with OpenRefine before the course.</p>
+
+<p>Requirements:</p>
+
+<ul>
+	<li>Excel user (familiar with basic use of excel)</li>
+	<li>PC user (We are developing a course for Mac users but we are not ready yet)</li>
+</ul>
+
+<p>Your preparation before the course:</p>
+
+<ul>
+	<li>Install OpenRefine on your PC: <a href=""https://openrefine.org/download.html"">https://openrefine.org/download.html</a></li>
+	<li>If possible, bring your own excelfile with messy data. If you have specific questions about how to clean you data, please send the question and excel-file to datalab-kub@kb.dk&nbsp;at least two days before the course. If you don&rsquo;t have an excelfile with messy data the course instructor has a file you can use.</li>
+</ul>
+
+<p>After the course the participants have:</p>
+
+<ul>
+	<li>Imported an excel file to OpenRefine</li>
+	<li>Exported data from OpenRefine to excel</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s graphical user interface</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s simple coding (GREL and Regular Expressions)</li>
+	<li>Got a brief introduction to how OpenRefine can help you enrich your data with data from online sources.</li>
+</ul>";"https://kubkalender.kb.dk/event/3513887";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3513887";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Marianne Gauffriau & Erik Schwägermann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1600337889.png";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"6";3498781;"Generelt dataværksted";FALSE;"2020-09-30T12:30:00+02:00";"2020-09-30T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498781";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498781";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"7";3498782;"Generelt dataværksted";FALSE;"2020-10-07T12:30:00+02:00";"2020-10-07T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498782";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498782";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"8";3498783;"Generelt dataværksted";FALSE;"2020-10-14T12:30:00+02:00";"2020-10-14T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498783";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498783";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"9";3513889;"Basic introduction to OpenRefine – cleaning messy data";FALSE;"2020-10-20T10:00:00+02:00";"2020-10-20T11:00:00+02:00";"<p>OpenRefine is a free tool, which can help you clean messy data. At the course you will import an excel-file to OpenRefine, work with several data cleaning options in OpenRefine, and export the file to excel after the cleaning. You will edit the data via OpenRefine&rsquo;s graphical user interface as well as via simple coding. In addition to these hands-on exercises, you will see examples of how OpenRefine can be used to enrich your data with data from online sources.</p>
+
+<p>The course is a basic introduction. You are not expected to have worked with OpenRefine before the course.</p>
+
+<p>Requirements:</p>
+
+<ul>
+	<li>Excel user (familiar with basic use of excel)</li>
+	<li>PC user (We are developing a course for Mac users but we are not ready yet)</li>
+</ul>
+
+<p>Your preparation before the course:</p>
+
+<ul>
+	<li>Install OpenRefine on your PC: <a href=""https://openrefine.org/download.html"">https://openrefine.org/download.html</a></li>
+	<li>If possible, bring your own excelfile with messy data. If you have specific questions about how to clean you data, please send the question and excel-file to kubdatalab@kb.dk at least two days before the course. If you don&rsquo;t have an excelfile with messy data the course instructor has a file you can use.</li>
+</ul>
+
+<p>After the course the participants have:</p>
+
+<ul>
+	<li>Imported an excel file to OpenRefine</li>
+	<li>Exported data from OpenRefine to excel</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s graphical user interface</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s simple coding (GREL and Regular Expressions)</li>
+	<li>Got a brief introduction to how OpenRefine can help you enrich your data with data from online sources.</li>
+</ul>
+
+<div>No registration required - just show up!</div>";"https://kubkalender.kb.dk/event/3513889";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3513889";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Marianne Gauffriau & Erik Schwägermann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1600337889.png";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"10";3498784;"Generelt dataværksted";FALSE;"2020-10-21T12:30:00+02:00";"2020-10-21T14:30:00+02:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498784";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498784";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"11";3498785;"Generelt dataværksted";FALSE;"2020-10-28T12:30:00+01:00";"2020-10-28T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498785";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498785";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"12";3498786;"Python introduktion";FALSE;"2020-11-04T12:30:00+01:00";"2020-11-04T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);""></span></p>
+
+<p>Programmeringssproget Python er meget nyttigt til avanceret arbejde med store m&aelig;ngder af data.&nbsp;</p>
+
+<p>Vi begynder helt fra bunden, s&aring; alle kan v&aelig;re med!</p>
+
+<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);""></span></p>";"https://kubkalender.kb.dk/event/3498786";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498786";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"13";3498787;"Generelt dataværksted";FALSE;"2020-11-11T12:30:00+01:00";"2020-11-11T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498787";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498787";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"14";3513891;"Basic introduction to OpenRefine – cleaning messy data";FALSE;"2020-11-16T11:00:00+01:00";"2020-11-16T12:00:00+01:00";"<p>OpenRefine is a free tool, which can help you clean messy data. At the course you will import an excel-file to OpenRefine, work with several data cleaning options in OpenRefine, and export the file to excel after the cleaning. You will edit the data via OpenRefine&rsquo;s graphical user interface as well as via simple coding. In addition to these hands-on exercises, you will see examples of how OpenRefine can be used to enrich your data with data from online sources.</p>
+
+<p>The course is a basic introduction. You are not expected to have worked with OpenRefine before the course.</p>
+
+<p>Requirements:</p>
+
+<ul>
+	<li>Excel user (familiar with basic use of excel)</li>
+	<li>PC user (We are developing a course for Mac users but we are not ready yet)</li>
+</ul>
+
+<p>Your preparation before the course:</p>
+
+<ul>
+	<li>Install OpenRefine on your PC: <a href=""https://openrefine.org/download.html"">https://openrefine.org/download.html</a></li>
+	<li>If possible, bring your own excelfile with messy data. If you have specific questions about how to clean you data, please send the question and excel-file to kubdatalab@kb.dk at least two days before the course. If you don&rsquo;t have an excelfile with messy data the course instructor has a file you can use.</li>
+</ul>
+
+<p>After the course the participants have:</p>
+
+<ul>
+	<li>Imported an excel file to OpenRefine</li>
+	<li>Exported data from OpenRefine to excel</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s graphical user interface</li>
+	<li>Worked with simple data cleaning operations via OpenRefine&rsquo;s simple coding (GREL and Regular Expressions)</li>
+	<li>Got a brief introduction to how OpenRefine can help you enrich your data with data from online sources.</li>
+</ul>
+
+<ul>
+</ul>
+
+<p>No registration required - just show up!</p>";"https://kubkalender.kb.dk/event/3513891";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3513891";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Marianne Gauffriau & Erik Schwägermann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1600337889.png";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"15";3498788;"Python introduktion - 2";FALSE;"2020-11-18T12:30:00+01:00";"2020-11-18T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);""></span></p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p>Python er et meget anvendt programmeringssprog til avancerede analyser af store datas&aelig;t. Vi bygger videre p&aring; det introducerende kursus, og n&aring;r du g&aring;r herfra, har du stiftet bekendtskab med objektorienteret programmering.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);""></span></p>";"https://kubkalender.kb.dk/event/3498788";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498788";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"16";3608436;"Høst af data fra webben med Python";FALSE;"2020-11-23T12:30:00+01:00";"2020-11-23T14:30:00+01:00";"<p>Hvordan kan man bruge Python til at h&oslash;ste data fra hjemmesider? Og hvordan skriver man et script der er generelt, s&aring; man ikke skal lave et for hver eneste side man vil h&oslash;ste? Det l&aelig;rer du her!</p>";"https://kubkalender.kb.dk/event/3608436";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3608436";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"17";3498789;"Generelt dataværksted";FALSE;"2020-11-25T12:30:00+01:00";"2020-11-25T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498789";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498789";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"18";3498481;"Ghostly geography and Chinas most haunted places, part 2";FALSE;"2020-11-25T13:00:00+01:00";"2020-11-25T16:00:00+01:00";"<p>Explore the concept of digital text analysis and examine with Python what place names are associated with haunted places in Chinese popular literature? Can the analysis be visualized on a digital map (GIS) and disseminated using ArcGIS online?</p>
+
+<p>Older and modern movies, TV series and novels from China are full of ghosts. For long periods, the Chinese Communist Party has sought to combat most forms of religiosity &mdash; religion was, according to Karl Marx, &quot;opium for the people&quot;. Can we learn more about the existence of ghosts in modern Chinese popular culture &mdash; and in historical memory &mdash; by drawing geographical maps of their doings and barn?</p>
+
+<p>&nbsp;</p>
+
+<h3>Purpose</h3>
+
+<p>The purpose is to sow seeds of curiosity in students from Asian Studies around trends and technologies in digital humanities and its application in the analysis of Chinese popular literature.</p>
+
+<p>&nbsp;</p>
+
+<h3>Target group</h3>
+
+<p>The target group is students from Asian Studies</p>
+
+<p>&nbsp;</p>
+
+<h3>Learning experience</h3>
+
+<p>The participants can get:</p>
+
+<ul>
+	<li>A nice informal academic learning experience</li>
+	<li>A knowledge of genre features of Chinese Literature</li>
+	<li>A knowledge of and understanding of pipelines in digital text analysis:</li>
+	<li>Webscraping</li>
+	<li>GIS</li>
+	<li>Word frequency, n-grams, correlation, and named-entity recognition</li>
+</ul>
+
+<h3>Time and place</h3>
+
+<p>The workshop will run over two days:</p>
+
+<p>18 November from 1 pm. - 4 pm.</p>
+
+<p>25 November from 1 pm. - 4 pm.</p>
+
+<p>&nbsp;</p>
+
+<h3>Software</h3>
+
+<p>Python, Jupyter Notebook, and ArcGIS Online. The software is installed on six computers in the Datalab at KUB South Campus. Participants can share these computers, but I would also be so fine if participants would bring their own computer. Just be aware that Anaconda have to be installed prior to the workshops. Download Anaconda from this page: <a href=""https://www.anaconda.com/products/individual"">https://www.anaconda.com/products/individual</a></p>
+
+<h3>Instructors</h3>
+
+<p>Bo &AElig;renlund S&oslash;rensen, postdoc at UCHP with knowledge of digital text analysis, Chinese culture, literature, and politics <a href=""https://tors.ku.dk/ansatte/?pure=da/persons/247968"">https://tors.ku.dk/ansatte/?pure=da/persons/247968</a></p>
+
+<p>Lars Kj&aelig;r, information specialist at CUL with knowledge of digital text analysis and experience with teaching digital humanities to the target group <a href=""https://kub.kb.dk/prf.php?account_id=65132"">https://kub.kb.dk/prf.php?account_id=65132</a></p>
+
+<p>&nbsp;</p>
+
+<p>Participants must prepare for:</p>
+
+<p>that there are two workshops and that the instructors expect them to participate in both workshops</p>
+
+<p>that the workshops are voluntary and that no ECTS points is earned</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Please contact the instructors if you want to participate.&nbsp;</strong></p>";"https://kubkalender.kb.dk/event/3498481";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498481";14429;0;"KUB Datalab - Sdr Campus";39;"KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S";32027;"Datalab";9876;"Lars Kjær";"";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"19";3498475;"Webscraping, regex, and sentiment analysis of quotations";FALSE;"2020-11-27T10:00:00+01:00";"2020-11-27T12:00:00+01:00";"<p>This workshop deals with webscraping and sentiment analysis and examens how it possible to create a pipeline that begins by havesting, goes through extracting quotations using Regex&nbsp;and endswith an sentiment analysis.</p>
+
+<p>Target group: Digital Culture at IKK</p>
+
+<p>Software: Jupyter Notebook</p>
+
+<p>Please contact Lars Kj&aelig;r, lakj@kb.dk, for more information about the workshop</p>";"https://kubkalender.kb.dk/event/3498475";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498475";14429;0;"KUB Datalab - Sdr Campus";39;"KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S";32027;"Datalab";9876;"Lars Kjær";"";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"20";3608437;"Introduktion til LaTeX";FALSE;"2020-11-30T12:30:00+01:00";"2020-11-30T14:30:00+01:00";"<p>Introduktion til tekstformatering med&nbsp;LaTeX.</p>
+
+<p>LaTeX er et opm&aelig;rkningssprog til tekstformatering lige som fx HTML. Det vil sige, at man oftest under skrivning af en tekst kun angiver en strukturel/logisk beskrivelse (afsnit, fremh&aelig;vet, fodnote osv.), mens den stilm&aelig;ssige udformning (layout) af disse ting defineres s&aelig;rskilt.</p>
+
+<p>LaTeX har is&aelig;r vundet indpas til tekstproduktion inden for akademiske kredse;&nbsp;specielt &oslash;konomi, matematik, kemi og datalogi. Det skyldes blandt andet, at det er let at skrive symbolske formler s&aring;som matematiske formler.</p>
+
+<p>L&aelig;s mere om LaTeX her:<br />
+<a href=""https://www.latex-project.org/"" target=""_blank"">https://www.latex-project.org/</a></p>";"https://kubkalender.kb.dk/event/3608437";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3608437";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Christian Knudsen";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/55/1568984164.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"21";3498790;"Generelt dataværksted";FALSE;"2020-12-02T12:30:00+01:00";"2020-12-02T14:30:00+01:00";"<p><span style=""font-family: Arial, Helvetica, Verdana; font-size: 12px; background-color: rgb(245, 245, 245);"">Denne gang fokuserer vi ikke p&aring; specielle programmer, men koncentrerer os helt om data og hvad man kan g&oslash;re med dem. Tag dine egne data med, og lad os sammen se hvad vi kan f&aring; ud af dem.</span></p>";"https://kubkalender.kb.dk/event/3498790";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498790";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Henrik Hornemann";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"22";3498466;"Datasprint 2020 - Copenhagen";FALSE;"2020-12-03T09:00:00+01:00";"2020-12-03T17:00:00+01:00";"<h2>The Danish Borderland &ndash;<br />
+mining political opinions in 19th century newspapers</h2>
+
+<h4>The datasprint 2020 will explore the political rhetoric in Denmark</h4>
+
+<p>We invite students and staff from Danish universities to join staff from the Royal Danish Library to look into the historical Danish newspapers between 1830 &ndash; 1870, and examine the kind of language writers have used to express a political opinion that might be qualified as belonging to certain political currents. We will trace the political opinion by applying digital methods to the extensive newspaper collection at the Royal Danish Library.</p>
+
+<p>&nbsp;</p>
+
+<p style=""text-align: center;""><a href=""https://datasprint2020.kb.dk/"" target=""_blank"">Press here to read more and to sign up&nbsp;</a></p>
+
+<p><a href=""https://datasprint2020.kb.dk/"" target=""_blank""><img alt=""Datasprint KUB Datalab"" src=""https://libapps-eu.s3.amazonaws.com/accounts/65132/images/Datasprint2020_Poster3.jpg"" style=""width: 100%;"" /></a></p>";"https://kubkalender.kb.dk/event/3498466";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498466";0;0;"";39;"KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S";32027;"Datalab";9876;"Lars Kjær";"";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"23";3498791;"Introduktion til R - for absolutte begyndere - ONLINE";FALSE;"2020-12-09T12:30:00+01:00";"2020-12-09T14:30:00+01:00";"<p>R er et generelt programmeringssprog, der er s&aelig;rligt velegnet til analyse og visualisering af data. Vi starter helt fra bunden, s&aring; alle kan v&aelig;re med.</p>
+
+<p>Grundet COVID-19 restriktioner, gennemf&oslash;res kurset online.&nbsp;</p>";"https://kubkalender.kb.dk/event/3498791";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498791";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";33562;"Analysis";16332;"Christian Knudsen";"Christian Knudsen";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";TRUE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;TRUE;TRUE;50;9;0;0;9;TRUE
+"24";3498791;"Introduktion til R - for absolutte begyndere - ONLINE";FALSE;"2020-12-09T12:30:00+01:00";"2020-12-09T14:30:00+01:00";"<p>R er et generelt programmeringssprog, der er s&aelig;rligt velegnet til analyse og visualisering af data. Vi starter helt fra bunden, s&aring; alle kan v&aelig;re med.</p>
+
+<p>Grundet COVID-19 restriktioner, gennemf&oslash;res kurset online.&nbsp;</p>";"https://kubkalender.kb.dk/event/3498791";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3498791";4360;0;"KUB Nord: Data Lab";41;"KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N";32027;"Datalab";16332;"Christian Knudsen";"Christian Knudsen";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";TRUE;"#18E0F2";"//lcimages-eu.s3.amazonaws.com/data/feat_img/1069/56/1516193911.jpg";"";0;0;TRUE;TRUE;50;9;0;0;9;TRUE
+"25";3650350;"Text analysis with AntConc - ONLINE - No vacant seats!";FALSE;"2020-12-17T11:30:00+01:00";"2020-12-17T13:00:00+01:00";"<p><span style=""color:#e74c3c;"">No vacant seats!&nbsp;</span></p>
+
+<p>AntConc is a program design to look into texts through text analyzing tools like concordance, collocates, and n-gram clusters.</p>
+
+<p>When AntConc is installed, you can use text files stored on your computer, and after the texts have been analyzed, you can export the data, for example to an Excel file.</p>
+
+<p><a href=""https://antconc.en.lo4d.com/windows"">Download AntConc for windows</a></p>
+
+<p>For more information and registration, please contact Lars Kj&aelig;r, lakj@kb.dk, one day before the event.</p>";"https://kubkalender.kb.dk/event/3650350";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3650350";0;0;"";39;"KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S";33562;"Analysis";9876;"Lars Kjær";"Muhamed Fajkovic";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
+"26";3650350;"Text analysis with AntConc - ONLINE - No vacant seats!";FALSE;"2020-12-17T11:30:00+01:00";"2020-12-17T13:00:00+01:00";"<p><span style=""color:#e74c3c;"">No vacant seats!&nbsp;</span></p>
+
+<p>AntConc is a program design to look into texts through text analyzing tools like concordance, collocates, and n-gram clusters.</p>
+
+<p>When AntConc is installed, you can use text files stored on your computer, and after the texts have been analyzed, you can export the data, for example to an Excel file.</p>
+
+<p><a href=""https://antconc.en.lo4d.com/windows"">Download AntConc for windows</a></p>
+
+<p>For more information and registration, please contact Lars Kj&aelig;r, lakj@kb.dk, one day before the event.</p>";"https://kubkalender.kb.dk/event/3650350";"https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3650350";0;0;"";39;"KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S";32027;"Datalab";9876;"Lars Kjær";"Muhamed Fajkovic";6416;"KUB Datalab";"https://kubkalender.kb.dk/calendar/datalab";"https://kubkalender.kb.dk/admin/calendar/6416";FALSE;"#18E0F2";"";"";0;0;NA;NA;NA;NA;NA;NA;NA;NA
