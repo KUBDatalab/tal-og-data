@@ -125,4 +125,11 @@ høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen i
 Det vil sige, at der sagtens kan have været flere events i 2020 end 24. 
 Fremadrettet skulle data gerne være gemt for eftertiden her.
 
+Så er der de fulde detaljer. Der er hentet data for 2019, 2020 og 2021. 
 
+For 2022 bliver vi nødt til at være tænksomme. Det ser ud til at detaljer om
+brugerne anonymiseres og slettes når de er ældre end 6 måneder.
+
+Så hvordan får vi fat på det, og bevarer det? Altså ikke de personfølsomme, men
+de anonymiserede, på en måde vi kan arbejde med dem.
+Vi er nok nødt til løbende at få noget ud og gemt.

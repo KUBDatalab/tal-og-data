@@ -15,7 +15,6 @@ get_token <- function(client_secret){
 }
 
 
-
 # Henter de 500 første events i year for kalenderen med id'et calid
 # returnerer liste med events.
 get_events <- function(calid, year){
@@ -33,3 +32,17 @@ get_events <- function(calid, year){
   GET(url, add_headers('Authorization' = paste("bearer", token))) %>% 
     content()
 }
+
+# Henter detaljer om et givet event id
+get_event_details <- function(id){
+  url <- modify_url(
+      url = "https://kubkalender.kb.dk",
+      path = c("api", "1.1", "events", id, "registrations"),
+      query = list(
+        waitlist = 1
+      )
+  )
+  GET(url, add_headers('Authorization' = paste("bearer", token))) %>% 
+    content()
+}
+
