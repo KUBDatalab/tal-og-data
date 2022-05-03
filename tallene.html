@@ -173,80 +173,31 @@ pre code {
 
 
 <p>Vi henter en gang om dagen, kl. 1 om natten UTC.</p>
-<p>Sidst opdateret</p>
+<p>Sidst opdateret 2022-05-03 08:38:06</p>
 <p>Vi trækker data gennem apien i vores kalendersystem og genererer denne rapport/oversigt/noget.</p>
 <p>Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver os lov til have vores egen server…)</p>
-<pre><code>## Loading required package: ggplot2</code></pre>
-<pre><code>## 
-## Attaching package: &#39;plotly&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:ggplot2&#39;:
-## 
-##     last_plot</code></pre>
-<pre><code>## The following object is masked from &#39;package:stats&#39;:
-## 
-##     filter</code></pre>
-<pre><code>## The following object is masked from &#39;package:graphics&#39;:
-## 
-##     layout</code></pre>
-<pre><code>## here() starts at /Users/runner/work/tal-og-data/tal-og-data</code></pre>
-<pre><code>## 
-## Attaching package: &#39;dplyr&#39;</code></pre>
-<pre><code>## The following objects are masked from &#39;package:stats&#39;:
-## 
-##     filter, lag</code></pre>
-<pre><code>## The following objects are masked from &#39;package:base&#39;:
-## 
-##     intersect, setdiff, setequal, union</code></pre>
-<pre><code>## 
-## Attaching package: &#39;httr&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:plotly&#39;:
-## 
-##     config</code></pre>
-<p>Er vi online, eller er vi lokalt:</p>
-<pre><code>## [1] &quot;online&quot;</code></pre>
-<p>Få token:</p>
-<p>Hent kalendere:</p>
-<pre class="r"><code>kalendere &lt;- modify_url(
-  url = &quot;https://kubkalender.kb.dk&quot;,
-  path = c(&quot;1.1&quot;, &quot;calendars&quot;)
-) %&gt;% 
-  GET(add_headers(&#39;Authorization&#39; = paste(&quot;bearer&quot;, token))) %&gt;% 
-  content() %&gt;% 
-  as_tibble()</code></pre>
-<p>Første print af kalendere:</p>
-<pre class="r"><code>print(kalendere)</code></pre>
-<pre><code>## # A tibble: 6 × 1
-##   calendars       
-##   &lt;list&gt;          
-## 1 &lt;named list [5]&gt;
-## 2 &lt;named list [5]&gt;
-## 3 &lt;named list [5]&gt;
-## 4 &lt;named list [5]&gt;
-## 5 &lt;named list [5]&gt;
-## 6 &lt;named list [5]&gt;</code></pre>
-<p>Andet print af kalendere:</p>
-<pre class="r"><code>kalendere &lt;- kalendere %&gt;%
-unnest_wider(calendars) %&gt;%
-  unnest_wider(url) %&gt;%
-  unnest_wider(owner, names_repair = &quot;universal&quot;) %&gt;%
-  rename(kalender_navn = name...2,
-         ejer_id = id,
-         ejer_navn = name...6)</code></pre>
-<pre><code>## New names:
-## • `name` -&gt; `name...2`
-## • `name` -&gt; `name...6`</code></pre>
-<pre class="r"><code>kalendere %&gt;%
-  select(calid, kalender_navn, public) %&gt;% print()</code></pre>
-<pre><code>## # A tibble: 6 × 3
-##   calid kalender_navn                                 public                    
-##   &lt;int&gt; &lt;chr&gt;                                         &lt;chr&gt;                     
-## 1  6646 Afdelingen for Forskerservice                 https://kubkalender.kb.dk…
-## 2    55 Det Samfundsvidenskabelige Fakultetsbibliotek https://kubkalender.kb.dk…
-## 3  6416 KUB Datalab                                   https://kubkalender.kb.dk…
-## 4  7422 KUB Sund/Science                              https://kubkalender.kb.dk…
-## 5    54 KUB, Søndre Campus                            https://kubkalender.kb.dk…
-## 6  7754 liT.house                                     https://kubkalender.kb.dk…</code></pre>
-<p>Kønsfordeling er baseret på opgørelse fra Danmarks Statistik med antallet af mænd og kvinder der har et givet navn pr 1. januar 2021. Nogle navne kan bruges af både mænd og kvinder. De optræder som et vægtet gennemsnit af fordelingen. Enkelte navne optræder ikke i Danmarks statistik. De optræder som NA</p>
+<p>Hvis data for events for foregående år ligger i systemet allerede.</p>
+<p>Så skal vi have fat på det aktuelle år.</p>
+<p>dernæst indlæser vi alle events for alle år:</p>
+<pre class="r"><code>all_events &lt;- list.files(&quot;data/event_data/&quot;, 
+           pattern = &quot;events_\\d{4}\\.csv&quot;,
+           full.names = T) %&gt;% 
+  map_df(~read.csv2(.))</code></pre>
+<p>Og så kan vi lave vores første output:</p>
+<pre class="r"><code>all_events %&gt;% 
+  group_by(year(start)) %&gt;% 
+  distinct(id) %&gt;% 
+  summarise(antal = n())</code></pre>
+<pre><code>## # A tibble: 5 × 2
+##   `year(start)` antal
+##           &lt;dbl&gt; &lt;int&gt;
+## 1          2018     1
+## 2          2019     2
+## 3          2020    24
+## 4          2021   110
+## 5          2022    63</code></pre>
+<p>Antal events i den ønskede kalender ofr de forskellige år.</p>
+<p>BEMÆRK! der slettes events i kalenderen. Da disse data først er begyndt at blive høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen inden. Det vil sige, at der sagtens kan have været flere events i 2020 end 24. Fremadrettet skulle data gerne være gemt for eftertiden her.</p>
 
 
 
