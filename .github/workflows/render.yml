@@ -17,7 +17,10 @@ jobs:
       - name: Install packages
         run: |
           Rscript -e 'install.packages("rmarkdown")'
+          Rscript -e 'install.packages("purrr")'
+          Rscript -e 'install.packages("lubridate")'
           Rscript -e 'install.packages("here")'
+          Rscript -e 'install.packages("tibble")'
           Rscript -e 'install.packages("ggplot2")'
           Rscript -e 'install.packages("plotly")'
           Rscript -e 'install.packages("knitr")'
