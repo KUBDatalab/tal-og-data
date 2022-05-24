@@ -27,6 +27,9 @@ jobs:
           Rscript -e 'install.packages("tidyr")'
           Rscript -e 'install.packages("dplyr")'
           Rscript -e 'install.packages("httr")'
+          Rscript -e 'install.packages("stringr")'
+          Rscript -e 'install.packages("readr")'
+          Rscript -e 'install.packages("openssl")'
       - name: Render README
         env: 
           TEST_SECRET: ${{ secrets.TEST_SECRET}}
