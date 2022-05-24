@@ -229,11 +229,32 @@ høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen i
 Det vil sige, at der sagtens kan have været flere events i 2020 end 24. 
 Fremadrettet skulle data gerne være gemt for eftertiden her.
 
-Så er der de fulde detaljer. Der er hentet data for 2019, 2020 og 2021. 
+Hvordan med kategorierne over tid:
+```{r}
+all_events %>% 
+  group_by(year(start)) %>% 
+  distinct(id) %>% 
+  summarise(antal = n())
+```
+Bemærk at en del kurser optræder i mere end en kategori. Så forvent
+ikke at tallene summer til hvad du forventer.
 
-For 2022 bliver vi nødt til at være tænksomme. Det ser ud til at detaljer om
-brugerne anonymiseres og slettes når de er ældre end 6 måneder.
-
-Så hvordan får vi fat på det, og bevarer det? Altså ikke de personfølsomme, men
-de anonymiserede, på en måde vi kan arbejde med dem.
-Vi er nok nødt til løbende at få noget ud og gemt.
+Antal deltagere (som altså ikke nødvendigvis har deltaget, men har fået en af de udbudte pladser, forslag til alternativt ord modtages med taknemmelighed) og antal tilmeldinger på venteliste:
+```{r}
+all_events %>% 
+  distinct(id, .keep_all = T) %>% 
+  select(id, start) %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id,start,liste) %>% 
+  group_by(id, start, liste) %>% 
+  summarise(noget = n()) %>% 
+  ungroup() %>% 
+  arrange(desc(noget)) %>% 
+  pivot_wider(names_from = liste,
+             values_from = noget,
+             values_fill = 0) %>% 
+  group_by(år = year(start)) %>% 
+  summarise(venteliste = sum(venteliste),
+            deltager = sum(deltager))
+```
+Og husk! Der er forsvundet data fra kalendersystemet, så vi havde en del flere deltagere i 2020.
