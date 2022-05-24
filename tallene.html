@@ -173,16 +173,62 @@ pre code {
 
 
 <p>Vi henter en gang om dagen, kl. 1 om natten UTC.</p>
-<p>Sidst opdateret 2022-05-24 08:35:53</p>
+<p>Sidst opdateret 2022-05-24 13:24:08</p>
 <p>Vi trækker data gennem apien i vores kalendersystem og genererer denne rapport/oversigt/noget.</p>
 <p>Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver os lov til have vores egen server…)</p>
 <p>Hvis data for events for foregående år ligger i systemet allerede.</p>
-<p>Så skal vi have fat på det aktuelle år.</p>
+<p>Så skal vi have fat på det aktuelle år. Vi skriver til csv - så bliver den gamle og den nye csv-fil nemlig behandlet ens.</p>
+<pre><code>## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
+<pre><code>## Rows: 140 Columns: 37
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;;&quot;
+## chr  (14): title, description, url_public, url_admin, location_name, campus_...
+## dbl  (14): id, location_id, location_type, campus_id, category_id, owner_id,...
+## lgl   (7): allday, campus_1, registration, more_info, has_registration_opene...
+## dttm  (2): start, end
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<p>Så henter vi de allerede registrerede events for det aktuelle år, hvis altså der er nogen, og merger dem med dem vi lige hentede, og skriver dem til fil.</p>
+<pre class="r"><code>data_filer &lt;- dir(&quot;data/event_data/&quot;)
+if(paste0(&quot;events_&quot;, aktuelt_year, &quot;.csv&quot;) %in% data_filer){
+  past_events &lt;- read_csv2(file=paste0(&quot;data/event_data/events_&quot;, aktuelt_year, &quot;.csv&quot;))
+  aktuelt_events &lt;- rbind(aktuelt_events, past_events) %&gt;% distinct()
+}
+aktuelt_events %&gt;% 
+  write_csv2(file=paste0(&quot;data/event_data/events_&quot;,i,&quot;.csv&quot;))</code></pre>
 <p>dernæst indlæser vi alle events for alle år:</p>
 <pre class="r"><code>all_events &lt;- list.files(&quot;data/event_data/&quot;, 
            pattern = &quot;events_\\d{4}\\.csv&quot;,
            full.names = T) %&gt;% 
   map_df(~read.csv2(.))</code></pre>
+<p>Nu trækker vi så de filer der skal gemmes. Først laver vi en liste af alle de events vi godt vil have data på</p>
+<pre class="r"><code>alle_events &lt;- all_events %&gt;% 
+  select(id, end) %&gt;% 
+  mutate(maaned = month(end),
+         aar = year(end)) %&gt;% 
+  mutate(maaned = str_pad(maaned, 2, side=&quot;left&quot;, pad=&quot;0&quot;)) %&gt;% 
+  mutate(periode = str_c(&quot;event_details_&quot;, aar,&quot;_&quot;, maaned, &quot;.csv&quot;)) %&gt;% 
+  distinct()</code></pre>
+<p>Nogen af dem er der allerede:</p>
+<pre class="r"><code>hvilke_er_der_allerede &lt;- list.files(&quot;data/event_data/&quot;)</code></pre>
+<p>Så er der nogen vi ikke ønsker at gemme filer på (endnu). Det er indeværende måned, og alle fremtidige måneder:</p>
+<pre class="r"><code>current_events &lt;- alle_events %&gt;% 
+  filter(end &gt; as_datetime(floor_date(now(), &#39;month&#39;)))</code></pre>
+<p>Det her er så de events vi godt vil have gemt - hvis ikke de allerede er det:</p>
+<pre class="r"><code>old_events &lt;- setdiff(alle_events, current_events)</code></pre>
+<p>Og her har vi dem vi faktisk vil have gemt - fordi de ikke er gemt allerede.</p>
+<pre class="r"><code>de_der_skal_gemmes &lt;- old_events %&gt;% 
+  filter(!(periode %in% hvilke_er_der_allerede))</code></pre>
+<p>Dem looper vi så igennem, og får gemt data:</p>
+<pre class="r"><code>for(peri in unique(de_der_skal_gemmes$periode)){
+  de_der_skal_gemmes %&gt;% 
+    filter(periode == peri) %&gt;% 
+    pull(id) %&gt;% 
+    map_dfr(., get_registrants) %&gt;% 
+    write_csv2(file = paste0(&quot;data/event_data/&quot;, peri))
+}</code></pre>
+<p>Nu mangler vi så at få hentet data på de aktuelle events. De der er i indeværende måned - og fremtidige.</p>
 <p>Og så kan vi lave vores første output:</p>
 <pre class="r"><code>all_events %&gt;% 
   group_by(year(start)) %&gt;% 
