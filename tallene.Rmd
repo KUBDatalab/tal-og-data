@@ -104,17 +104,17 @@ get_events(kalender_id, i) %>%
     select(-future_dates, -seats, -geolocation) %>% 
     mutate(start = as_datetime(start),
            end = as_datetime(end)) %>% 
-  write_csv2("data/event_data/aktuelt_event.csv")
+  write_csv2("data/event_data/aktuelt_events.csv")
+aktuelt_events <- read_csv2("data/event_data/aktuelt_events.csv")
 ```
 
 Så henter vi de allerede registrerede events for det aktuelle år, hvis altså
 der er nogen, og merger dem
-med dem vi lige hentede, og skriver dem til fil:
+med dem vi lige hentede, og skriver dem til fil.
 ```{r}
 data_filer <- dir("data/event_data/")
 if(paste0("events_", aktuelt_year, ".csv") %in% data_filer){
   past_events <- read_csv2(file=paste0("data/event_data/events_", aktuelt_year, ".csv"))
-  aktuelt_events <- read_csv2("data/event_data/aktuelt_event.csv")
   aktuelt_events <- rbind(aktuelt_events, past_events) %>% distinct()
 }
 aktuelt_events %>% 
