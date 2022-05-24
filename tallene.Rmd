@@ -34,12 +34,15 @@ library(tibble)
 library(plotly)
 library(rmarkdown)
 library(here)
+library(stringr)
 library(ggplot2)
 library(plotly)
 library(knitr)
 library(tidyr)
 library(dplyr)
 library(httr) 
+library(readr)
+library(openssl)
 ```
 
 
@@ -63,7 +66,6 @@ kalendere <- modify_url(
   GET(add_headers('Authorization' = paste("bearer", token))) %>% 
   content() %>% 
   as_tibble()
-
 ```
 
 ```{r get_calid, echo=F, message=F}
@@ -85,7 +87,8 @@ kalender_id <- kalendere %>%
 Hvis data for events for foregående år ligger i systemet allerede.
 
 Så skal vi have fat på det aktuelle år.
-
+Vi skriver til csv - så bliver den gamle og den nye csv-fil nemlig 
+behandlet ens.
 ```{r hent_nye_events, echo=F}
 i <- aktuelt_year
 get_events(kalender_id, i) %>% 
@@ -98,9 +101,26 @@ get_events(kalender_id, i) %>%
     unnest_wider(calendar, names_sep = "_") %>% 
     unnest_longer(category) %>% 
     unnest_wider(category, names_sep = "_") %>% 
-    select(-future_dates, -seats, -geolocation) %>% #seats er den gamle opgørelse. Nu bruger vi fysiske og onlineseats.
-    write.csv2(file=paste0("data/event_data/events_",i,".csv"))
+    select(-future_dates, -seats, -geolocation) %>% 
+    mutate(start = as_datetime(start),
+           end = as_datetime(end)) %>% 
+  write_csv2("data/event_data/aktuelt_event.csv")
 ```
+
+Så henter vi de allerede registrerede events for det aktuelle år, hvis altså
+der er nogen, og merger dem
+med dem vi lige hentede, og skriver dem til fil:
+```{r}
+data_filer <- dir("data/event_data/")
+if(paste0("events_", aktuelt_year, ".csv") %in% data_filer){
+  past_events <- read_csv2(file=paste0("data/event_data/events_", aktuelt_year, ".csv"))
+  aktuelt_events <- read_csv2("data/event_data/aktuelt_event.csv")
+  aktuelt_events <- rbind(aktuelt_events, past_events) %>% distinct()
+}
+aktuelt_events %>% 
+  write_csv2(file=paste0("data/event_data/events_",i,".csv"))
+```
+
 
 dernæst indlæser vi alle events for alle år:
 ```{r}
@@ -109,6 +129,57 @@ all_events <- list.files("data/event_data/",
            full.names = T) %>% 
   map_df(~read.csv2(.))
 ```
+
+Nu trækker vi så de filer der skal gemmes. Først laver vi 
+en liste af alle de events vi godt vil have data på
+```{r}
+alle_events <- all_events %>% 
+  select(id, end) %>% 
+  mutate(maaned = month(end),
+         aar = year(end)) %>% 
+  mutate(maaned = str_pad(maaned, 2, side="left", pad="0")) %>% 
+  mutate(periode = str_c("event_details_", aar,"_", maaned, ".csv")) %>% 
+  distinct()
+```
+
+Nogen af dem er der allerede:
+```{r}
+hvilke_er_der_allerede <- list.files("data/event_data/")
+```
+
+Så er der nogen vi ikke ønsker at gemme filer på (endnu).
+Det er indeværende måned, og alle fremtidige måneder:
+```{r}
+current_events <- alle_events %>% 
+  filter(end > as_datetime(floor_date(now(), 'month')))
+```
+
+Det her er så de events vi godt vil have gemt - hvis ikke de allerede 
+er det:
+```{r}
+old_events <- setdiff(alle_events, current_events)
+```
+
+Og her har vi dem vi faktisk vil have gemt - fordi de ikke er gemt
+allerede.
+```{r}
+de_der_skal_gemmes <- old_events %>% 
+  filter(!(periode %in% hvilke_er_der_allerede))
+```
+
+Dem looper vi så igennem, og får gemt data:
+```{r}
+for(peri in unique(de_der_skal_gemmes$periode)){
+  de_der_skal_gemmes %>% 
+    filter(periode == peri) %>% 
+    pull(id) %>% 
+    map_dfr(., get_registrants) %>% 
+    write_csv2(file = paste0("data/event_data/", peri))
+}
+```
+
+Nu mangler vi så at få hentet data på de aktuelle events.
+De der er i indeværende måned - og fremtidige.
 
 Og så kan vi lave vores første output:
 ```{r}
