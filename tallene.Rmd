@@ -181,6 +181,39 @@ for(peri in unique(de_der_skal_gemmes$periode)){
 Nu mangler vi så at få hentet data på de aktuelle events.
 De der er i indeværende måned - og fremtidige.
 
+for at få ensartet data indlæst - trækker vi detaljer på 
+current events, og gemmer som fil.
+```{r}
+current_events %>% 
+  pull(id) %>% 
+  map_dfr(., get_registrants) %>% 
+  write_csv2(file = "data/event_data/current_events_details.csv")
+```
+
+Så henter vi listen over alle event detaljer filerne, og 
+tilføjer current_events.csv, som vi lige lavede:
+```{r}
+filer <- list.files("data/event_data/",
+           pattern = "event_details_\\d{4}_\\d{2}\\.csv",
+           full.names = T)
+
+filer <- c(filer, "data/event_data/current_events_details.csv")
+```
+
+Og så indlæser vi alle eventsdetaljefilerne
+```{r}
+all_events_details <- filer %>% 
+  map_df(~read_csv2(., col_types = "ddccTccd"))
+```
+
+Og gemmer den som fil - mest så vi efterfølgende kan trække den
+ud og arbejde med den lokalt.
+```{r}
+write_csv2(all_events_details, file = "data/event_data/all_event_details")
+
+```
+
+
 Og så kan vi lave vores første output:
 ```{r}
 all_events %>% 
