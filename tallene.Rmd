@@ -210,8 +210,8 @@ all_events_details <- filer %>%
 Og gemmer den som fil - mest så vi efterfølgende kan trække den
 ud og arbejde med den lokalt.
 ```{r}
-write_csv2(all_events_details, file = "data/event_data/all_event_details")
-master_data <- read_csv2("data/event_data/all_event_details")
+write_csv2(all_events_details, file = "data/event_data/all_event_details.csv")
+master_data <- read_csv2("data/event_data/all_event_details.csv")
 ```
 
 
