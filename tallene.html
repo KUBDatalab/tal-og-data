@@ -173,7 +173,7 @@ pre code {
 
 
 <p>Vi henter en gang om dagen, kl. 1 om natten UTC.</p>
-<p>Sidst opdateret 2022-05-24 14:36:03</p>
+<p>Sidst opdateret 2022-05-25 07:14:04</p>
 <p>Vi trækker data gennem apien i vores kalendersystem og genererer denne rapport/oversigt/noget.</p>
 <p>Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver os lov til have vores egen server…)</p>
 <p>Hvis data for events for foregående år ligger i systemet allerede.</p>
@@ -277,7 +277,18 @@ filer &lt;- c(filer, &quot;data/event_data/current_events_details.csv&quot;)</co
 ## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
 ## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
 <p>Og gemmer den som fil - mest så vi efterfølgende kan trække den ud og arbejde med den lokalt.</p>
-<pre class="r"><code>write_csv2(all_events_details, file = &quot;data/event_data/all_event_details&quot;)</code></pre>
+<pre class="r"><code>write_csv2(all_events_details, file = &quot;data/event_data/all_event_details&quot;)
+master_data &lt;- read_csv2(&quot;data/event_data/all_event_details&quot;)</code></pre>
+<pre><code>## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
+<pre><code>## Rows: 1676 Columns: 8
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;;&quot;
+## chr  (4): registration_type, email, attendance, liste
+## dbl  (3): event_id, booking_id, køn
+## dttm (1): registered_date
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 <p>Og så kan vi lave vores første output:</p>
 <pre class="r"><code>all_events %&gt;% 
   group_by(year(start)) %&gt;% 
@@ -293,9 +304,47 @@ filer &lt;- c(filer, &quot;data/event_data/current_events_details.csv&quot;)</co
 ## 5          2022    62</code></pre>
 <p>Antal events i den ønskede kalender ofr de forskellige år.</p>
 <p>BEMÆRK! der slettes events i kalenderen. Da disse data først er begyndt at blive høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen inden. Det vil sige, at der sagtens kan have været flere events i 2020 end 24. Fremadrettet skulle data gerne være gemt for eftertiden her.</p>
-<p>Så er der de fulde detaljer. Der er hentet data for 2019, 2020 og 2021.</p>
-<p>For 2022 bliver vi nødt til at være tænksomme. Det ser ud til at detaljer om brugerne anonymiseres og slettes når de er ældre end 6 måneder.</p>
-<p>Så hvordan får vi fat på det, og bevarer det? Altså ikke de personfølsomme, men de anonymiserede, på en måde vi kan arbejde med dem. Vi er nok nødt til løbende at få noget ud og gemt.</p>
+<p>Hvordan med kategorierne over tid:</p>
+<pre class="r"><code>all_events %&gt;% 
+  group_by(year(start)) %&gt;% 
+  distinct(id) %&gt;% 
+  summarise(antal = n())</code></pre>
+<pre><code>## # A tibble: 5 × 2
+##   `year(start)` antal
+##           &lt;dbl&gt; &lt;int&gt;
+## 1          2018     1
+## 2          2019     2
+## 3          2020    24
+## 4          2021   110
+## 5          2022    62</code></pre>
+<p>Bemærk at en del kurser optræder i mere end en kategori. Så forvent ikke at tallene summer til hvad du forventer.</p>
+<p>Antal deltagere (som altså ikke nødvendigvis har deltaget, men har fået en af de udbudte pladser, forslag til alternativt ord modtages med taknemmelighed) og antal tilmeldinger på venteliste:</p>
+<pre class="r"><code>all_events %&gt;% 
+  distinct(id, .keep_all = T) %&gt;% 
+  select(id, start) %&gt;% 
+  left_join(master_data, by=c(&quot;id&quot;=&quot;event_id&quot;)) %&gt;% 
+  select(id,start,liste) %&gt;% 
+  group_by(id, start, liste) %&gt;% 
+  summarise(noget = n()) %&gt;% 
+  ungroup() %&gt;% 
+  arrange(desc(noget)) %&gt;% 
+  pivot_wider(names_from = liste,
+             values_from = noget,
+             values_fill = 0) %&gt;% 
+  group_by(år = year(start)) %&gt;% 
+  summarise(venteliste = sum(venteliste),
+            deltager = sum(deltager))</code></pre>
+<pre><code>## `summarise()` has grouped output by &#39;id&#39;, &#39;start&#39;. You can override using the
+## `.groups` argument.</code></pre>
+<pre><code>## # A tibble: 5 × 3
+##      år venteliste deltager
+##   &lt;dbl&gt;      &lt;int&gt;    &lt;int&gt;
+## 1  2018          0        0
+## 2  2019          0        1
+## 3  2020          0        9
+## 4  2021        162      915
+## 5  2022        109      480</code></pre>
+<p>Og husk! Der er forsvundet data fra kalendersystemet, så vi havde en del flere deltagere i 2020.</p>
 
 
 
