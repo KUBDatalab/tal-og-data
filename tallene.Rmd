@@ -10,7 +10,7 @@ source(here::here("rmd_config.R"))
 wanted <- "KUB Datalab"
 first_year <- 2018 # Det første år vi interesserer os for
 aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
-source("funcs.R") # her samler vi nyttige funktioner
+source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
 Vi henter en gang om dagen, kl. 1 om natten UTC.
@@ -104,6 +104,7 @@ get_events(kalender_id, i) %>%
     select(-future_dates, -seats, -geolocation) %>% 
     mutate(start = as_datetime(start),
            end = as_datetime(end)) %>% 
+  select(-registration_cost) %>% 
   write_csv2("data/event_data/aktuelt_events.csv")
 aktuelt_events <- read_csv2("data/event_data/aktuelt_events.csv")
 ```
