@@ -6,7 +6,7 @@ always_allow_html: true
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-source(here::here("rmd_config.R"))
+# source(here::here("rmd_config.R"))
 wanted <- "KUB Datalab"
 first_year <- 2018 # Det første år vi interesserer os for
 aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
