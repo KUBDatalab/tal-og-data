@@ -172,110 +172,18 @@ pre code {
 </div>
 
 
+<p>Start med at læse og forstå dette:</p>
+<p>Tallene trækkes fra vores kalendersystem. Vi tæller tilmeldinger.</p>
+<p>Men vi registerer ikke i kalendersystemet hvor mange der dukkede op.</p>
+<p>Det kunne vi godt.</p>
+<p>Men det gør vi ikke.</p>
+<p>Så det kan vi ikke trække ud.</p>
+<p>Det kunne være cool at samkøre data med vores kursus-registreringer.</p>
+<p>Skaf mig en API-adgang til det, så skal det nok ske.</p>
 <p>Vi henter en gang om dagen, kl. 1 om natten UTC.</p>
-<p>Sidst opdateret 2022-05-27 12:01:01</p>
+<p>Sidst opdateret 2022-05-27 12:51:45</p>
 <p>Vi trækker data gennem apien i vores kalendersystem og genererer denne rapport/oversigt/noget.</p>
 <p>Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver os lov til have vores egen server…)</p>
-<p>Så henter vi de allerede registrerede events for det aktuelle år, hvis altså der er nogen, og merger dem med dem vi lige hentede, og skriver dem til fil.</p>
-<pre class="r"><code>data_filer &lt;- dir(&quot;data/event_data/&quot;)
-if(paste0(&quot;events_&quot;, aktuelt_year, &quot;.csv&quot;) %in% data_filer){
-  past_events &lt;- read_csv2(file=paste0(&quot;data/event_data/events_&quot;, aktuelt_year, &quot;.csv&quot;))
-  aktuelt_events &lt;- rbind(aktuelt_events, past_events) %&gt;% distinct()
-}</code></pre>
-<pre><code>## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
-<pre><code>## Rows: 140 Columns: 37
-## ── Column specification ────────────────────────────────────────────────────────
-## Delimiter: &quot;;&quot;
-## chr  (14): title, description, url_public, url_admin, location_name, campus_...
-## dbl  (14): id, location_id, location_type, campus_id, category_id, owner_id,...
-## lgl   (7): allday, campus_1, registration, more_info, has_registration_opene...
-## dttm  (2): start, end
-## 
-## ℹ Use `spec()` to retrieve the full column specification for this data.
-## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
-<pre class="r"><code>aktuelt_events %&gt;% 
-  write_csv2(file=paste0(&quot;data/event_data/events_&quot;,i,&quot;.csv&quot;))</code></pre>
-<p>dernæst indlæser vi alle events for alle år:</p>
-<pre class="r"><code>all_events &lt;- list.files(&quot;data/event_data/&quot;, 
-           pattern = &quot;events_\\d{4}\\.csv&quot;,
-           full.names = T) %&gt;% 
-  map_df(~read.csv2(.))</code></pre>
-<p>Nu trækker vi så de filer der skal gemmes. Først laver vi en liste af alle de events vi godt vil have data på</p>
-<pre class="r"><code>alle_events &lt;- all_events %&gt;% 
-  select(id, end) %&gt;% 
-  mutate(maaned = month(end),
-         aar = year(end)) %&gt;% 
-  mutate(maaned = str_pad(maaned, 2, side=&quot;left&quot;, pad=&quot;0&quot;)) %&gt;% 
-  mutate(periode = str_c(&quot;event_details_&quot;, aar,&quot;_&quot;, maaned, &quot;.csv&quot;)) %&gt;% 
-  distinct()</code></pre>
-<p>Nogen af dem er der allerede:</p>
-<pre class="r"><code>hvilke_er_der_allerede &lt;- list.files(&quot;data/event_data/&quot;)</code></pre>
-<p>Så er der nogen vi ikke ønsker at gemme filer på (endnu). Det er indeværende måned, og alle fremtidige måneder:</p>
-<pre class="r"><code>current_events &lt;- alle_events %&gt;% 
-  filter(end &gt; as_datetime(floor_date(now(), &#39;month&#39;)))</code></pre>
-<p>Det her er så de events vi godt vil have gemt - hvis ikke de allerede er det:</p>
-<pre class="r"><code>old_events &lt;- setdiff(alle_events, current_events)</code></pre>
-<p>Og her har vi dem vi faktisk vil have gemt - fordi de ikke er gemt allerede.</p>
-<pre class="r"><code>de_der_skal_gemmes &lt;- old_events %&gt;% 
-  filter(!(periode %in% hvilke_er_der_allerede))</code></pre>
-<p>Dem looper vi så igennem, og får gemt data:</p>
-<pre class="r"><code>for(peri in unique(de_der_skal_gemmes$periode)){
-  de_der_skal_gemmes %&gt;% 
-    filter(periode == peri) %&gt;% 
-    pull(id) %&gt;% 
-    map_dfr(., get_registrants) %&gt;% 
-    write_csv2(file = paste0(&quot;data/event_data/&quot;, peri))
-}</code></pre>
-<p>Nu mangler vi så at få hentet data på de aktuelle events. De der er i indeværende måned - og fremtidige.</p>
-<p>for at få ensartet data indlæst - trækker vi detaljer på current events, og gemmer som fil.</p>
-<pre class="r"><code>current_events %&gt;% 
-  pull(id) %&gt;% 
-  map_dfr(., get_registrants) %&gt;% 
-  write_csv2(file = &quot;data/event_data/current_events_details.csv&quot;)</code></pre>
-<p>Så henter vi listen over alle event detaljer filerne, og tilføjer current_events.csv, som vi lige lavede:</p>
-<pre class="r"><code>filer &lt;- list.files(&quot;data/event_data/&quot;,
-           pattern = &quot;event_details_\\d{4}_\\d{2}\\.csv&quot;,
-           full.names = T)
-
-filer &lt;- c(filer, &quot;data/event_data/current_events_details.csv&quot;)</code></pre>
-<p>Og så indlæser vi alle eventsdetaljefilerne</p>
-<pre class="r"><code>all_events_details &lt;- filer %&gt;% 
-  map_df(~read_csv2(., col_types = &quot;ddccTccd&quot;))</code></pre>
-<pre><code>## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.
-## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
-<p>Og gemmer den som fil - mest så vi efterfølgende kan trække den ud og arbejde med den lokalt.</p>
-<pre class="r"><code>write_csv2(all_events_details, file = &quot;data/event_data/all_event_details.csv&quot;)
-master_data &lt;- read_csv2(&quot;data/event_data/all_event_details.csv&quot;)</code></pre>
-<pre><code>## ℹ Using &quot;&#39;,&#39;&quot; as decimal and &quot;&#39;.&#39;&quot; as grouping mark. Use `read_delim()` for more control.</code></pre>
-<pre><code>## Rows: 1676 Columns: 8
-## ── Column specification ────────────────────────────────────────────────────────
-## Delimiter: &quot;;&quot;
-## chr  (4): registration_type, email, attendance, liste
-## dbl  (3): event_id, booking_id, køn
-## dttm (1): registered_date
-## 
-## ℹ Use `spec()` to retrieve the full column specification for this data.
-## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 <p>Og så kan vi lave vores første output:</p>
 <pre class="r"><code>all_events %&gt;% 
   group_by(year(start)) %&gt;% 
