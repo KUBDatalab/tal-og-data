@@ -4,6 +4,23 @@ output: html_document
 htmlwidgets: TRUE
 always_allow_html: true
 ---
+
+Start med at læse og forstå dette:
+
+Tallene trækkes fra vores kalendersystem. Vi tæller tilmeldinger.
+
+Men vi registerer ikke i kalendersystemet hvor mange der dukkede op.
+
+Det kunne vi godt. 
+
+Men det gør vi ikke.
+
+Så det kan vi ikke trække ud.
+
+Det kunne være cool at samkøre data med vores kursus-registreringer.
+
+Skaf mig en API-adgang til det, så skal det nok ske.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # source(here::here("rmd_config.R"))
@@ -32,110 +49,9 @@ os lov til have vores egen server...)
 
 
 
-Så henter vi de allerede registrerede events for det aktuelle år, hvis altså
-der er nogen, og merger dem
-med dem vi lige hentede, og skriver dem til fil.
-```{r}
-data_filer <- dir("data/event_data/")
-if(paste0("events_", aktuelt_year, ".csv") %in% data_filer){
-  past_events <- read_csv2(file=paste0("data/event_data/events_", aktuelt_year, ".csv"))
-  aktuelt_events <- rbind(aktuelt_events, past_events) %>% distinct()
-}
-aktuelt_events %>% 
-  write_csv2(file=paste0("data/event_data/events_",i,".csv"))
-```
 
 
-dernæst indlæser vi alle events for alle år:
-```{r}
-all_events <- list.files("data/event_data/", 
-           pattern = "events_\\d{4}\\.csv",
-           full.names = T) %>% 
-  map_df(~read.csv2(.))
-```
 
-Nu trækker vi så de filer der skal gemmes. Først laver vi 
-en liste af alle de events vi godt vil have data på
-```{r}
-alle_events <- all_events %>% 
-  select(id, end) %>% 
-  mutate(maaned = month(end),
-         aar = year(end)) %>% 
-  mutate(maaned = str_pad(maaned, 2, side="left", pad="0")) %>% 
-  mutate(periode = str_c("event_details_", aar,"_", maaned, ".csv")) %>% 
-  distinct()
-```
-
-Nogen af dem er der allerede:
-```{r}
-hvilke_er_der_allerede <- list.files("data/event_data/")
-```
-
-Så er der nogen vi ikke ønsker at gemme filer på (endnu).
-Det er indeværende måned, og alle fremtidige måneder:
-```{r}
-current_events <- alle_events %>% 
-  filter(end > as_datetime(floor_date(now(), 'month')))
-```
-
-Det her er så de events vi godt vil have gemt - hvis ikke de allerede 
-er det:
-```{r}
-old_events <- setdiff(alle_events, current_events)
-```
-
-Og her har vi dem vi faktisk vil have gemt - fordi de ikke er gemt
-allerede.
-```{r}
-de_der_skal_gemmes <- old_events %>% 
-  filter(!(periode %in% hvilke_er_der_allerede))
-```
-
-Dem looper vi så igennem, og får gemt data:
-```{r}
-for(peri in unique(de_der_skal_gemmes$periode)){
-  de_der_skal_gemmes %>% 
-    filter(periode == peri) %>% 
-    pull(id) %>% 
-    map_dfr(., get_registrants) %>% 
-    write_csv2(file = paste0("data/event_data/", peri))
-}
-```
-
-Nu mangler vi så at få hentet data på de aktuelle events.
-De der er i indeværende måned - og fremtidige.
-
-for at få ensartet data indlæst - trækker vi detaljer på 
-current events, og gemmer som fil.
-```{r}
-current_events %>% 
-  pull(id) %>% 
-  map_dfr(., get_registrants) %>% 
-  write_csv2(file = "data/event_data/current_events_details.csv")
-```
-
-Så henter vi listen over alle event detaljer filerne, og 
-tilføjer current_events.csv, som vi lige lavede:
-```{r}
-filer <- list.files("data/event_data/",
-           pattern = "event_details_\\d{4}_\\d{2}\\.csv",
-           full.names = T)
-
-filer <- c(filer, "data/event_data/current_events_details.csv")
-```
-
-Og så indlæser vi alle eventsdetaljefilerne
-```{r}
-all_events_details <- filer %>% 
-  map_df(~read_csv2(., col_types = "ddccTccd"))
-```
-
-Og gemmer den som fil - mest så vi efterfølgende kan trække den
-ud og arbejde med den lokalt.
-```{r}
-write_csv2(all_events_details, file = "data/event_data/all_event_details.csv")
-master_data <- read_csv2("data/event_data/all_event_details.csv")
-```
 
 
 Og så kan vi lave vores første output:
