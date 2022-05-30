@@ -14,7 +14,10 @@ library(httr)
 library(readr)
 library(openssl)
 library(zoo)
-
+# settings
+wanted <- "KUB Datalab"
+first_year <- 2018 # Det første år vi interesserer os for
+aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
 
 # Indlæser script med nyttige funktioner
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
@@ -176,7 +179,13 @@ all_events_details <- filer %>%
 # Og gemmer den som fil - mest så vi efterfølgende kan trække den
 # ud og arbejde med den lokalt.
 write_csv2(all_events_details, file = "data/event_data/all_event_details.csv")
+
+# rydder environment
+rm(list=ls())
+
+# Genindlæser relevant data
 master_data <- read_csv2("data/event_data/all_event_details.csv")
-
-
-
+all_events <- list.files("data/event_data/", 
+                         pattern = "events_\\d{4}\\.csv",
+                         full.names = T) %>% 
+  map_df(~read.csv2(.))

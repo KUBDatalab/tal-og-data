@@ -109,3 +109,125 @@ all_events %>%
   ggtitle("Antal aktiviteter i kalenderen en given måned")
 ```
 
+
+Antal tilmeldinger pr måned:
+```{r plot_tilmeldinger_pr_måned}
+all_events %>% 
+  select(id, start) %>% 
+  distinct() %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, liste, booking_id) %>% 
+  filter(!is.na(liste)) %>% 
+  group_by(yearmon = zoo::as.yearmon(start)) %>% 
+  summarise(antal = n()) %>% 
+  ggplot(aes(yearmon, antal)) +
+    geom_col()
+```
+
+Og fordelt på de der fik en plads, og de der var på venteliste:
+```{r}
+all_events %>% 
+  select(id, start) %>% 
+  distinct() %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, liste, booking_id) %>% 
+  filter(!is.na(liste)) %>% 
+  group_by(yearmon = zoo::as.yearmon(start), liste) %>% 
+  summarise(antal = n()) %>% 
+  ggplot(aes(yearmon, antal)) +
+    geom_col(aes(fill=liste), position = "dodge")
+```
+
+Kønsfordelingen
+! Vi gætstimerer kønnet ud fra fornavn. Og vi har kun fornavne fra primo 2022. Så det er en ret skæv stikprøve.
+```{r}
+all_events %>% 
+  select(id, start) %>% 
+  distinct() %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, liste, booking_id, køn) %>% 
+  filter(!is.na(liste)) %>% 
+  mutate(køn=case_when(
+    køn > 0.5 ~ "Male",
+    køn <= 0.5 ~ "Female",
+    is.na(køn) ~ "Ukendt"
+  )) %>% 
+  group_by(køn) %>% 
+  summarise(antal = n()) %>% 
+  mutate(andel = case_when(
+    køn == "Ukendt" ~ NA_real_,
+    TRUE ~ as.numeric(antal)
+  )) %>% 
+  mutate(andel = andel/sum(andel, na.rm=T)*100) %>% 
+  mutate(andel_ku = c(
+    23022/sum(13875, 23022)*100,
+    13875/sum(13875, 23022)*100,
+    NA_real_
+  ))
+```
+
+Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
+
+Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
+er der forskel.
+```{r}
+p_værdi <- all_events %>% 
+  select(id, start) %>% 
+  distinct() %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, liste, booking_id, køn) %>% 
+  filter(!is.na(liste)) %>% 
+  mutate(køn=case_when(
+    køn > 0.5 ~ "Male",
+    køn <= 0.5 ~ "Female",
+    is.na(køn) ~ "Ukendt"
+  )) %>% 
+  group_by(køn) %>% 
+  summarise(antal = n()) %>% 
+  mutate(andel = case_when(
+    køn == "Ukendt" ~ NA_real_,
+    TRUE ~ as.numeric(antal)
+  )) %>% 
+  mutate(andel = andel/sum(andel, na.rm=T)*100) %>% 
+  mutate(andel_ku = c(
+    23022,
+    13875,
+    NA_real_
+  )) %>% 
+  filter(!is.na(andel)) %>% 
+  select(-andel) %>% 
+  select(-køn) %>% 
+  as.matrix() %>% 
+  chisq.test() %>% 
+  .$p.value
+```
+p-værdien er `r `p_værdi`, og ud fra det kan vi konkludere at  `r if(p_værdi < 0.05){"mænd er underrepræsenterede"}else{"mænd er ikke underrepræsenterede"}` på vores kurser.
+
+Hvordan ser udviklingen over tid ud?
+
+Pas på! i skrivende stund har vi ikke mange datapunkter, så fremskrivninger skal tages med et gram salt (eller to):
+
+```{r}
+all_events %>% 
+  select(id, start) %>% 
+  distinct() %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, liste, booking_id, køn) %>% 
+  filter(!is.na(liste)) %>% 
+  filter(!is.na(køn)) %>% 
+  mutate(køn=case_when(
+    køn > 0.5 ~ "Male",
+    køn <= 0.5 ~ "Female"
+  )) %>% 
+  group_by(tidspunkt = zoo::as.yearmon(start),
+           køn) %>% 
+  summarise(antal = n()) %>% 
+  mutate(andel = antal/sum(antal)) %>% 
+  ggplot(aes(tidspunkt, andel, colour= køn)) +
+  geom_point() +
+  geom_line() +
+  geom_hline(yintercept = 23022/sum(13875, 23022)) +
+  geom_hline(yintercept = 13875/sum(13875, 23022)) +
+  ggtitle("Kønsfordelingen i tilmeldinger over tid")
+```
+
