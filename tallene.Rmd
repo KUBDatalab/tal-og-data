@@ -201,7 +201,7 @@ p_værdi <- all_events %>%
   chisq.test() %>% 
   .$p.value
 ```
-p-værdien er `r `p_værdi`, og ud fra det kan vi konkludere at  `r if(p_værdi < 0.05){"mænd er underrepræsenterede"}else{"mænd er ikke underrepræsenterede"}` på vores kurser.
+p-værdien er `r p_værdi`, og ud fra det kan vi konkludere at  `r if(p_værdi < 0.05){"mænd er underrepræsenterede"}else{"mænd er ikke underrepræsenterede"}` på vores kurser.
 
 Hvordan ser udviklingen over tid ud?
 
@@ -230,4 +230,41 @@ all_events %>%
   geom_hline(yintercept = 13875/sum(13875, 23022)) +
   ggtitle("Kønsfordelingen i tilmeldinger over tid")
 ```
+
+## Kategorier
+
+Vi tildeler ved oprettelsen af kurser forskellige kategorier.
+De får (ca) alle kategorien datalab. Vi har, nogenlunde, systematisk tildelt dem kategorien English. "Online Course" har vi tydeligvis ikke brugt synderligt systematisk. Og det er derudover noget hø at vi ikke kan udnytte kalendersystemets muligheder for integration med Zoom.
+
+Rant over - en del kurser har mere end en kategori. Tallene summer derfor ikke nødvendigvis til det du synes de skal summe til.
+
+```{r}
+all_events %>% 
+  select(id, start, category_name) %>% 
+  group_by(category_name) %>% 
+  summarise(antal = n())
+```
+
+Det er nok overvejende de fire søjler vi er interesserede i.
+
+```{r}
+interessante_kategorier <- c("Analysis","Cleaning","Harvesting","Visualisation")
+all_events %>% 
+  select(id, start, category_name) %>% 
+  filter(category_name %in% interessante_kategorier) %>% 
+  group_by(category_name) %>% 
+  summarise(antal = n())
+```
+
+Hvordan med antal deltagere fordelt på kategorierne?
+```{r}
+all_events %>% 
+  select(id, start, category_name) %>% 
+  filter(category_name %in% interessante_kategorier) %>% 
+  left_join(master_data, by=c("id"="event_id")) %>% 
+  select(id, start, category_name, booking_id) %>% 
+  group_by(category_name) %>% 
+  summarise(antal = n())
+```
+
 
