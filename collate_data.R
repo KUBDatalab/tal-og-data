@@ -123,7 +123,7 @@ hvilke_er_der_allerede <- list.files("data/event_data/")
 # Så er der nogen vi ikke ønsker at gemme filer på (endnu).
 # Det er indeværende måned, og alle fremtidige måneder:
 current_events <- alle_events %>% 
-  filter(end > as_datetime(floor_date(now(), 'month')))
+  filter(end >= as_datetime(floor_date(now(), 'month')))
 
 
 # de events vi godt vil have gemt ----

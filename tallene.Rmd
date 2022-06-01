@@ -207,7 +207,7 @@ Hvordan ser udviklingen over tid ud?
 
 Pas på! i skrivende stund har vi ikke mange datapunkter, så fremskrivninger skal tages med et gram salt (eller to):
 
-```{r}
+```{r kønsfordeling, echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -267,4 +267,17 @@ all_events %>%
   summarise(antal = n())
 ```
 
+Hvordan vokser tilmeldingerne?
+```{r kumuleret_antal_tilmeldinger, echo = F}
+master_data %>% 
+  select(booking_id, registered_date) %>% 
+  group_by(år=year(registered_date)) %>% 
+  mutate(tæller = 1) %>% 
+  arrange(registered_date) %>% 
+  mutate(tæller = cumsum(tæller)) %>% 
+  ggplot(aes(yday(registered_date), tæller, colour=factor(år))) +
+  geom_line() +
+  ggtitle("Kumuleret antal tilmeldinger som funktion af tid")
+```
 
+Ja, der skal pilles lidt ved akseetiketter og den slags.
