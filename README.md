@@ -5,4 +5,3 @@ kursussystem.
     print(TEST_SECRET)
 
     ## [1] ""
-kører maj?
