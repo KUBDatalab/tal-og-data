@@ -55,7 +55,7 @@ os lov til have vores egen server...)
 
 
 Og så kan vi lave vores første output:
-```{r}
+```{r alle_events}
 all_events %>% 
   group_by(year(start)) %>% 
   distinct(id) %>% 
@@ -70,7 +70,7 @@ Det vil sige, at der sagtens kan have været flere events i 2020 end 24.
 Fremadrettet skulle data gerne være gemt for eftertiden her.
 
 Hvordan med kategorierne over tid:
-```{r}
+```{r kategorier-vs-tid}
 all_events %>% 
   group_by(year(start)) %>% 
   distinct(id) %>% 
@@ -80,7 +80,7 @@ Bemærk at en del kurser optræder i mere end en kategori. Så forvent
 ikke at tallene summer til hvad du forventer.
 
 Antal deltagere (som altså ikke nødvendigvis har deltaget, men har fået en af de udbudte pladser, forslag til alternativt ord modtages med taknemmelighed) og antal tilmeldinger på venteliste:
-```{r}
+```{r tilmeldinger}
 all_events %>% 
   distinct(id, .keep_all = T) %>% 
   select(id, start) %>% 
@@ -99,7 +99,7 @@ all_events %>%
 ```
 Og husk! Der er forsvundet data fra kalendersystemet, så vi havde en del flere deltagere i 2020.
 
-```{r}
+```{r antal-aktiviteter-pr-måned}
 all_events %>% 
   select(id, end)  %>% 
   distinct() %>% 
@@ -125,7 +125,7 @@ all_events %>%
 ```
 
 Og fordelt på de der fik en plads, og de der var på venteliste:
-```{r}
+```{r alle-deltagere-fordelt-på-plads}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -140,7 +140,7 @@ all_events %>%
 
 Kønsfordelingen
 ! Vi gætstimerer kønnet ud fra fornavn. Og vi har kun fornavne fra primo 2022. Så det er en ret skæv stikprøve.
-```{r}
+```{r kønsfordeling}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -170,7 +170,7 @@ Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
 
 Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
 er der forskel.
-```{r}
+```{r p-værdi}
 p_værdi <- all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -238,7 +238,7 @@ De får (ca) alle kategorien datalab. Vi har, nogenlunde, systematisk tildelt de
 
 Rant over - en del kurser har mere end en kategori. Tallene summer derfor ikke nødvendigvis til det du synes de skal summe til.
 
-```{r}
+```{r kategorier}
 all_events %>% 
   select(id, start, category_name) %>% 
   group_by(category_name) %>% 
@@ -247,7 +247,7 @@ all_events %>%
 
 Det er nok overvejende de fire søjler vi er interesserede i.
 
-```{r}
+```{r de-fire-kategorier}
 interessante_kategorier <- c("Analysis","Cleaning","Harvesting","Visualisation")
 all_events %>% 
   select(id, start, category_name) %>% 
@@ -257,7 +257,7 @@ all_events %>%
 ```
 
 Hvordan med antal deltagere fordelt på kategorierne?
-```{r}
+```{r deltagere-på-kategorier}
 all_events %>% 
   select(id, start, category_name) %>% 
   filter(category_name %in% interessante_kategorier) %>% 
