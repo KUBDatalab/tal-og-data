@@ -181,7 +181,7 @@ pre code {
 <p>Det kunne være cool at samkøre data med vores kursus-registreringer.</p>
 <p>Skaf mig en API-adgang til det, så skal det nok ske.</p>
 <p>Vi henter en gang om dagen, kl. 1 om natten UTC.</p>
-<p>Sidst opdateret 2022-09-29 13:42:10</p>
+<p>Sidst opdateret 2022-09-29 13:50:54</p>
 <p>Vi trækker data gennem apien i vores kalendersystem og genererer denne rapport/oversigt/noget.</p>
 <p>Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver os lov til have vores egen server…)</p>
 <p>Og så kan vi lave vores første output:</p>
@@ -279,6 +279,7 @@ pre code {
   select(id, start) %&gt;% 
   distinct() %&gt;% 
   left_join(master_data, by=c(&quot;id&quot;=&quot;event_id&quot;)) %&gt;% 
+  filter(year(start) &gt; 2021) %&gt;%
   select(id, start, liste, booking_id, køn) %&gt;% 
   filter(!is.na(liste)) %&gt;% 
   mutate(køn=case_when(
@@ -301,9 +302,9 @@ pre code {
 <pre><code>## # A tibble: 3 × 4
 ##   køn    antal andel andel_ku
 ##   &lt;chr&gt;  &lt;int&gt; &lt;dbl&gt;    &lt;dbl&gt;
-## 1 Female   665  70.5     62.4
-## 2 Male     278  29.5     37.6
-## 3 Ukendt  1013  NA       NA</code></pre>
+## 1 Female   592  71.4     62.4
+## 2 Male     237  28.6     37.6
+## 3 Ukendt    40  NA       NA</code></pre>
 <p>Bemærk også at tallene for KU er for 2021, og manuelt indtastede.</p>
 <p>Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5, er der forskel.</p>
 <pre class="r"><code>p_værdi &lt;- all_events %&gt;% 
