@@ -145,6 +145,7 @@ all_events %>%
   select(id, start) %>% 
   distinct() %>% 
   left_join(master_data, by=c("id"="event_id")) %>% 
+  filter(year(start) > 2021) %>%
   select(id, start, liste, booking_id, køn) %>% 
   filter(!is.na(liste)) %>% 
   mutate(køn=case_when(
