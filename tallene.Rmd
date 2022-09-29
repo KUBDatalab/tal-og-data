@@ -207,6 +207,8 @@ Hvordan ser udviklingen over tid ud?
 
 Pas på! i skrivende stund har vi ikke mange datapunkter, så fremskrivninger skal tages med et gram salt (eller to):
 
+d
+
 ```{r kønsfordeling2, echo = F}
 all_events %>% 
   select(id, start) %>% 
