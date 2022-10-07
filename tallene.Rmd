@@ -169,7 +169,7 @@ all_events %>%
 
 Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
 
-Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
+Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.05,
 er der forskel.
 ```{r p-værdi}
 p_værdi <- all_events %>% 
