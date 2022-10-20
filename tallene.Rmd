@@ -5,21 +5,17 @@ htmlwidgets: TRUE
 always_allow_html: true
 ---
 
-Start med at læse og forstå dette:
+> ## Start med at læse og forstå dette:
+>
+> Tallene trækkes fra vores kalendersystem. Vi tæller tilmeldinger.
+> Men vi registerer ikke i kalendersystemet hvor mange der dukkede op.
+> Det kunne vi godt. 
+> Men det gør vi ikke.
+> Så det kan vi ikke trække ud.
+> Det kunne være cool at samkøre data med vores kursus-registreringer.
+> Skaf en API-adgang til det, så skal det nok ske.
+{: .callout}
 
-Tallene trækkes fra vores kalendersystem. Vi tæller tilmeldinger.
-
-Men vi registerer ikke i kalendersystemet hvor mange der dukkede op.
-
-Det kunne vi godt. 
-
-Men det gør vi ikke.
-
-Så det kan vi ikke trække ud.
-
-Det kunne være cool at samkøre data med vores kursus-registreringer.
-
-Skaf mig en API-adgang til det, så skal det nok ske.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -40,37 +36,29 @@ Vi henter en gang om dagen, kl. 1 om natten UTC.
 Sidst opdateret `r Sys.time()`
 
 
-Vi trækker data gennem apien i vores kalendersystem og genererer denne 
-rapport/oversigt/noget.
-
-Ja, det ville være fint med interaktive grafer. Det er jeg mest vant til at 
-arbejde med i Shiny, og det har vi ikke mulighed for (med mindre nogen giver
-os lov til have vores egen server...)
-
-
-
-
-
-
-
-
-Og så kan vi lave vores første output:
-```{r alle_events}
+## Antal events i kalenderen pr år:
+```{r events_per_år, echo = F}
 all_events %>% 
   group_by(year(start)) %>% 
   distinct(id) %>% 
-  summarise(antal = n())
+  summarise(antal = n()) 
 ```
 
-Antal events i den ønskede kalender ofr de forskellige år.
+Antal events i KUB Datalab kalenderen for de forskellige år.
 
-BEMÆRK! der slettes events i kalenderen. Da disse data først er begyndt at blive
-høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen inden.
-Det vil sige, at der sagtens kan have været flere events i 2020 end 24. 
-Fremadrettet skulle data gerne være gemt for eftertiden her.
+> ## Bemærk!:
+>
+> Der slettes events i kalenderen. Da disse data først er begyndt at blive
+> høstet 3. maj 2022, kan der være events der er blevet slettet fra kalenderen inden.
+> Det vil sige, at der sagtens kan have været flere events i 2020 end 24. 
+> Fremadrettet skulle data gerne være gemt for eftertiden her.
+{: .callout}
+
+
+
 
 Hvordan med kategorierne over tid:
-```{r kategorier-vs-tid}
+```{r echo = F}
 all_events %>% 
   group_by(year(start)) %>% 
   distinct(id) %>% 
@@ -80,7 +68,7 @@ Bemærk at en del kurser optræder i mere end en kategori. Så forvent
 ikke at tallene summer til hvad du forventer.
 
 Antal deltagere (som altså ikke nødvendigvis har deltaget, men har fået en af de udbudte pladser, forslag til alternativt ord modtages med taknemmelighed) og antal tilmeldinger på venteliste:
-```{r tilmeldinger}
+```{r echo = F}
 all_events %>% 
   distinct(id, .keep_all = T) %>% 
   select(id, start) %>% 
@@ -99,7 +87,7 @@ all_events %>%
 ```
 Og husk! Der er forsvundet data fra kalendersystemet, så vi havde en del flere deltagere i 2020.
 
-```{r antal-aktiviteter-pr-måned}
+```{r}
 all_events %>% 
   select(id, end)  %>% 
   distinct() %>% 
@@ -111,7 +99,7 @@ all_events %>%
 
 
 Antal tilmeldinger pr måned:
-```{r plot_tilmeldinger_pr_måned}
+```{r plot_tilmeldinger_pr_måned, echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -125,7 +113,7 @@ all_events %>%
 ```
 
 Og fordelt på de der fik en plads, og de der var på venteliste:
-```{r alle-deltagere-fordelt-på-plads}
+```{r echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -140,12 +128,14 @@ all_events %>%
 
 Kønsfordelingen
 ! Vi gætstimerer kønnet ud fra fornavn. Og vi har kun fornavne fra primo 2022. Så det er en ret skæv stikprøve.
-```{r kønsfordeling}
+
+Vi betrager kun data efter 1. januar 2022
+```{r echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
   left_join(master_data, by=c("id"="event_id")) %>% 
-  filter(year(start) > 2021) %>%
+  filter(year(start) > 2021) %>% 
   select(id, start, liste, booking_id, køn) %>% 
   filter(!is.na(liste)) %>% 
   mutate(køn=case_when(
@@ -169,14 +159,13 @@ all_events %>%
 
 Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
 
-Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.05,
+Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
 er der forskel.
-```{r p-værdi}
+```{r echo = F}
 p_værdi <- all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
   left_join(master_data, by=c("id"="event_id")) %>% 
-  filter(year(start) > 2021) %>%
   select(id, start, liste, booking_id, køn) %>% 
   filter(!is.na(liste)) %>% 
   mutate(køn=case_when(
@@ -209,9 +198,7 @@ Hvordan ser udviklingen over tid ud?
 
 Pas på! i skrivende stund har vi ikke mange datapunkter, så fremskrivninger skal tages med et gram salt (eller to):
 
-d
-
-```{r kønsfordeling2, echo = F}
+```{r kønsfordeling, echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -242,7 +229,7 @@ De får (ca) alle kategorien datalab. Vi har, nogenlunde, systematisk tildelt de
 
 Rant over - en del kurser har mere end en kategori. Tallene summer derfor ikke nødvendigvis til det du synes de skal summe til.
 
-```{r kategorier}
+```{r echo = F}
 all_events %>% 
   select(id, start, category_name) %>% 
   group_by(category_name) %>% 
@@ -251,7 +238,7 @@ all_events %>%
 
 Det er nok overvejende de fire søjler vi er interesserede i.
 
-```{r de-fire-kategorier}
+```{r echo = f}
 interessante_kategorier <- c("Analysis","Cleaning","Harvesting","Visualisation")
 all_events %>% 
   select(id, start, category_name) %>% 
@@ -261,7 +248,7 @@ all_events %>%
 ```
 
 Hvordan med antal deltagere fordelt på kategorierne?
-```{r deltagere-på-kategorier}
+```{r echo = F}
 all_events %>% 
   select(id, start, category_name) %>% 
   filter(category_name %in% interessante_kategorier) %>% 
@@ -285,3 +272,5 @@ master_data %>%
 ```
 
 Ja, der skal pilles lidt ved akseetiketter og den slags.
+
+Vi skal nok også have en graf med opdeling i tilmeldinger og ventelister.
