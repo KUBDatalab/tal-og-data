@@ -17,7 +17,7 @@ always_allow_html: true
 {: .callout}
 
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, cache = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # source(here::here("rmd_config.R"))
 wanted <- "KUB Datalab"
