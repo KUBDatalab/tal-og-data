@@ -159,7 +159,8 @@ all_events %>%
 
 Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
 
-Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
+Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to _tab
+ske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
 er der forskel.
 ```{r p_value_beregning, echo = F}
 p_værdi <- all_events %>% 
@@ -229,7 +230,7 @@ De får (ca) alle kategorien datalab. Vi har, nogenlunde, systematisk tildelt de
 
 Rant over - en del kurser har mere end en kategori. Tallene summer derfor ikke nødvendigvis til det du synes de skal summe til.
 
-```{r kategori_tabel echo = F}
+```{r kategori_tabel, echo = F}
 all_events %>% 
   select(id, start, category_name) %>% 
   group_by(category_name) %>% 
