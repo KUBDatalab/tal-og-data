@@ -87,7 +87,7 @@ all_events %>%
 ```
 Og husk! Der er forsvundet data fra kalendersystemet, så vi havde en del flere deltagere i 2020.
 
-```{r}
+```{r graf_et}
 all_events %>% 
   select(id, end)  %>% 
   distinct() %>% 
@@ -113,7 +113,7 @@ all_events %>%
 ```
 
 Og fordelt på de der fik en plads, og de der var på venteliste:
-```{r echo = F}
+```{r graf_to, echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -130,7 +130,7 @@ Kønsfordelingen
 ! Vi gætstimerer kønnet ud fra fornavn. Og vi har kun fornavne fra primo 2022. Så det er en ret skæv stikprøve.
 
 Vi betrager kun data efter 1. januar 2022
-```{r echo = F}
+```{r guesstimat, echo = F}
 all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -161,7 +161,7 @@ Bemærk også at tallene for KU er for 2021, og manuelt indtastede.
 
 Det ser lidt skævt ud. Man kunne få den tanke at mænd er underrepræsenterede på vores kurser. Vi har tælletal, og vi har to kategoriske variable. Så vi kan køre en chi i anden test, hvor vi ser om der faktisk er forskel på fordelingerne. Er p-værdien under 0.5,
 er der forskel.
-```{r echo = F}
+```{r p_value_beregning, echo = F}
 p_værdi <- all_events %>% 
   select(id, start) %>% 
   distinct() %>% 
@@ -229,7 +229,7 @@ De får (ca) alle kategorien datalab. Vi har, nogenlunde, systematisk tildelt de
 
 Rant over - en del kurser har mere end en kategori. Tallene summer derfor ikke nødvendigvis til det du synes de skal summe til.
 
-```{r echo = F}
+```{r kategori_tabel echo = F}
 all_events %>% 
   select(id, start, category_name) %>% 
   group_by(category_name) %>% 
@@ -238,7 +238,7 @@ all_events %>%
 
 Det er nok overvejende de fire søjler vi er interesserede i.
 
-```{r echo = f}
+```{r interessante_kategorier echo = f}
 interessante_kategorier <- c("Analysis","Cleaning","Harvesting","Visualisation")
 all_events %>% 
   select(id, start, category_name) %>% 
@@ -248,7 +248,7 @@ all_events %>%
 ```
 
 Hvordan med antal deltagere fordelt på kategorierne?
-```{r echo = F}
+```{r next_to_last, echo = F}
 all_events %>% 
   select(id, start, category_name) %>% 
   filter(category_name %in% interessante_kategorier) %>% 
