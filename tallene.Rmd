@@ -239,7 +239,7 @@ all_events %>%
 
 Det er nok overvejende de fire søjler vi er interesserede i.
 
-```{r interessante_kategorier echo = f}
+```{r interessante_kategorier, echo = f}
 interessante_kategorier <- c("Analysis","Cleaning","Harvesting","Visualisation")
 all_events %>% 
   select(id, start, category_name) %>% 
