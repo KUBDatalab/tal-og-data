@@ -87,7 +87,7 @@ aktuelt_events <- read_csv2("data/event_data/aktuelt_events.csv")
 data_filer <- dir("data/event_data/")
 if(paste0("events_", aktuelt_year, ".csv") %in% data_filer){
   past_events <- read_csv2(file=paste0("data/event_data/events_", aktuelt_year, ".csv"))
-  aktuelt_events <- rbind(aktuelt_events, past_events) %>% distinct()
+  aktuelt_events <- bind_rows(aktuelt_events, past_events) %>% distinct()
 }
 aktuelt_events %>% 
   write_csv2(file=paste0("data/event_data/events_",i,".csv"))
