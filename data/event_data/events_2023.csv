@@ -61,7 +61,7 @@ id;title;allday;start;end;description;url_public;url_admin;location_id;location_
 <p><strong>After the course:</strong></p>
 
 <p>After the intro you can pick up the course manual and the dataset used in the course <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/327401"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/327401"" title=""Pick up the course manual here"">here</a>. See and repeat the steps we took at your own pace. <strong>NB: the material is not available until after the introduction :-)</strong></p>
-</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;32027;Datalab;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;32;32;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
+</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;32027;Datalab;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;33;33;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
 3960074;ONLINE: Introduction to OpenRefine;FALSE;2023-01-09T09:00:00Z;2023-01-09T11:00:00Z;"<div class=""show-content user_content clearfix enhanced"">
 <h1 class=""page-title"">An alternative to Excel: OpenRefine can do really cool stuff</h1>
 
@@ -94,7 +94,7 @@ id;title;allday;start;end;description;url_public;url_admin;location_id;location_
 <p><strong>After the course:</strong></p>
 
 <p>After the intro you can pick up the course manual and the dataset used in the course <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/327401"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/327401"" title=""Pick up the course manual here"">here</a>. See and repeat the steps we took at your own pace. <strong>NB: the material is not available until after the introduction :-)</strong></p>
-</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;34059;Online course;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;32;32;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
+</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;34059;Online course;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;33;33;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
 3987806;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-01-11T11:30:00Z;2023-01-11T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -820,6 +820,72 @@ id;title;allday;start;end;description;url_public;url_admin;location_id;location_
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/3987829;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3987829;4360;0;KUB Nord: Data Lab;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/boks_til_ku3.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3960074;ONLINE: Introduction to OpenRefine;FALSE;2023-01-09T09:00:00Z;2023-01-09T11:00:00Z;"<div class=""show-content user_content clearfix enhanced"">
+<h1 class=""page-title"">An alternative to Excel: OpenRefine can do really cool stuff</h1>
+
+<p>MS Excel is a widely used tool for handling tabular data, but can also be a source of frustration. Often though the best solution may very well be to use OpenRefine and Excel in conjunction as they each have their own strengths and weaknesses.</p>
+
+<p>OpenRefine handles datasets in a different way than Excel. This enables OpenRefine to help you with stuff that Excel cannot &ndash; e.g. make data entries consistent.</p>
+
+<p>This introductory course will show you how to investigate your dataset in terms of e.g.:</p>
+
+<ul>
+	<li>outliers</li>
+	<li>inconsistencies (spelling errors, differences in abbreviations)</li>
+	<li>isolate specific values</li>
+	<li>check if values are all numbers</li>
+	<li>check if there are blank fields</li>
+	<li>sort your data</li>
+	<li>check for duplicates</li>
+	<li>remove duplicates</li>
+	<li>remove unwanted white spaces</li>
+	<li>merge cells or split cells based on a delimiter or by field length</li>
+	<li>and much more</li>
+</ul>
+
+<p>During the two hour course you will be shown how to use OpenRefine to do the stuff above. The last part of the course you will have time to try out the functions on the dataset I use in my demonstration. You are also welcome to bring your own data that you want to work on.</p>
+
+<p><strong>Preparation for the course: </strong></p>
+
+<p>I expect that you have OpenRefine installed before the course, since we do not have time to do it at the course. See <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/324906"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/324906"" title=""OpenRefine Installation and download of dataset"">here</a> how to install OpenRefine. The file is also attached.</p>
+
+<p><strong>After the course:</strong></p>
+
+<p>After the intro you can pick up the course manual and the dataset used in the course <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/327401"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/327401"" title=""Pick up the course manual here"">here</a>. See and repeat the steps we took at your own pace. <strong>NB: the material is not available until after the introduction :-)</strong></p>
+</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;32027;Datalab;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;32;32;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
+3960074;ONLINE: Introduction to OpenRefine;FALSE;2023-01-09T09:00:00Z;2023-01-09T11:00:00Z;"<div class=""show-content user_content clearfix enhanced"">
+<h1 class=""page-title"">An alternative to Excel: OpenRefine can do really cool stuff</h1>
+
+<p>MS Excel is a widely used tool for handling tabular data, but can also be a source of frustration. Often though the best solution may very well be to use OpenRefine and Excel in conjunction as they each have their own strengths and weaknesses.</p>
+
+<p>OpenRefine handles datasets in a different way than Excel. This enables OpenRefine to help you with stuff that Excel cannot &ndash; e.g. make data entries consistent.</p>
+
+<p>This introductory course will show you how to investigate your dataset in terms of e.g.:</p>
+
+<ul>
+	<li>outliers</li>
+	<li>inconsistencies (spelling errors, differences in abbreviations)</li>
+	<li>isolate specific values</li>
+	<li>check if values are all numbers</li>
+	<li>check if there are blank fields</li>
+	<li>sort your data</li>
+	<li>check for duplicates</li>
+	<li>remove duplicates</li>
+	<li>remove unwanted white spaces</li>
+	<li>merge cells or split cells based on a delimiter or by field length</li>
+	<li>and much more</li>
+</ul>
+
+<p>During the two hour course you will be shown how to use OpenRefine to do the stuff above. The last part of the course you will have time to try out the functions on the dataset I use in my demonstration. You are also welcome to bring your own data that you want to work on.</p>
+
+<p><strong>Preparation for the course: </strong></p>
+
+<p>I expect that you have OpenRefine installed before the course, since we do not have time to do it at the course. See <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/324906"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/324906"" title=""OpenRefine Installation and download of dataset"">here</a> how to install OpenRefine. The file is also attached.</p>
+
+<p><strong>After the course:</strong></p>
+
+<p>After the intro you can pick up the course manual and the dataset used in the course <a data-api-endpoint=""https://absalon.ku.dk/api/v1/courses/63142/modules/327401"" data-api-returntype=""Module"" href=""https://absalon.ku.dk/courses/63142/modules/327401"" title=""Pick up the course manual here"">here</a>. See and repeat the steps we took at your own pace. <strong>NB: the material is not available until after the introduction :-)</strong></p>
+</div>";https://kubkalender.kb.dk/event/3960074;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3960074;0;0;NA;NA;NA;NA;34059;Online course;42140;Asger Væring Larsen;Asger Væring Larsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#99A3A4;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;NA;0;0;TRUE;FALSE;0;0;50;32;32;TRUE;0;NA;NA;NA;https://kbdk.zoom.us/j/69386365469?pwd=YmkvcVExM0pidnNMcjBHT3hiODhsZz09;857343;external
 3960074;ONLINE: Introduction to OpenRefine;FALSE;2023-01-09T09:00:00Z;2023-01-09T11:00:00Z;"<div class=""show-content user_content clearfix enhanced"">
 <h1 class=""page-title"">An alternative to Excel: OpenRefine can do really cool stuff</h1>
 
