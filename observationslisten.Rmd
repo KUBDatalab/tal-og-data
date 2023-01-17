@@ -1,0 +1,39 @@
+---
+title: Tal og data fra KUB Datalab
+output: html_document
+htmlwidgets: TRUE
+always_allow_html: true
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# source(here::here("rmd_config.R"))
+library(tidyverse)
+library(lubridate)
+```
+
+```{r source, include = FALSE}
+# source("collate_data.R", encoding = "UTF8") # henter data
+```
+
+
+```{r echo = F}
+all_events %>% as_tibble() %>% select(c("title", "start", "physical_seats", "physical_seats_taken",
+                                        "online_seats", "online_seats_taken",  "url_public")) %>% 
+  mutate(start = date(ymd_hms(start))) %>% 
+  filter(start > today()) %>% 
+  filter(!is.na(physical_seats)|!is.na(online_seats)) %>% 
+  mutate(`antal pladser` = physical_seats + online_seats) %>% 
+  mutate(tilmeldinger = physical_seats_taken + online_seats_taken) %>% 
+  select(-c(physical_seats, online_seats, physical_seats_taken, online_seats_taken)) %>% 
+  mutate(andel = tilmeldinger/`antal pladser`) %>% 
+  mutate(title = str_c("[", title, "](", url_public, ")")) %>% 
+  select(-url_public) %>%
+mutate(tid = day(as.period(start - today()))) %>%
+kable()
+  
+
+```
+
+
+
