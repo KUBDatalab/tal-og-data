@@ -353,23 +353,74 @@ display: none;
 </div>
 
 
+<pre class="r"><code># get client secret ----
+if(here::here() == &quot;C:/Users/cbk/Documents/R_projekter/tal-og-data&quot;){
+  client_secret &lt;- keyring::key_get(&quot;libcal&quot;)
+}else{
+  client_secret &lt;- Sys.getenv(&quot;CLIENT_SECRET&quot;)
+}
+
+# get_token ----
+token &lt;- get_token(client_secret = client_secret)
+
+# hent_kalendere ----
+kalendere &lt;- modify_url(
+  url = &quot;https://kubkalender.kb.dk&quot;,
+  path = c(&quot;1.1&quot;, &quot;calendars&quot;)
+) %&gt;% 
+  GET(add_headers(&#39;Authorization&#39; = paste(&quot;bearer&quot;, token))) %&gt;% 
+  content() %&gt;% 
+  as_tibble()
+
+
+# get_calid ----
+# Nu finder vi så det relevante calid vi skal bruge
+kalendere &lt;- kalendere %&gt;%
+  unnest_wider(calendars) %&gt;%
+  unnest_wider(url) %&gt;%
+  unnest_wider(owner, names_repair = &quot;universal&quot;) %&gt;%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...6)</code></pre>
+<pre><code>## New names:
+## • `name` -&gt; `name...2`
+## • `name` -&gt; `name...6`</code></pre>
+<pre class="r"><code>kalender_id &lt;- kalendere %&gt;%
+  select(calid, kalender_navn, public) %&gt;%
+  filter(kalender_navn == wanted) %&gt;% 
+  .[[&quot;calid&quot;]]</code></pre>
+<pre class="r"><code>i &lt;- year(today())
+data &lt;- get_events(kalender_id, i) %&gt;% 
+  as_tibble() 
+  
+data %&gt;% 
+  unnest_wider(events) %&gt;%
+  unnest_wider(url, names_sep=&quot;_&quot;) %&gt;%
+  unnest_wider(location, names_sep=&quot;_&quot;) %&gt;%
+  unnest_wider(campus, names_sep=&quot;_&quot;) %&gt;%
+  unnest_wider(owner, names_sep= &quot;_&quot;) %&gt;%
+  unnest_wider(calendar, names_sep = &quot;_&quot;) %&gt;% 
+  select(title, url_public, start, seats, seats_taken) %&gt;% 
+  mutate(seats = as.numeric(seats)) %&gt;% 
+  filter(!is.na(seats)) %&gt;% 
+  mutate(title = str_c(&quot;[&quot;,title,&quot;](&quot;,url_public,&quot;)&quot;)) %&gt;% 
+  select(-url_public) %&gt;% 
+  filter(start &gt; today()) %&gt;% 
+  mutate(start = date(start)) %&gt;% 
+  kable()</code></pre>
 <table>
 <colgroup>
-<col width="48%" />
-<col width="11%" />
+<col width="61%" />
 <col width="14%" />
-<col width="13%" />
-<col width="6%" />
-<col width="4%" />
+<col width="8%" />
+<col width="16%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th align="left">title</th>
 <th align="left">start</th>
-<th align="right">antal pladser</th>
-<th align="right">tilmeldinger</th>
-<th align="right">andel</th>
-<th align="right">tid</th>
+<th align="right">seats</th>
+<th align="right">seats_taken</th>
 </tr>
 </thead>
 <tbody>
@@ -379,8 +430,6 @@ programmering i Python 1</a></td>
 <td align="left">2023-01-23</td>
 <td align="right">25</td>
 <td align="right">25</td>
-<td align="right">1.00</td>
-<td align="right">6</td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/3908958">Digital humaniora og
@@ -388,8 +437,6 @@ programmering i Python 2</a></td>
 <td align="left">2023-01-23</td>
 <td align="right">25</td>
 <td align="right">20</td>
-<td align="right">0.80</td>
-<td align="right">6</td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/3908959">Digital humaniora og
@@ -397,8 +444,6 @@ programmering i Python 3</a></td>
 <td align="left">2023-01-23</td>
 <td align="right">25</td>
 <td align="right">18</td>
-<td align="right">0.72</td>
-<td align="right">6</td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/3997931">R for
@@ -406,53 +451,6 @@ Absolute Beginners</a></td>
 <td align="left">2023-01-31</td>
 <td align="right">20</td>
 <td align="right">1</td>
-<td align="right">0.05</td>
-<td align="right">14</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="https://kubkalender.kb.dk/event/3997931">R for
-Absolute Beginners</a></td>
-<td align="left">2023-01-31</td>
-<td align="right">20</td>
-<td align="right">1</td>
-<td align="right">0.05</td>
-<td align="right">14</td>
-</tr>
-<tr class="even">
-<td align="left"><a href="https://kubkalender.kb.dk/event/3997931">R for
-Absolute Beginners</a></td>
-<td align="left">2023-01-31</td>
-<td align="right">20</td>
-<td align="right">1</td>
-<td align="right">0.05</td>
-<td align="right">14</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="https://kubkalender.kb.dk/event/3997931">R for
-Absolute Beginners</a></td>
-<td align="left">2023-01-31</td>
-<td align="right">20</td>
-<td align="right">1</td>
-<td align="right">0.05</td>
-<td align="right">14</td>
-</tr>
-<tr class="even">
-<td align="left"><a href="https://kubkalender.kb.dk/event/3908958">Digital humaniora og
-programmering i Python 2</a></td>
-<td align="left">2023-01-23</td>
-<td align="right">25</td>
-<td align="right">19</td>
-<td align="right">0.76</td>
-<td align="right">6</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="https://kubkalender.kb.dk/event/3908959">Digital humaniora og
-programmering i Python 3</a></td>
-<td align="left">2023-01-23</td>
-<td align="right">25</td>
-<td align="right">17</td>
-<td align="right">0.68</td>
-<td align="right">6</td>
 </tr>
 </tbody>
 </table>
