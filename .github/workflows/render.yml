@@ -40,7 +40,7 @@ jobs:
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("tallene.Rmd", output_format = "html_document")'
-      - name: Render tallene
+      - name: Render observationsliste
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten.Rmd", output_format = "html_document")'
