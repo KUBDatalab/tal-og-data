@@ -21,7 +21,7 @@ jobs:
           Rscript -e 'install.packages("lubridate")'
           Rscript -e 'install.packages("here")'
           Rscript -e 'install.packages("tibble")'
-          Rscript -e 'install.packages("ggplot2")'
+          Rscript -e 'install.packages("tidyverse")'
           Rscript -e 'install.packages("plotly")'
           Rscript -e 'install.packages("knitr")'
           Rscript -e 'install.packages("tidyr")'
