@@ -15,6 +15,10 @@ library(knitr)
 
 ```{r source, include = FALSE}
 # source("collate_data.R", encoding = "UTF8") # henter data
+all_events <- list.files("data/event_data/", 
+                         pattern = "events_\\d{4}\\.csv",
+                         full.names = T) %>% 
+  map_df(~read.csv2(.))
 ```
 
 
