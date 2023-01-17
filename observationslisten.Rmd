@@ -15,7 +15,7 @@ wanted <- "KUB Datalab"
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
-```{r}
+```{r echo =F}
 # get client secret ----
 if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
   client_secret <- keyring::key_get("libcal")
@@ -53,7 +53,7 @@ kalender_id <- kalendere %>%
 ```
 
 
-```{r}
+```{r echo = F}
 i <- year(today())
 data <- get_events(kalender_id, i) %>% 
   as_tibble() 
