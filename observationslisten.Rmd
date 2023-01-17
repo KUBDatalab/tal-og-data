@@ -11,34 +11,68 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(lubridate)
 library(knitr)
+wanted <- "KUB Datalab"
+source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
-```{r source, include = FALSE}
-# source("collate_data.R", encoding = "UTF8") # henter data
-all_events <- list.files("data/event_data/", 
-                         pattern = "events_\\d{4}\\.csv",
-                         full.names = T) %>% 
-  map_df(~read.csv2(.))
+```{r}
+# get client secret ----
+if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+  client_secret <- keyring::key_get("libcal")
+}else{
+  client_secret <- Sys.getenv("CLIENT_SECRET")
+}
+
+# get_token ----
+token <- get_token(client_secret = client_secret)
+
+# hent_kalendere ----
+kalendere <- modify_url(
+  url = "https://kubkalender.kb.dk",
+  path = c("1.1", "calendars")
+) %>% 
+  GET(add_headers('Authorization' = paste("bearer", token))) %>% 
+  content() %>% 
+  as_tibble()
+
+
+# get_calid ----
+# Nu finder vi så det relevante calid vi skal bruge
+kalendere <- kalendere %>%
+  unnest_wider(calendars) %>%
+  unnest_wider(url) %>%
+  unnest_wider(owner, names_repair = "universal") %>%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...6)
+
+kalender_id <- kalendere %>%
+  select(calid, kalender_navn, public) %>%
+  filter(kalender_navn == wanted) %>% 
+  .[["calid"]]
 ```
 
 
-```{r echo = F}
-all_events %>% as_tibble() %>% select(c("title", "start", "physical_seats", "physical_seats_taken",
-                                        "online_seats", "online_seats_taken",  "url_public")) %>% 
-  mutate(start = date(ymd_hms(start))) %>% 
-  filter(start > today()) %>% 
-  filter(!is.na(physical_seats)|!is.na(online_seats)) %>% 
-  mutate(`antal pladser` = physical_seats + online_seats) %>% 
-  mutate(tilmeldinger = physical_seats_taken + online_seats_taken) %>% 
-  select(-c(physical_seats, online_seats, physical_seats_taken, online_seats_taken)) %>% 
-  mutate(andel = tilmeldinger/`antal pladser`) %>% 
-  mutate(title = str_c("[", title, "](", url_public, ")")) %>% 
-  select(-url_public) %>%
-mutate(tid = day(as.period(start - today()))) %>%
-kable()
+```{r}
+i <- year(today())
+data <- get_events(kalender_id, i) %>% 
+  as_tibble() 
   
-
+data %>% 
+  unnest_wider(events) %>%
+  unnest_wider(url, names_sep="_") %>%
+  unnest_wider(location, names_sep="_") %>%
+  unnest_wider(campus, names_sep="_") %>%
+  unnest_wider(owner, names_sep= "_") %>%
+  unnest_wider(calendar, names_sep = "_") %>% 
+  select(title, url_public, start, seats, seats_taken) %>% 
+  mutate(seats = as.numeric(seats)) %>% 
+  filter(!is.na(seats)) %>% 
+  mutate(title = str_c("[",title,"](",url_public,")")) %>% 
+  select(-url_public) %>% 
+  filter(start > today()) %>% 
+  mutate(start = date(start)) %>% 
+  kable()
+  
 ```
-
-
 
