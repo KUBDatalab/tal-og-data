@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 # source(here::here("rmd_config.R"))
 library(tidyverse)
 library(lubridate)
+library(kableExtra)
+library(formattable)
 library(knitr)
 wanted <- "KUB Datalab"
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
@@ -58,7 +60,7 @@ i <- year(today())
 data <- get_events(kalender_id, i) %>% 
   as_tibble() 
   
-data %>% 
+til_tabel <- data %>% 
   unnest_wider(events) %>%
   unnest_wider(url, names_sep="_") %>%
   unnest_wider(location, names_sep="_") %>%
@@ -72,7 +74,10 @@ data %>%
   select(-url_public) %>% 
   filter(start > today()) %>% 
   mutate(start = date(start)) %>% 
-  kable()
-  
+  mutate(andel = seats_taken/seats*100) %>% 
+  arrange(start) 
+
+til_tabel$andel <- color_bar(csscolor(gradient(as.numeric(til_tabel$andel), "red", "green")))(til_tabel$andel)
+til_tabel %>% kable(escape = F)
 ```
 
