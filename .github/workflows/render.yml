@@ -19,6 +19,7 @@ jobs:
           Rscript -e 'install.packages("rmarkdown")'
           Rscript -e 'install.packages("knitr")'
           Rscript -e 'install.packages("kableExtra")'
+          Rscript -e 'install.packages("formattable")'
           Rscript -e 'install.packages("purrr")'
           Rscript -e 'install.packages("lubridate")'
           Rscript -e 'install.packages("here")'
