@@ -78,10 +78,23 @@ til_tabel <- data %>%
   select(-url_public) %>% 
   filter(start > today()) %>% 
   mutate(start = date(start)) %>% 
-  mutate(andel = seats_taken/seats*100) %>% 
+  mutate(andel = percent(seats_taken/seats, 0)) %>% 
   arrange(start) 
 
-til_tabel$andel <- color_bar(csscolor(gradient(as.numeric(til_tabel$andel), "red", "green")))(til_tabel$andel)
-til_tabel %>% kable(escape = F)
+
+
+
+til_tabel$bar <- color_bar(csscolor(gradient(as.numeric(til_tabel$andel), "red", "green")))(til_tabel$andel)
+
+til_tabel %>%
+  mutate(bar = str_replace(bar, "border-radius", "color:rgba(0,0,0,0); border-radius")) %>% 
+  kable(escape = F, align = "llrrrl", 
+        col.names = c("Titel",
+                      "Dato",
+                      "Pladser",
+                      "Tilmeldinger",
+                      "% fyldt",
+                      "")) %>% 
+  kable_styling(full_width = F)
 ```
 
