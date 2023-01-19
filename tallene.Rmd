@@ -21,6 +21,9 @@ Det kunne være cool at samkøre data med vores kursus-registreringer.
 
 Skaf mig en API-adgang til det, så skal det nok ske.
 
+BEMÆRK OGSÅ! VI HÅNDTERER PT IKKE FLYTTEDE KURSER KORREKT - DER LIGGER 
+PYTHONKURSER SOM ER BLEVET FLYTTET FRA 2022 TIL 2023 - DET GIVER FEJL!!
+
 ```{r setup, include=FALSE, cache = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # source(here::here("rmd_config.R"))
