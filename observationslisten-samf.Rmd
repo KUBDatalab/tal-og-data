@@ -1,0 +1,100 @@
+---
+title: Tal og data fra SAMF
+output: html_document
+htmlwidgets: TRUE
+always_allow_html: true
+---
+
+
+
+```{r setup, include=FALSE, cache = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# source(here::here("rmd_config.R"))
+library(tidyverse)
+library(lubridate)
+library(kableExtra)
+library(formattable)
+library(knitr)
+wanted <- "Det Samfundsvidenskabelige Fakultetsbibliotek"
+source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
+```
+
+Opdateret `r today()`
+
+```{r echo =F, message=F, warning=F}
+# get client secret ----
+if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+  client_secret <- keyring::key_get("libcal")
+}else{
+  client_secret <- Sys.getenv("CLIENT_SECRET")
+}
+
+# get_token ----
+token <- get_token(client_secret = client_secret)
+
+# hent_kalendere ----
+kalendere <- modify_url(
+  url = "https://kubkalender.kb.dk",
+  path = c("1.1", "calendars")
+) %>% 
+  GET(add_headers('Authorization' = paste("bearer", token))) %>% 
+  content() %>% 
+  as_tibble()
+
+
+# get_calid ----
+# Nu finder vi så det relevante calid vi skal bruge
+kalendere <- kalendere %>%
+  unnest_wider(calendars) %>%
+  unnest_wider(url) %>%
+  unnest_wider(owner, names_repair = "universal") %>%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...6)
+
+kalender_id <- kalendere %>%
+  select(calid, kalender_navn, public) %>%
+  filter(kalender_navn == wanted) %>% 
+  .[["calid"]]
+```
+
+
+```{r echo = F}
+i <- year(today())
+data <- get_events(kalender_id, i) %>% 
+  as_tibble() 
+  
+til_tabel <- data %>% 
+  unnest_wider(events) %>%
+  unnest_wider(url, names_sep="_") %>%
+  unnest_wider(location, names_sep="_") %>%
+  unnest_wider(campus, names_sep="_") %>%
+  unnest_wider(owner, names_sep= "_") %>%
+  unnest_wider(calendar, names_sep = "_") %>% 
+  select(title, url_public, start, seats, seats_taken) %>% 
+  mutate(seats = as.numeric(seats)) %>% 
+  filter(!is.na(seats)) %>% 
+  mutate(title = str_c("[",title,"](",url_public,")")) %>% 
+  select(-url_public) %>% 
+  filter(start > today()) %>% 
+  mutate(start = date(start)) %>% 
+  mutate(andel = percent(seats_taken/seats, 0)) %>% 
+  arrange(start) 
+
+
+
+
+til_tabel$bar <- color_bar(csscolor(gradient(as.numeric(til_tabel$andel), "red", "green")))(til_tabel$andel)
+
+til_tabel %>%
+  mutate(bar = str_replace(bar, "border-radius", "color:rgba(0,0,0,0); border-radius")) %>% 
+  kable(escape = F, align = "llrrrl", 
+        col.names = c("Titel",
+                      "Dato",
+                      "Pladser",
+                      "Tilmeldinger",
+                      "% fyldt",
+                      "")) %>% 
+  kable_styling(full_width = F)
+```
+
