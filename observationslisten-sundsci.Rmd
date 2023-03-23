@@ -1,5 +1,5 @@
 ---
-title: Tal og data fra SAMF
+title: Tal og data fra Sund/Science
 output: html_document
 htmlwidgets: TRUE
 always_allow_html: true
