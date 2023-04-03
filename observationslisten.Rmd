@@ -76,7 +76,7 @@ til_tabel <- data %>%
   filter(!is.na(seats)) %>% 
   mutate(title = str_c("[",title,"](",url_public,")")) %>% 
   select(-url_public) %>% 
-  filter(start > today()) %>% 
+  filter(start >= today()) %>% 
   mutate(start = date(start)) %>% 
   mutate(andel = percent(seats_taken/seats, 0)) %>% 
   arrange(start) 
