@@ -2138,97 +2138,6 @@ The course requires a minimum of five&nbsp;participants.</p>
 <p>The course material is published <a href=""https://kubdatalab.github.io/R-visualisation/"">here</a>, and we expect you to have R, RStudio and the tidyverse libraries installed. Instructions for this can be found <a href=""https://kubdatalab.github.io/R-visualisation/setup.html"">here</a>.</p>
 
 <p>By default our courses are held in Danish, but if one or more learners request it, we will do it in English.</p>";https://kubkalender.kb.dk/event/4026854;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4026854;14430;0;KUB Datalab - Nord;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#9AFCFC;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;;0;0;TRUE;TRUE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
-3999690;Digital humaniora og programmering 1 - Python;FALSE;2023-05-02T07:00:00Z;2023-05-02T09:00:00Z;"<h1 dir=""auto"">En Grimm historie med Python</h1>
-
-<p dir=""auto"">Vil du have bedre styr p&aring; eller opn&aring; kendskab til lister, strings og loops i Python? Det er der mulighed for p&aring; dette kursus.</p>
-
-<p dir=""auto"">Vi l&aelig;rer&nbsp;ogs&aring; om bibliotekerne&nbsp;urllib.request, re, os og nltk gennem konkret anvendelse.</p>
-
-<p dir=""auto"">Progressionen p&aring; kurset er:&nbsp;</p>
-
-<p dir=""auto"">1. vi downloader en e-bog med Grimms eventyr fra Gutenberg</p>
-
-<p dir=""auto"">2. Vi deler bogen op i&nbsp;individuelle eventyr og gemmer disse som txt filer.</p>
-
-<p dir=""auto"">3. Vi bruger NLTK biblioteket som v&aelig;rkt&oslash;j til kvantitative unders&oslash;gelser af hvert eventyr.</p>
-
-<p dir=""auto""><a href=""https://github.com/KUBDatalab/Digital-humaniora-og-programmering-1-3.-Version-2023./blob/main/En%20Grimm%20historie%20med%20Python.ipynb "" target=""_blank"">Klik her for at se den koden, som vi tager udgangspunkt i.</a>&nbsp;</p>
-
-<p dir=""auto"">Kom og v&aelig;r med.</p>
-
-<p dir=""auto"">Kurset foreg&aring;r p&aring; S&oslash;ndre Campus p&aring; biblioteket i KUB Datalab.</p>
-
-<p dir=""auto"">VI forventer, at <a href=""https://www.anaconda.com/pricing/individuals/"" target=""_blank"">Anaconda</a>&nbsp;er installeret inden workshoppen.</p>";https://kubkalender.kb.dk/event/3999690;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999690;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
-3999703;Digital humaniora og programmering 2 - Python;FALSE;2023-05-02T09:30:00Z;2023-05-02T11:30:00Z;"<h3 dir=""auto"">Der var engang et Grimm-kursus, der gav et lille indblik i RegEx</h3>
-
-<p dir=""auto"">Vil du have bedre styr p&aring; eller opn&aring; kendskab til Python og f&aring; en introduktion til RegEX? S&aring; check ind p&aring; dette kursus!&nbsp;</p>
-
-<p dir=""auto"">Vi l&aelig;rer om RegEx biblioteket &quot;re&quot;, dog er det kun funktionen re.findall(), der bliver introduceret, fordi p&aring; den m&aring;de har vi mere tid til at dykke ned i RegEx teknologien.</p>
-
-<p dir=""auto"">Den bliver taget i anvendelse i relation til rensning af tekst, samt i relation til fire tekstminingseksempler.</p>
-
-<p dir=""auto"">Progressionen p&aring; kurset&nbsp;er:</p>
-
-<p dir=""auto"">1. indl&aelig;sning af tekster.</p>
-
-<p dir=""auto"">2. Rensning af tekster.</p>
-
-<p dir=""auto"">3. fire tekstminingseksempler.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Data findes her <a href=""https://github.com/KUBDatalab/datasets"">https://github.com/KUBDatalab/datasets</a>&nbsp;i zipfilen grimm_tales.zip.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto""><a href=""https://github.com/KUBDatalab/Digital-humaniora-og-programmering-1-3.-Version-2023./blob/main/Der%20var%20engang%20et%20Grimm-kursus%2C%20der%20gav%20et%20lille%20indblik%20i%20RegEx.ipynb"" target=""_blank"">Klik her for at se den koden, som vi tager udgangspunkt i.&nbsp;</a></p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Kom og v&aelig;r med.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Kurset foreg&aring;r p&aring; S&oslash;ndre Campus p&aring; biblioteket i KUB Datalab.</p>
-
-<p dir=""auto"">VI forventer, at <a href=""https://www.anaconda.com/pricing/individuals/"" target=""_blank"">Anaconda</a>&nbsp;er installeret inden workshoppen.</p>";https://kubkalender.kb.dk/event/3999703;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999703;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
-3999704;Digital humaniora og programmering 3 - Python;FALSE;2023-05-02T12:00:00Z;2023-05-02T14:00:00Z;"<h3 dir=""auto"">Python med Pandas et rigtig Grimm eventyr</h3>
-
-<p dir=""auto"">Kurset er interessant for dig, hvis du er interesseret i at f&aring; kendskab til Python og biblioteket Panda. Vi bruger bibliotekerne pandas, os, re og nltk og vi l&aelig;rer at skrive en Python-funktion og hvordan man bruger funktioner i Pandas.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Progressionen p&aring; kurser er planlagt til f&oslash;lgende:</p>
-
-<p dir=""auto"">1. indl&aelig;sning af filer til dataframe</p>
-
-<p dir=""auto"">2. Tilf&oslash;jelse af nye kolonner til dataframe</p>
-
-<p dir=""auto"">3. Flere eksempler p&aring; brugen af egne funktioner, der bliver appliceret vha. .apply( lambda x : (x) )</p>
-
-<p dir=""auto"">4. Nltk bliver anvendt til lemmatisering og POS-tagging.</p>
-
-<p dir=""auto"">5. De 10 mest benyttede ord inden for en ordklasse bliver plottet.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Dataen / kildematerialet kan downloades herfra:&nbsp;<a href=""https://github.com/KUBDatalab/datasets"" style=""background-color: rgb(255, 255, 255);"">https://github.com/KUBDatalab/datasets</a>. Data bet&aring;r af Grimms eventyr og ligger i zipfilen grimm_tales.zip.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto""><a href=""https://github.com/KUBDatalab/Digital-humaniora-og-programmering-1-3.-Version-2023./blob/main/Python%20med%20Pandas%20et%20rigtig%20Grimm%20eventyr.ipynb"">Klik her for at se den koden, som vi tager udgangspunkt i.&nbsp;</a></p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Kom og v&aelig;r med.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Kurset foreg&aring;r p&aring; S&oslash;ndre Campus p&aring; biblioteket i KUB Datalab.</p>
-
-<p dir=""auto"">&nbsp;</p>
-
-<p dir=""auto"">Vi&nbsp;forventer, at <a href=""https://www.anaconda.com/pricing/individuals/"" target=""_blank"">Anaconda</a>&nbsp;er installeret inden workshoppen.</p>";https://kubkalender.kb.dk/event/3999704;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999704;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
 3999646;NVivo - Introduktion til kvalitativ dataanalyse-software (QDAS);FALSE;2023-05-03T08:00:00Z;2023-05-03T10:00:00Z;"<p><br />
 Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
 
@@ -2252,7 +2161,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/3999646;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999646;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;TRUE;FALSE;22;10;0;0;10;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/3999646;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999646;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;TRUE;FALSE;22;8;0;0;8;TRUE;NA;NA;NA;NA;NA;NA;NA
 3999646;NVivo - Introduktion til kvalitativ dataanalyse-software (QDAS);FALSE;2023-05-03T08:00:00Z;2023-05-03T10:00:00Z;"<p><br />
 Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
 
@@ -2276,7 +2185,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/3999646;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999646;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;TRUE;FALSE;22;10;0;0;10;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/3999646;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999646;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;TRUE;FALSE;22;8;0;0;8;TRUE;NA;NA;NA;NA;NA;NA;NA
 3987822;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-05-03T10:30:00Z;2023-05-03T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2307,7 +2216,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/3987822;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3987822;4360;0;KUB Nord: Data Lab;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-3999662;Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
+3999662;Online: Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
 
 <p>At the end of the workshop participants will have learned and practised:</p>
 
@@ -2365,7 +2274,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p><br />
 /Lorna Wildgaard (lowi@kb.dk)&nbsp;</p>";https://kubkalender.kb.dk/event/3999662;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999662;0;0;;NA;NA;;33562;Analysis;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674136982.jpg;;0;0;TRUE;FALSE;0;0;40;6;6;TRUE;0;;;;https://kbdk.zoom.us/j/63049981668;;external
-3999662;Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
+3999662;Online: Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
 
 <p>At the end of the workshop participants will have learned and practised:</p>
 
@@ -2423,7 +2332,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p><br />
 /Lorna Wildgaard (lowi@kb.dk)&nbsp;</p>";https://kubkalender.kb.dk/event/3999662;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999662;0;0;;NA;NA;;32027;Datalab;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674136982.jpg;;0;0;TRUE;FALSE;0;0;40;6;6;TRUE;0;;;;https://kbdk.zoom.us/j/63049981668;;external
-3999662;Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
+3999662;Online: Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
 
 <p>At the end of the workshop participants will have learned and practised:</p>
 
@@ -2481,6 +2390,64 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p><br />
 /Lorna Wildgaard (lowi@kb.dk)&nbsp;</p>";https://kubkalender.kb.dk/event/3999662;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999662;0;0;;NA;NA;;33564;English;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674136982.jpg;;0;0;TRUE;FALSE;0;0;40;6;6;TRUE;0;;;;https://kbdk.zoom.us/j/63049981668;;external
+3999662;Online: Nvivo for your literature review;FALSE;2023-05-04T11:00:00Z;2023-05-04T13:00:00Z;"<p>NVivo has advanced features that can help qualitative researchers, but it can also help with analytical writing. In this workshop we focus on literature reviews, but the techniques and discussions we cover in the workshop can also be used when writing articles, conference papers, and student assignments. This is because&nbsp;NVivo helps you organize and&nbsp;&ldquo;code&rdquo; (categorize) your literature, identify concepts and visualize&nbsp;relationships between them and document&nbsp;your method. It can also be helpful in generating&nbsp;hypotheses and generally getting an overview of your project.&nbsp;</p>
+
+<p>At the end of the workshop participants will have learned and practised:</p>
+
+<ul>
+	<li>setting-up an NVivo project: importing data from reference managers, creating folders, using case nodes, and classification&nbsp;attributes&nbsp;</li>
+	<li>using basic analysis features of NVivo: creating parent and child nodes, reviewing and changing coding, adding annotations, applying links, and memoing</li>
+	<li>performing queries&nbsp;and creating frameworks&nbsp;to allow you to compare coded material across different demographics or among themes</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Preperation for the workshop</strong></p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo R1&nbsp;on your laptop.</p>
+
+<p>You can do that here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivoforMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivoforMac/NVivo.dmg</a></p>
+
+<p>After download, use the registration key available through the&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>. Here you&#39;ll find a link to QSR International - Nvivo. Click on the link and accept the agreement.&nbsp; You can now start the download and installation process. You&#39;ll see three text files:</p>
+
+<p>1. Nvivoinstallation.txt - an empty file referring you to the instructions in Nvivo_Win-Mac_Vejledning.txt<br />
+2. Nvivo_Win-Mac_Vejledning.txt - follow the instructions in this file to install Nvivo<br />
+3. Nvivo_Win-Mac_License key 2022 - Save the licence key where you can find it. You&#39;ll need to copy/paste the key in a dialogue box during the installation process</p>
+
+<p>In case of any difficulties in this&nbsp;process, please contact Copenhagen University&rsquo;s Service desk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Data needed for the workshop</strong><br />
+You are also required to import a&nbsp;sample set of PDF articles into your reference manager that are available in the Absalon course room.&nbsp;<strong>Please find the Absalon course room and more information about how to prepare for the course&nbsp;<a href=""https://absalon.ku.dk/courses/48633"">HERE</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Workshop design</strong><br />
+The teaching is based on the PC version of NVivo, where especially for literature reviews the program works best. The Mac-version of the programme is not on the same level as the PC version, but you can of course attend the course with a Mac but there will be some functions not available for you to use.&nbsp;</p>
+
+<ul>
+</ul>
+
+<p>The workshop&nbsp;&quot;NVivo for your literature reviews&quot; builds on participants&rsquo; knowledge gained from the introductory course - <a href=""https://kubkalender.kb.dk/calendar/samf?t=d&amp;q=nvivo%20-%20intro&amp;cid=55&amp;cal=55,6416&amp;inc=0"">NVivo - Introduction to Qualitative Data Analysis Software (QDAS) / Introduktion til kvalitativ dataanalyse-software (QDAS)</a>. The introductory course is offered multiple times throughout the year in both Danish and English. If you are interested in working with interview data in NVivo, please attend the advanced NVivo course <a href=""https://kubkalender.kb.dk/calendar/samf?t=d&amp;q=nvivo%20og&amp;cid=55&amp;cal=55,6416&amp;inc=0"">NVivo og interviewdata</a></p>
+
+<p><br />
+The course requires a minimum of five&nbsp;participants.</p>
+
+<p><br />
+<a href=""https://kub.kb.dk/datalab"">Related website with more workshops and tutorials</a></p>
+
+<p><br />
+<strong>Course location:&nbsp;https://kbdk.zoom.us/j/63049981668</strong></p>
+
+<p><br />
+/Lorna Wildgaard (lowi@kb.dk)&nbsp;</p>";https://kubkalender.kb.dk/event/3999662;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3999662;0;0;;NA;NA;;34059;Online course;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674136982.jpg;;0;0;TRUE;FALSE;0;0;40;6;6;TRUE;0;;;;https://kbdk.zoom.us/j/63049981668;;external
 3987823;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-05-10T10:30:00Z;2023-05-10T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
