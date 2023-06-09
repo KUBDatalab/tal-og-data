@@ -2996,7 +2996,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p>The course will be in English if there are English-speaking participants.</p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;35;19;0;0;19;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;20;19;0;0;19;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037868;Digital humaniora og Python 2 - Regex;FALSE;2023-09-26T09:30:00Z;2023-09-26T11:30:00Z;"<p><span style=""color:#e74c3c;""><strong>**&#39; For English read below **</strong></span></p>
 
 <p>Kurset gennemg&aring;r, hvordan man s&oslash;ge i tekster ved hj&aelig;lp af &rsquo;regul&aelig;re udtryk&rsquo; (RegEX). RegEX er super smarte, fordi man kan bruge dem til at tr&aelig;kke udvalgte stykker tekst ud af en st&oslash;rre tekstsamling, og p&aring; den m&aring;de er regul&aelig;re udtryk meget anvendelige i forhold til tekst- og datamining. Udfordringen er at l&aelig;re at formulere de regul&aelig;re udtryk, men n&aring;r man kommer i gang med udfordringen, er det sjovt, &rsquo;kr&oslash;llet&rsquo; og sp&aelig;ndende at opleve, hvordan man utroligt hurtigt kan fremfinde de passager i tekster, som man er interesseret i. Python underst&oslash;tter regul&aelig;re udtryk, s&aring; det er Python, der er kursets udgangspunkt. Hvis man vil deltage p&aring; kurset, er det ogs&aring; en god id&eacute; at have deltaget p&aring; kurset Digital humaniora og programmering 1.</p>
@@ -3007,7 +3007,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p>The course goes through&nbsp;how to search texts using &#39;regular expressions&#39; (RegEX). RegEX are super smart because you can use them to extract selected pieces of text from a larger text collection, and in that way regular expressions are very useful in relation to text and data mining. The challenge is to learn to formulate the regular expressions, but once you get started with the challenge, it&#39;s fun, &#39;curly&#39; and exciting to experience how incredibly quickly you can find the passages in texts that you are interested in. Python supports regular expressions, so Python is the starting point of the course. If you want to participate in the course, it is also a good idea to have participated in the course Digital humanities and programming 1.</p>
 
-<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037868;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037868;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037868;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037868;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037869;Digital humaniora og Python 3 - Pandas;FALSE;2023-09-26T12:00:00Z;2023-09-26T14:00:00Z;"<p><span style=""color:#e74c3c;""><strong>*** For English read below ***</strong></span></p>
 
 <p>Kurset gennemg&aring;r nogle af Python-biblioteket Pandas&rsquo; mange muligheder. Pandas er et bibliotek i Python, som man benytter til at arbejde med data, der er struktureret i r&aelig;kker og kolonner. Man vil ofte v&aelig;lge at strukturere sine data i r&aelig;kker og kolonner, hvis man har samlet meget data, og der findes ogs&aring; mange datas&aelig;t, som allerede er struktureret s&aring;ledes. Med lidt kendskab til Pandas er man godt hjulpet p&aring; vej til at kunne give sig i kast med dataanalyse af st&oslash;rre datas&aelig;t. P&aring; kurset gennemg&aring;r vi, hvordan man bygger en dataframe, samt hvordan man filtrerer, samment&aelig;ller og visualiserer sine data. Hvis man vil deltage p&aring; kurset, er det ogs&aring; en god id&eacute; at have deltaget p&aring; kurset Digital humaniora og programmering 1 og 2.</p>
@@ -3018,7 +3018,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p>The course goes through some of the many possibilities of the Python library Pandas. Pandas is a library in Python that is used to work with data that is structured in rows and columns. You will often choose to structure your data in rows and columns if you have collected a lot of data, and there are also many data sets that are already structured this way. With a little knowledge of Pandas, you are well helped on your way to being able to get started with data analysis of larger datasets. In the course, we review how to build a data frame, as well as how to filter, tally and visualize your data. If you want to participate in the course, it is also a good idea to have participated in the course Digital humanities and programming 1 and 2.</p>
 
-<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037869;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037869;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037869;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037869;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037367;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-09-27T10:30:00Z;2023-09-27T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -3144,6 +3144,114 @@ The course requires a minimum of five&nbsp;participants.</p>
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037372;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037372;4360;0;KUB Nord: Data Lab;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4042331;Text, data mining og Visual programming med Orange;FALSE;2023-10-25T11:00:00Z;2023-10-25T13:00:00Z;"<p><strong><span style=""color:#c0392b;"">&nbsp;*** For English see below ***&nbsp;</span></strong></p>
+
+<p><a href=""https://orangedatamining.com/"" target=""_blank"">Orange </a>er et nyt, sejt, open source dataminingsprogram, der giver en bred vifte af muligheder til den digitale humanist, der er til text og data mining uden at skulle kode algoritmerne fra bunden.</p>
+
+<p>I Orange foreg&aring;r databehandlingen ved, at du opbygger et workflow af &quot;widgets&quot;, som er algoritmer, som bliver forbundet af &quot;kanaler&quot;, som s&oslash;rger for udveksliningen af data mellem algoritmerne.</p>
+
+<p>Humanister og andre akademikere, der ikke er vant til at scripte i f.eks. Python eller&nbsp;R, oplever det som en fordel, at de ikke skal programmere, men kan behandle data ved at&nbsp;&quot;dragge og droppe&quot; algoritmer.</p>
+
+<p>Det kan potentielt set frigive et overskud, der kan s&aelig;tte ind p&aring; at forst&aring;, hvad de forskellige algoritmer g&oslash;r. I Orange kan brugerne b&aring;de benytte egne data i form af tekst eller&nbsp;billeder, og de kan webscrape data fra for eksempel Pudmed, The Guardian, NY Times eller Wikipedia.&nbsp;<br />
+&nbsp;&nbsp;<br />
+Programmet er udviklet ved University of Ljubljana, Slovenien, og udover sin smarte og visulelle&nbsp;funktionalitet er det meget veldokumenteret sammenlignet med andre open source-produkter.&nbsp;Dokumentationen best&aring;r dels i&nbsp; mange korte, informative&nbsp;videoer, dels i l&aelig;sestof, der findes&nbsp;p&aring; Oranges officielle hjemmeside, hvorfra man ogs&aring; kan downloade programmet.</p>
+
+<p>Hvis der er engelsktalene blandt de tilmeldte, bliver kruset afholdt p&aring; engelsk.</p>
+
+<p>----</p>
+
+<p><a href=""https://orangedatamining.com/"">Orange</a> is a new, cool, open source data mining program that provides a wide range of options for the digital humanist who is into text and data mining without having to code the algorithms from scratch.</p>
+
+<p>In Orange, the data processing takes place by building a workflow of &quot;widgets&quot;, which are algorithms which are connected by &quot;channels&quot;, which ensure the exchange of data between the algorithms.</p>
+
+<p>Humanists and other academics who are not used to scripting in e.g. Python or&nbsp;R, find it an advantage that they don&#39;t have to program, but can process data by&nbsp; &quot;dragging&nbsp;and dropping&quot; algorithms.</p>
+
+<p>It can potentially release a surplus that can be used to understand what the various algorithms do. In Orange, users can both use their own data in the form of text or images, and they can webscrape data from, for example, Pudmed, The Guardian, NY Times or Wikipedia.</p>
+
+<p>The program was developed at the University of Ljubljana, Slovenia, and besides its smart and visual&nbsp;functionality, it is very well documented compared to other open source products. The documentation consists partly of many short, informative videos, partly of reading material that can be found on Orange&#39;s official website, from which you can also download the program.</p>
+
+<p>If there are English speakers among those registered, the mug will be held in English.</p>";https://kubkalender.kb.dk/event/4042331;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4042331;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Orange_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4042331;Text, data mining og Visual programming med Orange;FALSE;2023-10-25T11:00:00Z;2023-10-25T13:00:00Z;"<p><strong><span style=""color:#c0392b;"">&nbsp;*** For English see below ***&nbsp;</span></strong></p>
+
+<p><a href=""https://orangedatamining.com/"" target=""_blank"">Orange </a>er et nyt, sejt, open source dataminingsprogram, der giver en bred vifte af muligheder til den digitale humanist, der er til text og data mining uden at skulle kode algoritmerne fra bunden.</p>
+
+<p>I Orange foreg&aring;r databehandlingen ved, at du opbygger et workflow af &quot;widgets&quot;, som er algoritmer, som bliver forbundet af &quot;kanaler&quot;, som s&oslash;rger for udveksliningen af data mellem algoritmerne.</p>
+
+<p>Humanister og andre akademikere, der ikke er vant til at scripte i f.eks. Python eller&nbsp;R, oplever det som en fordel, at de ikke skal programmere, men kan behandle data ved at&nbsp;&quot;dragge og droppe&quot; algoritmer.</p>
+
+<p>Det kan potentielt set frigive et overskud, der kan s&aelig;tte ind p&aring; at forst&aring;, hvad de forskellige algoritmer g&oslash;r. I Orange kan brugerne b&aring;de benytte egne data i form af tekst eller&nbsp;billeder, og de kan webscrape data fra for eksempel Pudmed, The Guardian, NY Times eller Wikipedia.&nbsp;<br />
+&nbsp;&nbsp;<br />
+Programmet er udviklet ved University of Ljubljana, Slovenien, og udover sin smarte og visulelle&nbsp;funktionalitet er det meget veldokumenteret sammenlignet med andre open source-produkter.&nbsp;Dokumentationen best&aring;r dels i&nbsp; mange korte, informative&nbsp;videoer, dels i l&aelig;sestof, der findes&nbsp;p&aring; Oranges officielle hjemmeside, hvorfra man ogs&aring; kan downloade programmet.</p>
+
+<p>Hvis der er engelsktalene blandt de tilmeldte, bliver kruset afholdt p&aring; engelsk.</p>
+
+<p>----</p>
+
+<p><a href=""https://orangedatamining.com/"">Orange</a> is a new, cool, open source data mining program that provides a wide range of options for the digital humanist who is into text and data mining without having to code the algorithms from scratch.</p>
+
+<p>In Orange, the data processing takes place by building a workflow of &quot;widgets&quot;, which are algorithms which are connected by &quot;channels&quot;, which ensure the exchange of data between the algorithms.</p>
+
+<p>Humanists and other academics who are not used to scripting in e.g. Python or&nbsp;R, find it an advantage that they don&#39;t have to program, but can process data by&nbsp; &quot;dragging&nbsp;and dropping&quot; algorithms.</p>
+
+<p>It can potentially release a surplus that can be used to understand what the various algorithms do. In Orange, users can both use their own data in the form of text or images, and they can webscrape data from, for example, Pudmed, The Guardian, NY Times or Wikipedia.</p>
+
+<p>The program was developed at the University of Ljubljana, Slovenia, and besides its smart and visual&nbsp;functionality, it is very well documented compared to other open source products. The documentation consists partly of many short, informative videos, partly of reading material that can be found on Orange&#39;s official website, from which you can also download the program.</p>
+
+<p>If there are English speakers among those registered, the mug will be held in English.</p>";https://kubkalender.kb.dk/event/4042331;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4042331;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Orange_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4042331;Text, data mining og Visual programming med Orange;FALSE;2023-10-25T11:00:00Z;2023-10-25T13:00:00Z;"<p><strong><span style=""color:#c0392b;"">&nbsp;*** For English see below ***&nbsp;</span></strong></p>
+
+<p><a href=""https://orangedatamining.com/"" target=""_blank"">Orange </a>er et nyt, sejt, open source dataminingsprogram, der giver en bred vifte af muligheder til den digitale humanist, der er til text og data mining uden at skulle kode algoritmerne fra bunden.</p>
+
+<p>I Orange foreg&aring;r databehandlingen ved, at du opbygger et workflow af &quot;widgets&quot;, som er algoritmer, som bliver forbundet af &quot;kanaler&quot;, som s&oslash;rger for udveksliningen af data mellem algoritmerne.</p>
+
+<p>Humanister og andre akademikere, der ikke er vant til at scripte i f.eks. Python eller&nbsp;R, oplever det som en fordel, at de ikke skal programmere, men kan behandle data ved at&nbsp;&quot;dragge og droppe&quot; algoritmer.</p>
+
+<p>Det kan potentielt set frigive et overskud, der kan s&aelig;tte ind p&aring; at forst&aring;, hvad de forskellige algoritmer g&oslash;r. I Orange kan brugerne b&aring;de benytte egne data i form af tekst eller&nbsp;billeder, og de kan webscrape data fra for eksempel Pudmed, The Guardian, NY Times eller Wikipedia.&nbsp;<br />
+&nbsp;&nbsp;<br />
+Programmet er udviklet ved University of Ljubljana, Slovenien, og udover sin smarte og visulelle&nbsp;funktionalitet er det meget veldokumenteret sammenlignet med andre open source-produkter.&nbsp;Dokumentationen best&aring;r dels i&nbsp; mange korte, informative&nbsp;videoer, dels i l&aelig;sestof, der findes&nbsp;p&aring; Oranges officielle hjemmeside, hvorfra man ogs&aring; kan downloade programmet.</p>
+
+<p>Hvis der er engelsktalene blandt de tilmeldte, bliver kruset afholdt p&aring; engelsk.</p>
+
+<p>----</p>
+
+<p><a href=""https://orangedatamining.com/"">Orange</a> is a new, cool, open source data mining program that provides a wide range of options for the digital humanist who is into text and data mining without having to code the algorithms from scratch.</p>
+
+<p>In Orange, the data processing takes place by building a workflow of &quot;widgets&quot;, which are algorithms which are connected by &quot;channels&quot;, which ensure the exchange of data between the algorithms.</p>
+
+<p>Humanists and other academics who are not used to scripting in e.g. Python or&nbsp;R, find it an advantage that they don&#39;t have to program, but can process data by&nbsp; &quot;dragging&nbsp;and dropping&quot; algorithms.</p>
+
+<p>It can potentially release a surplus that can be used to understand what the various algorithms do. In Orange, users can both use their own data in the form of text or images, and they can webscrape data from, for example, Pudmed, The Guardian, NY Times or Wikipedia.</p>
+
+<p>The program was developed at the University of Ljubljana, Slovenia, and besides its smart and visual&nbsp;functionality, it is very well documented compared to other open source products. The documentation consists partly of many short, informative videos, partly of reading material that can be found on Orange&#39;s official website, from which you can also download the program.</p>
+
+<p>If there are English speakers among those registered, the mug will be held in English.</p>";https://kubkalender.kb.dk/event/4042331;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4042331;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Orange_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4042331;Text, data mining og Visual programming med Orange;FALSE;2023-10-25T11:00:00Z;2023-10-25T13:00:00Z;"<p><strong><span style=""color:#c0392b;"">&nbsp;*** For English see below ***&nbsp;</span></strong></p>
+
+<p><a href=""https://orangedatamining.com/"" target=""_blank"">Orange </a>er et nyt, sejt, open source dataminingsprogram, der giver en bred vifte af muligheder til den digitale humanist, der er til text og data mining uden at skulle kode algoritmerne fra bunden.</p>
+
+<p>I Orange foreg&aring;r databehandlingen ved, at du opbygger et workflow af &quot;widgets&quot;, som er algoritmer, som bliver forbundet af &quot;kanaler&quot;, som s&oslash;rger for udveksliningen af data mellem algoritmerne.</p>
+
+<p>Humanister og andre akademikere, der ikke er vant til at scripte i f.eks. Python eller&nbsp;R, oplever det som en fordel, at de ikke skal programmere, men kan behandle data ved at&nbsp;&quot;dragge og droppe&quot; algoritmer.</p>
+
+<p>Det kan potentielt set frigive et overskud, der kan s&aelig;tte ind p&aring; at forst&aring;, hvad de forskellige algoritmer g&oslash;r. I Orange kan brugerne b&aring;de benytte egne data i form af tekst eller&nbsp;billeder, og de kan webscrape data fra for eksempel Pudmed, The Guardian, NY Times eller Wikipedia.&nbsp;<br />
+&nbsp;&nbsp;<br />
+Programmet er udviklet ved University of Ljubljana, Slovenien, og udover sin smarte og visulelle&nbsp;funktionalitet er det meget veldokumenteret sammenlignet med andre open source-produkter.&nbsp;Dokumentationen best&aring;r dels i&nbsp; mange korte, informative&nbsp;videoer, dels i l&aelig;sestof, der findes&nbsp;p&aring; Oranges officielle hjemmeside, hvorfra man ogs&aring; kan downloade programmet.</p>
+
+<p>Hvis der er engelsktalene blandt de tilmeldte, bliver kruset afholdt p&aring; engelsk.</p>
+
+<p>----</p>
+
+<p><a href=""https://orangedatamining.com/"">Orange</a> is a new, cool, open source data mining program that provides a wide range of options for the digital humanist who is into text and data mining without having to code the algorithms from scratch.</p>
+
+<p>In Orange, the data processing takes place by building a workflow of &quot;widgets&quot;, which are algorithms which are connected by &quot;channels&quot;, which ensure the exchange of data between the algorithms.</p>
+
+<p>Humanists and other academics who are not used to scripting in e.g. Python or&nbsp;R, find it an advantage that they don&#39;t have to program, but can process data by&nbsp; &quot;dragging&nbsp;and dropping&quot; algorithms.</p>
+
+<p>It can potentially release a surplus that can be used to understand what the various algorithms do. In Orange, users can both use their own data in the form of text or images, and they can webscrape data from, for example, Pudmed, The Guardian, NY Times or Wikipedia.</p>
+
+<p>The program was developed at the University of Ljubljana, Slovenia, and besides its smart and visual&nbsp;functionality, it is very well documented compared to other open source products. The documentation consists partly of many short, informative videos, partly of reading material that can be found on Orange&#39;s official website, from which you can also download the program.</p>
+
+<p>If there are English speakers among those registered, the mug will be held in English.</p>";https://kubkalender.kb.dk/event/4042331;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4042331;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Orange_logo.jpg;NA;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037373;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-11-01T11:30:00Z;2023-11-01T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -3369,6 +3477,45 @@ The course requires a minimum of five&nbsp;participants.</p>
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037381;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037381;21575;2;Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+3908957;Digital humaniora og Python 1 - NLTK;FALSE;2023-09-26T07:00:00Z;2023-09-26T09:00:00Z;"<p><strong><span style=""color:#e74c3c;"">** For English see below **</span></strong></p>
+
+<p>Kurset gennemg&aring;r grundl&aelig;ggende Python-kode, der kan f&aring; dig i gang med at bruge Python biblioteket NLTK&nbsp;som redskab til&nbsp;tekstanalyser.</p>
+
+<p>Mere teknisk fortalt gennemg&aring;r vi begreber som variabler, v&aelig;rdier, datatyperne tekststrenge og lister, l&oslash;kker og import af NLTK biblioteket. Samtidigt l&aelig;rer du om at klarg&oslash;re dine egne tekster til digital tekstanalyse, og eftersom vi benytter python-programmet Jupyter Notebook, s&aring; opn&aring;r du ogs&aring; et kendskab til det.</p>
+
+<p>Kurset bliver p&aring; engelsk, hvis der er engelsktalene deltagere.</p>
+
+<p>&nbsp;</p>
+
+<p>The course goes through basic Python code that can get you started using the Python library NLTK as a tool for text analysis.</p>
+
+<p>In more technical terms, we go through&nbsp;concepts such as variables, values, the data types text strings and lists, loops and importing the NLTK library. At the same time, you learn about preparing your own texts for digital text analysis, and since we use the python program Jupyter Notebook, you also gain knowledge of it.</p>
+
+<p>The course will be in English if there are English-speaking participants.</p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;35;19;0;0;19;TRUE;NA;NA;NA;NA;NA;NA;NA
+4037868;Digital humaniora og Python 2 - Regex;FALSE;2023-09-26T09:30:00Z;2023-09-26T11:30:00Z;"<p><span style=""color:#e74c3c;""><strong>**&#39; For English read below **</strong></span></p>
+
+<p>Kurset gennemg&aring;r, hvordan man s&oslash;ge i tekster ved hj&aelig;lp af &rsquo;regul&aelig;re udtryk&rsquo; (RegEX). RegEX er super smarte, fordi man kan bruge dem til at tr&aelig;kke udvalgte stykker tekst ud af en st&oslash;rre tekstsamling, og p&aring; den m&aring;de er regul&aelig;re udtryk meget anvendelige i forhold til tekst- og datamining. Udfordringen er at l&aelig;re at formulere de regul&aelig;re udtryk, men n&aring;r man kommer i gang med udfordringen, er det sjovt, &rsquo;kr&oslash;llet&rsquo; og sp&aelig;ndende at opleve, hvordan man utroligt hurtigt kan fremfinde de passager i tekster, som man er interesseret i. Python underst&oslash;tter regul&aelig;re udtryk, s&aring; det er Python, der er kursets udgangspunkt. Hvis man vil deltage p&aring; kurset, er det ogs&aring; en god id&eacute; at have deltaget p&aring; kurset Digital humaniora og programmering 1.</p>
+
+<p>Kurset bliver p&aring; engelsk, hvis der er engelsktalene deltagere.</p>
+
+<p>&nbsp;</p>
+
+<p>The course goes through&nbsp;how to search texts using &#39;regular expressions&#39; (RegEX). RegEX are super smart because you can use them to extract selected pieces of text from a larger text collection, and in that way regular expressions are very useful in relation to text and data mining. The challenge is to learn to formulate the regular expressions, but once you get started with the challenge, it&#39;s fun, &#39;curly&#39; and exciting to experience how incredibly quickly you can find the passages in texts that you are interested in. Python supports regular expressions, so Python is the starting point of the course. If you want to participate in the course, it is also a good idea to have participated in the course Digital humanities and programming 1.</p>
+
+<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037868;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037868;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4037869;Digital humaniora og Python 3 - Pandas;FALSE;2023-09-26T12:00:00Z;2023-09-26T14:00:00Z;"<p><span style=""color:#e74c3c;""><strong>*** For English read below ***</strong></span></p>
+
+<p>Kurset gennemg&aring;r nogle af Python-biblioteket Pandas&rsquo; mange muligheder. Pandas er et bibliotek i Python, som man benytter til at arbejde med data, der er struktureret i r&aelig;kker og kolonner. Man vil ofte v&aelig;lge at strukturere sine data i r&aelig;kker og kolonner, hvis man har samlet meget data, og der findes ogs&aring; mange datas&aelig;t, som allerede er struktureret s&aring;ledes. Med lidt kendskab til Pandas er man godt hjulpet p&aring; vej til at kunne give sig i kast med dataanalyse af st&oslash;rre datas&aelig;t. P&aring; kurset gennemg&aring;r vi, hvordan man bygger en dataframe, samt hvordan man filtrerer, samment&aelig;ller og visualiserer sine data. Hvis man vil deltage p&aring; kurset, er det ogs&aring; en god id&eacute; at have deltaget p&aring; kurset Digital humaniora og programmering 1 og 2.</p>
+
+<p>Kurset bliver p&aring; engelsk, hvis der er engelsk-talene deltagere.</p>
+
+<p>---&nbsp;</p>
+
+<p>The course goes through some of the many possibilities of the Python library Pandas. Pandas is a library in Python that is used to work with data that is structured in rows and columns. You will often choose to structure your data in rows and columns if you have collected a lot of data, and there are also many data sets that are already structured this way. With a little knowledge of Pandas, you are well helped on your way to being able to get started with data analysis of larger datasets. In the course, we review how to build a data frame, as well as how to filter, tally and visualize your data. If you want to participate in the course, it is also a good idea to have participated in the course Digital humanities and programming 1 and 2.</p>
+
+<p>The course will be in English if there are English-speaking participants.</p>";https://kubkalender.kb.dk/event/4037869;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037869;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 3908957;Digital humaniora og programmering i Python 1;FALSE;2023-01-23T08:00:00Z;2023-01-23T10:00:00Z;"<p>Kurset gennemg&aring;r grundl&aelig;ggende Python-kode, der kan f&aring; dig i gang med at bruge programmering som redskab til tekstbehandling, kvantitative analyser og tekst- og datamining.</p>
 
 <p>Mere teknisk fortalt gennemg&aring;r vi begreber som variabler, v&aelig;rdier, datatyperne tekststrenge og lister, l&oslash;kker og import af pakker. Samtidigt l&aelig;rer du om at klarg&oslash;re tekster til digital tekstanalyse, og eftersom vi benytter python-programmet Jupyter Notebook, s&aring; opn&aring;r du ogs&aring; et kendskab til det.</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;TRUE;TRUE;35;19;0;0;19;TRUE;NA;NA;NA;NA;NA;NA;NA
