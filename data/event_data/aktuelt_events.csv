@@ -2996,7 +2996,7 @@ The course requires a minimum of five&nbsp;participants.</p>
 
 <p>The course will be in English if there are English-speaking participants.</p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;19;0;0;19;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/3908957;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=3908957;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037868;Digital humaniora og Python 2 - Regex;FALSE;2023-09-26T09:30:00Z;2023-09-26T11:30:00Z;"<p><span style=""color:#e74c3c;""><strong>**&#39; For English read below **</strong></span></p>
 
 <p>Kurset gennemg&aring;r, hvordan man s&oslash;ge i tekster ved hj&aelig;lp af &rsquo;regul&aelig;re udtryk&rsquo; (RegEX). RegEX er super smarte, fordi man kan bruge dem til at tr&aelig;kke udvalgte stykker tekst ud af en st&oslash;rre tekstsamling, og p&aring; den m&aring;de er regul&aelig;re udtryk meget anvendelige i forhold til tekst- og datamining. Udfordringen er at l&aelig;re at formulere de regul&aelig;re udtryk, men n&aring;r man kommer i gang med udfordringen, er det sjovt, &rsquo;kr&oslash;llet&rsquo; og sp&aelig;ndende at opleve, hvordan man utroligt hurtigt kan fremfinde de passager i tekster, som man er interesseret i. Python underst&oslash;tter regul&aelig;re udtryk, s&aring; det er Python, der er kursets udgangspunkt. Hvis man vil deltage p&aring; kurset, er det ogs&aring; en god id&eacute; at have deltaget p&aring; kurset Digital humaniora og programmering 1.</p>
@@ -3044,6 +3044,80 @@ The course requires a minimum of five&nbsp;participants.</p>
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037367;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037367;4360;0;KUB Nord: Data Lab;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4043346;Ryd op i data med OpenRefine / Tidy up data with Open Refine;FALSE;2023-09-27T11:00:00Z;2023-09-27T13:00:00Z;"<p><span style=""color:#c0392b;""><strong>*** For English read below ***</strong></span>&nbsp;</p>
+
+<p>Det er en tidskr&aelig;vende opgave at koorigere sm&aring; fejl eller uensartethed i datas&aelig;t.<br />
+Opgaven i at skabe et homogent datagrundlag vil ofte tage meget l&aelig;ngere tid, end man havde forestillet sig, at den opgave skulle tage.<br />
+Man &oslash;nsker egentlig ikke at bruge sin tid p&aring; at rydde op i data og rense op i fejl, fordi man vil gerne i gang med at udvikle sin analyse af datamaterialet.<br />
+Men rene data er en foruds&aelig;tning for at kunne skabe pivottabeller, databaser og lave statistik eller grafer; og det er her OpenRefine kommer ind i billedet.</p>
+
+<p>OpenRefine er udviklet til at rydde op i data og skabe homogene data, og det kan spare dig for mange timers oprydningsarbejde.</p>
+
+<p>OpenRefine er et stort program med mange smarte funktioner, men p&aring; dette kursus afgr&aelig;nser vi os.<br />
+Du kan l&aelig;re at bruge nogle f&aring; funktioner, som du kan f&aring; gl&aelig;de af, hvis du arbejder med digitaliserede historiske data, som er organiseret i r&aelig;kkker og kolonner.<br />
+Det kan f.eks. v&aelig;re folket&aelig;llinger, begravelsesprotokoller, &Oslash;resundstoldens protokoller eller historiske metadata fra Det Kgl. Bibliotek.<br />
+Din faglige viden og dit dom&aelig;nekendskab kommer i spil, n&aring;r du skal udv&aelig;lge de mest relevante r&aring; data og rense data dem op, fordi hvilke konsekvenser f&aring;r oprydningen og systematiseringen for din analyse?<br />
+Dette kursus tager to timer, og de er godt givet ud.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere, som ikke taler dansk.</p>
+
+<p>Download OpenRefine herfra inden kurset:&nbsp;<a href=""https://openrefine.org/"" target=""_blank"">https://openrefine.org/</a></p>
+
+<p>&nbsp;</p>
+
+<p>Correcting small errors or inconsistencies in datasets is a time-consuming task.<br />
+The task of creating a basis of homogeneous data will often take much longer than imagined.<br />
+You don&#39;t really want to spend your time scrubbing data and cleaning up errors, because you really want to start developing your analysis of the data material.<br />
+But clean data is a prerequisite for pivot tables, databases, statistics, or graphs; and this is where OpenRefine comes into play.</p>
+
+<p>OpenRefine is developed to clean up data and to create homogeneous data, and it can save you many hours of work.</p>
+
+<p>OpenRefine is a large program with many smart functions, but in this course we limit ourselves.<br />
+You can learn to use a few features that you can benefit from when working with digitized historical data that is organized in rows and columns.<br />
+It will often be records like for example censuses, burial protocols, the Sound Toll or historical metadata from the Royal Danish Library.<br />
+Your professional knowledge and your domain knowledge come into play when you have to select the most relevant raw data and clean up the data, because what consequences does the cleaning and systematization have for your analysis?<br />
+This course takes two hours, and they are well spent.</p>
+
+<p>The course is in English if there are people among the participants who do not speak Danish.</p>
+
+<p>Download OpenRefine from here before the course:&nbsp;&nbsp;<a href=""https://openrefine.org/"" target=""_blank"">https://openrefine.org/</a></p>";https://kubkalender.kb.dk/event/4043346;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4043346;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33561;Cleaning;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4043346;Ryd op i data med OpenRefine / Tidy up data with Open Refine;FALSE;2023-09-27T11:00:00Z;2023-09-27T13:00:00Z;"<p><span style=""color:#c0392b;""><strong>*** For English read below ***</strong></span>&nbsp;</p>
+
+<p>Det er en tidskr&aelig;vende opgave at koorigere sm&aring; fejl eller uensartethed i datas&aelig;t.<br />
+Opgaven i at skabe et homogent datagrundlag vil ofte tage meget l&aelig;ngere tid, end man havde forestillet sig, at den opgave skulle tage.<br />
+Man &oslash;nsker egentlig ikke at bruge sin tid p&aring; at rydde op i data og rense op i fejl, fordi man vil gerne i gang med at udvikle sin analyse af datamaterialet.<br />
+Men rene data er en foruds&aelig;tning for at kunne skabe pivottabeller, databaser og lave statistik eller grafer; og det er her OpenRefine kommer ind i billedet.</p>
+
+<p>OpenRefine er udviklet til at rydde op i data og skabe homogene data, og det kan spare dig for mange timers oprydningsarbejde.</p>
+
+<p>OpenRefine er et stort program med mange smarte funktioner, men p&aring; dette kursus afgr&aelig;nser vi os.<br />
+Du kan l&aelig;re at bruge nogle f&aring; funktioner, som du kan f&aring; gl&aelig;de af, hvis du arbejder med digitaliserede historiske data, som er organiseret i r&aelig;kkker og kolonner.<br />
+Det kan f.eks. v&aelig;re folket&aelig;llinger, begravelsesprotokoller, &Oslash;resundstoldens protokoller eller historiske metadata fra Det Kgl. Bibliotek.<br />
+Din faglige viden og dit dom&aelig;nekendskab kommer i spil, n&aring;r du skal udv&aelig;lge de mest relevante r&aring; data og rense data dem op, fordi hvilke konsekvenser f&aring;r oprydningen og systematiseringen for din analyse?<br />
+Dette kursus tager to timer, og de er godt givet ud.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere, som ikke taler dansk.</p>
+
+<p>Download OpenRefine herfra inden kurset:&nbsp;<a href=""https://openrefine.org/"" target=""_blank"">https://openrefine.org/</a></p>
+
+<p>&nbsp;</p>
+
+<p>Correcting small errors or inconsistencies in datasets is a time-consuming task.<br />
+The task of creating a basis of homogeneous data will often take much longer than imagined.<br />
+You don&#39;t really want to spend your time scrubbing data and cleaning up errors, because you really want to start developing your analysis of the data material.<br />
+But clean data is a prerequisite for pivot tables, databases, statistics, or graphs; and this is where OpenRefine comes into play.</p>
+
+<p>OpenRefine is developed to clean up data and to create homogeneous data, and it can save you many hours of work.</p>
+
+<p>OpenRefine is a large program with many smart functions, but in this course we limit ourselves.<br />
+You can learn to use a few features that you can benefit from when working with digitized historical data that is organized in rows and columns.<br />
+It will often be records like for example censuses, burial protocols, the Sound Toll or historical metadata from the Royal Danish Library.<br />
+Your professional knowledge and your domain knowledge come into play when you have to select the most relevant raw data and clean up the data, because what consequences does the cleaning and systematization have for your analysis?<br />
+This course takes two hours, and they are well spent.</p>
+
+<p>The course is in English if there are people among the participants who do not speak Danish.</p>
+
+<p>Download OpenRefine from here before the course:&nbsp;&nbsp;<a href=""https://openrefine.org/"" target=""_blank"">https://openrefine.org/</a></p>";https://kubkalender.kb.dk/event/4043346;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4043346;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/OpenRefine_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037368;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-10-04T10:30:00Z;2023-10-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
