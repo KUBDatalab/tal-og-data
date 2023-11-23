@@ -6243,7 +6243,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4080300;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4080300;0;0;;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;TRUE;FALSE;22;10;0;0;10;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4080300;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4080300;0;0;;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;TRUE;FALSE;22;11;0;0;11;TRUE;NA;NA;NA;NA;NA;NA;NA
 4080300;NVivo og interviewdata;FALSE;2023-11-23T09:30:00Z;2023-11-23T12:00:00Z;"<p><br />
 <strong>Dette kursus er ikke et introducerende kursus, men&nbsp;foruds&aelig;tter en grundl&aelig;ggende forst&aring;else for NVivos funktioner.</strong><br />
 Denne forst&aring;else kan evt. f&aring;s via deltagelse i vores introducerende NVivo-kurser, som findes her:<br />
@@ -6272,7 +6272,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4080300;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4080300;0;0;;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;TRUE;FALSE;22;10;0;0;10;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4080300;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4080300;0;0;;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;TRUE;FALSE;22;11;0;0;11;TRUE;NA;NA;NA;NA;NA;NA;NA
 4114953;Python for Absolute Beginners pt. 1;FALSE;2023-11-24T08:00:00Z;2023-11-24T11:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. For registration to part 2, visit here:</strong><br />
 <a href=""https://kubkalender.kb.dk/event/4114954"">https://kubkalender.kb.dk/event/4114954</a></p>
@@ -6530,126 +6530,110 @@ Collect 2D data and generate 3D data - photogrammetry with Metashape</h4>
 <p>If there are participants who do not speak Danish, the course will be conducted in English.&nbsp;In the picture below, the Glyptoteket staff entrance is marked with a red circle.</p>
 
 <p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>";https://kubkalender.kb.dk/event/4117877;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4117877;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Metashape_logo.jpg;;0;0;TRUE;FALSE;10;10;0;0;10;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119816;Python for let øvede: Digital Humaniora og tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+4119816;Python for let øvede: Tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; Python funktioner.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119816;Python for let øvede: Tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119816;Python for let øvede: Digital Humaniora og tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; Python funktioner.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119816;Python for let øvede: Tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119816;Python for let øvede: Digital Humaniora og tekstanalyse 1 - RegEX;FALSE;2023-12-05T08:00:00Z;2023-12-05T09:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; Python funktioner.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119818;Python for let øvede: Tekstanalyse 2 - Pandas og Spacy;FALSE;2023-12-05T10:00:00Z;2023-12-05T11:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119816;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119818;Python for let øvede: Digital Humaniora og tekstanalyse 2 - Pandas og Spacy;FALSE;2023-12-05T10:00:00Z;2023-12-05T11:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119818;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119818;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119818;Python for let øvede: Tekstanalyse 2 - Pandas og Spacy;FALSE;2023-12-05T10:00:00Z;2023-12-05T11:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; python funktioner.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119818;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119818;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119818;Python for let øvede: Digital Humaniora og tekstanalyse 2 - Pandas og Spacy;FALSE;2023-12-05T10:00:00Z;2023-12-05T11:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119818;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119818;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119819;Python for let øvede: Tekstanalyse 3 - Scikit-learn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; python funktioner.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119818;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119818;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119819;Python for let øvede: Digital Humaniora og tekstanalyse 3 - Maskinlæring med SKLearn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119819;Python for let øvede: Tekstanalyse 3 - Scikit-learn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; python funktioner.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119819;Python for let øvede: Digital Humaniora og tekstanalyse 3 - Maskinlæring med SKLearn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4119819;Python for let øvede: Tekstanalyse 3 - Scikit-learn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
 
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
+<p>Det f&oslash;rste kursus, <a href=""https://kubkalender.kb.dk/event/4119816"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 1 - RegEX</a>,&nbsp;handler om at s&oslash;ge i&nbsp;text strings vha. biblioteket RegEX.</p>
 
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
+<p>Andet kursus, <a href=""https://kubkalender.kb.dk/event/4119818"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 2 - Pandas og Spacy</a>,&nbsp;introducerer bibliotekerne Pandas og SpaCy og handler om dataframes og om at berige tekstdata med ordklasser.</p>
 
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
+<p>Tredje kursus, <a href=""https://kubkalender.kb.dk/event/4119819"" target=""_blank"">Python for let &oslash;vede: Tekstanalyse 3 - Scikit-learn</a>,&nbsp;handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket Scikit-learn.</p>
 
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; python funktioner.</p>
+<p>Du skal tilmelde dig kurserne individuelt,&nbsp;og du&nbsp;kan frit v&aelig;lge,&nbsp;om du&nbsp;vil&nbsp;deltage i et, to eller&nbsp;tre&nbsp;kurser.&nbsp;&nbsp;</p>
 
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
+<p>Det&nbsp;er en fordel,&nbsp;men ikke et krav, at du&nbsp;har&nbsp;pr&oslash;vet at programmere f&oslash;r.&nbsp;Hvis du er interesseret i grundl&aelig;ggende&nbsp;Python,&nbsp;anbefaler vi, at du deltager i vores kursus &quot;<a href=""https://kubkalender.kb.dk/calendar/datalab?t=d&amp;q=python&amp;cid=6416&amp;cal=6416&amp;inc=0"" target=""_blank"">Python for Absolute Beginners</a>&quot;.&nbsp;</p>
 
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
-
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4119819;Python for let øvede: Digital Humaniora og tekstanalyse 3 - Maskinlæring med SKLearn;FALSE;2023-12-05T12:00:00Z;2023-12-05T13:30:00Z;"<p>De tre kurser Digital Humaniora og tekstanalyse 1, 2 og 3 handler om text mining og&nbsp;bibliotekerne RegEX, Pandas, Spacy, SKLearn og Seaborn, og er m&aring;lrettet studerende, som har pr&oslash;vet at programmere f&oslash;r, og som er&nbsp;interesseret i tekstanalyse og Python.</p>
-
-<p>Det f&oslash;rste kursus handler om at indl&aelig;se og bearbejde text strings vha. Python streng metoder og RegEX.</p>
-
-<p>Andet kursus handler om datastruktur og om at berige tekstdata med ordklasser. Python bibliotekerne&nbsp;Pandas og Spacy bliver introduceret.&nbsp;</p>
-
-<p>Tredje kursus handler om text mining, word embeddings, bag of words og maskinl&aelig;ringsbiblioteket SKLearn.</p>
-
-<p>For den absolute begynder i Python er der v&aelig;re en masse ord og begeber, som vil v&aelig;re fremmede. Som beskrevet ovenfor bliver der brugt en r&aelig;kke forskellige biblioteker, men der indg&aring;r ogs&aring; python funktioner.</p>
-
-<p>Der vil ikke blive brugt ret meget tid p&aring; grundl&aelig;ggende begreber som f.eks. variabler, loops og forskellige datatyper. Det kan du finde vejledning til i&nbsp;<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" rel=""nofollow"" target=""_blank"">Python for Absolute Beginners</a>.</p>
-
-<p>Der vil i stedet blive brugt tid p&aring; samtaler om forskellige tekniske begreber, der er nyttige at have kendskab til, n&aring;r du skal i gang med at bruge Python til tekstnalyse og text mining.</p>
-
-<p>Inden kursus bedes du have installeret <a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>Inden kursus bedes du have installeret&nbsp;<a href=""https://www.anaconda.com/download"">Anaconda</a>.</p>";https://kubkalender.kb.dk/event/4119819;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4119819;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037378;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2023-12-06T11:30:00Z;2023-12-06T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
