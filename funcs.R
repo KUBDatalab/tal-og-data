@@ -31,7 +31,7 @@ get_token <- function(client_secret){
 # Henter de 500 første events i year for kalenderen med id'et calid
 # returnerer liste med events.
 get_events <- function(calid, year){
-    dato <- today %m-% months(1)
+  dato <- today() %m-% months(1)
   dato <- as.character(dato)
   
   url <- modify_url(
