@@ -3,7 +3,6 @@
 library(purrr)
 library(lubridate)
 library(tibble)  
-library(plotly)
 library(rmarkdown)
 library(here)
 library(ggplot2)
@@ -32,7 +31,9 @@ get_token <- function(client_secret){
 # Henter de 500 første events i year for kalenderen med id'et calid
 # returnerer liste med events.
 get_events <- function(calid, year){
-  dato <- paste0(year, "-01-01")
+    dato <- today %m-% months(1)
+  dato <- as.character(dato)
+  
   url <- modify_url(
     url = "https://kubkalender.kb.dk",
     path = c("1.1", "events"),
