@@ -54,8 +54,8 @@ kalendere <- kalendere %>%
 
 kalender_id <- kalendere %>%
   select(calid, kalender_navn, public) %>%
-  filter(kalender_navn == wanted) %>% 
-  .[["calid"]]
+  filter(kalender_navn == wanted) 
+kalender_id <- kalender_id$calid
 ```
 
 
