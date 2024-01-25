@@ -95,6 +95,6 @@ til_tabel %>%
                       "Tilmeldinger",
                       "% fyldt",
                       "")) %>% 
-  kable_styling(full_width = F)
+  kable_styling(full_width = T)
 ```
 
