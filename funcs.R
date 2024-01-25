@@ -18,12 +18,12 @@ library(readr)
 get_token <- function(client_secret){
   token_endpoint <- "https://kubkalender.kb.dk/1.1/oauth/token"
   client_id <- "110"
-  POST(token_endpoint,
+  token <- POST(token_endpoint,
                 body = list(grant_type = "client_credentials",
                             client_id = client_id,
                             client_secret = client_secret)) %>% 
-    content() %>% 
-    .[["access_token"]]
+    content() 
+  token[["access_token"]]
   
 }
 
