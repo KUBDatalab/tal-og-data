@@ -23,7 +23,7 @@ Opdateret `r today()`
 
 ```{r echo =F, message=F, warning=F}
 # get client secret ----
-if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+if(here::here() == "P:/R_projekter/tal-og-data"){
   client_secret <- keyring::key_get("libcal")
 }else{
   client_secret <- Sys.getenv("CLIENT_SECRET")
