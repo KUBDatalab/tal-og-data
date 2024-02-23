@@ -1,214 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4117877;Indsaml 2D fotografier og generer 3D data - fotogrammetri med Metashape;FALSE;2024-01-22T08:30:00Z;2024-01-22T15:00:00Z;"<p><strong><span style=""color:#c0392b;"">*** For English see below (non-Danish speaking participants are welcome)&nbsp;***</span></strong><strong><span style=""color:#c0392b;""></span></strong></p>
-
-<p><strong><span style=""color:#c0392b;""></span></strong><br />
-3D data har tilf&oslash;jet nye dimensioner til kulturarvsomr&aring;det b&aring;de i relation til dokumentation&nbsp;og i relation til formidling, og det er, hvad kurset skaber indblik i.</p>
-
-<p>Fotogrammetri er, n&aring;r 3D data bliver skabt vha. 2D fotografier. Ark&aelig;ologer bruger&nbsp;fotogrammetri til at gengive b&aring;de sm&aring; og store genstande, f.eks. skulpturer, runesten,&nbsp;heleristninger, udgravningsfelter og bygninger.</p>
-
-<p>2D fotografier bliver indsamlet med almindelige spejlreflekskameraer, n&aring;r det drejer sig om&nbsp;mindre genstande, og med droner, n&aring;r det drejer sig om landsskabsmodeller.</p>
-
-<p>3D data opst&aring;r ved at behandle fotografierne med software, og det er meget ofte&nbsp;programmet Metashape, som bliver benyttet. 3D-modellerne f&oslash;jer nye muligheder til ark&aelig;ologers arbejde i relation til for- og&nbsp;fjernunders&oslash;gelser, formidling, inddragelse af VR osv. Du kan selv f&aring; indblik i mulighederne ved at deltage p&aring; kurset.</p>
-
-<p>P&aring; kursuset bliver du introduceret til&nbsp;processen. Du er b&aring;de med til at indsamle data i&nbsp;form af 2D fotografier og med til at genere 3D data.&nbsp;Kurset begynder p&aring; Ny Carlsberg Glyptotek, hvor vi indsamler data. Dataindsamlingen foreg&aring;r ved, at vi fotograferer udvalgte skulpturer i udstillingen.&nbsp;Kurset fors&aelig;tter p&aring; KUB Datalab, K&oslash;benhavns Universitetsbibliotek, S&oslash;ndre Campus, hvor vi&nbsp;bearbejder data. Bearbejdningen foreg&aring;r ved, at vi omskaber fotografierne til 3D data ved&nbsp;hj&aelig;lp af nogle st&aelig;rke gamer-computere og programmet Metashape.</p>
-
-<p>Planen er i store tr&aelig;k s&aring;ledes.</p>
-
-<ul>
-	<li>09:30 - Vi m&oslash;des ved Glyptotekets personaleindgang (se billedet&nbsp;nedenfor), hvor vi bliver modtaget af en medarbejder&nbsp;og bliver guidet hen til de skulpturer, som vi kan fotografere.</li>
-	<li>09:45 - 11:30 - Vi indsamler data - dvs. tager billeder. Jeg medbringer tre kameraer,&nbsp;men har du selv et digitalt spejlreflekskamera, s&aring; er du velkommen til at medbringe dette.</li>
-	<li>11:30 - Vi siger farvel til Glyptoteket&nbsp;og cykler / g&aring;r til S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - Vi m&oslash;des i KUB Datalab SC og processerer modellerne.</li>
-</ul>
-
-<p>For at give et indtryk af, hvad det hele handler om, har jeg funder et par links til sites med&nbsp;ark&aelig;ologiske 3D modeller:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>Hvis der er deltagere, der ikke taler dansk, vil kurset blive afviklet p&aring; engelsk. P&aring; billedet neden for er&nbsp;Glyptotekets personaleindgang market med en r&oslash;d cirkel.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>
-
-<h4><br />
-Collect 2D data and generate 3D data - photogrammetry with Metashape</h4>
-
-<p><br />
-3D data has added new dimensions to the field of cultural heritage both in relation to&nbsp;documentation and in relation to dissemination, and this is what the course creates an&nbsp;insight into.</p>
-
-<p>Photogrammetry is when 3D data is created using 2D photographs. Archaeologists use&nbsp;photogrammetry to reproduce both small and large objects, e.g. sculptures, runestones,&nbsp;carvings, excavation sites and buildings.</p>
-
-<p>2D photographs are collected with regular SLR cameras when it comes to smaller objects, and with drones when it comes to landscape models.&nbsp;3D data is created by processing the photographs with software, and it is very often the&nbsp;program Metashape&nbsp;that is used.</p>
-
-<p>The 3D models add new possibilities to archaeologists&#39; work in relation to preliminary and remote investigations, communication, the inclusion of VR, etc. You can get an insight into&nbsp;the possibilities yourself by participating in the course.</p>
-
-<p>On the course you will be introduced to the process. You both help to collect data in&nbsp;the form of 2D photographs and help to generate 3D data.</p>
-
-<p>The course begins at The Glyptotek&#39;s, where we collect data. The data collection takes&nbsp;place by photographing selected sculptures in the&nbsp;exhibition.&nbsp;The course continues at KUB Datalab, Copenhagen University Library, S&oslash;ndre Campus,&nbsp;where we process data. The processing is converting the photographs into 3D&nbsp;data using some powerful gamer computers and the program Metashape.&nbsp;</p>
-
-<p>The plan is roughly as follows.</p>
-
-<ul>
-	<li>09:30 - We meet at the staff entrance of The Glypotek (see image below), where we are received by a museum&nbsp;employee and are guided to the collections</li>
-	<li>09:45 - 12:00 - We collect data - i.e. taking pictures. I bring three cameras, but if you&nbsp;have a digital SLR yourself, you are welcome to bring this.</li>
-	<li>12:00 - We say a nice goodbye to The Glyptotek&#39;s and cycle / walk to S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - We meet in KUB Datalab SC and process the models.</li>
-</ul>
-
-<p>To give an impression of what it&#39;s all about, I found a few links to sites with archaeological&nbsp;3D models:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>If there are participants who do not speak Danish, the course will be conducted in English.&nbsp;In the picture below, the Glyptoteket staff entrance is marked with a red circle.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>";https://kubkalender.kb.dk/event/4117877;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4117877;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;10;10;0;0;10;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Metashape_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4117877;Indsaml 2D fotografier og generer 3D data - fotogrammetri med Metashape;FALSE;2024-01-22T08:30:00Z;2024-01-22T15:00:00Z;"<p><strong><span style=""color:#c0392b;"">*** For English see below (non-Danish speaking participants are welcome)&nbsp;***</span></strong><strong><span style=""color:#c0392b;""></span></strong></p>
-
-<p><strong><span style=""color:#c0392b;""></span></strong><br />
-3D data har tilf&oslash;jet nye dimensioner til kulturarvsomr&aring;det b&aring;de i relation til dokumentation&nbsp;og i relation til formidling, og det er, hvad kurset skaber indblik i.</p>
-
-<p>Fotogrammetri er, n&aring;r 3D data bliver skabt vha. 2D fotografier. Ark&aelig;ologer bruger&nbsp;fotogrammetri til at gengive b&aring;de sm&aring; og store genstande, f.eks. skulpturer, runesten,&nbsp;heleristninger, udgravningsfelter og bygninger.</p>
-
-<p>2D fotografier bliver indsamlet med almindelige spejlreflekskameraer, n&aring;r det drejer sig om&nbsp;mindre genstande, og med droner, n&aring;r det drejer sig om landsskabsmodeller.</p>
-
-<p>3D data opst&aring;r ved at behandle fotografierne med software, og det er meget ofte&nbsp;programmet Metashape, som bliver benyttet. 3D-modellerne f&oslash;jer nye muligheder til ark&aelig;ologers arbejde i relation til for- og&nbsp;fjernunders&oslash;gelser, formidling, inddragelse af VR osv. Du kan selv f&aring; indblik i mulighederne ved at deltage p&aring; kurset.</p>
-
-<p>P&aring; kursuset bliver du introduceret til&nbsp;processen. Du er b&aring;de med til at indsamle data i&nbsp;form af 2D fotografier og med til at genere 3D data.&nbsp;Kurset begynder p&aring; Ny Carlsberg Glyptotek, hvor vi indsamler data. Dataindsamlingen foreg&aring;r ved, at vi fotograferer udvalgte skulpturer i udstillingen.&nbsp;Kurset fors&aelig;tter p&aring; KUB Datalab, K&oslash;benhavns Universitetsbibliotek, S&oslash;ndre Campus, hvor vi&nbsp;bearbejder data. Bearbejdningen foreg&aring;r ved, at vi omskaber fotografierne til 3D data ved&nbsp;hj&aelig;lp af nogle st&aelig;rke gamer-computere og programmet Metashape.</p>
-
-<p>Planen er i store tr&aelig;k s&aring;ledes.</p>
-
-<ul>
-	<li>09:30 - Vi m&oslash;des ved Glyptotekets personaleindgang (se billedet&nbsp;nedenfor), hvor vi bliver modtaget af en medarbejder&nbsp;og bliver guidet hen til de skulpturer, som vi kan fotografere.</li>
-	<li>09:45 - 11:30 - Vi indsamler data - dvs. tager billeder. Jeg medbringer tre kameraer,&nbsp;men har du selv et digitalt spejlreflekskamera, s&aring; er du velkommen til at medbringe dette.</li>
-	<li>11:30 - Vi siger farvel til Glyptoteket&nbsp;og cykler / g&aring;r til S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - Vi m&oslash;des i KUB Datalab SC og processerer modellerne.</li>
-</ul>
-
-<p>For at give et indtryk af, hvad det hele handler om, har jeg funder et par links til sites med&nbsp;ark&aelig;ologiske 3D modeller:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>Hvis der er deltagere, der ikke taler dansk, vil kurset blive afviklet p&aring; engelsk. P&aring; billedet neden for er&nbsp;Glyptotekets personaleindgang market med en r&oslash;d cirkel.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>
-
-<h4><br />
-Collect 2D data and generate 3D data - photogrammetry with Metashape</h4>
-
-<p><br />
-3D data has added new dimensions to the field of cultural heritage both in relation to&nbsp;documentation and in relation to dissemination, and this is what the course creates an&nbsp;insight into.</p>
-
-<p>Photogrammetry is when 3D data is created using 2D photographs. Archaeologists use&nbsp;photogrammetry to reproduce both small and large objects, e.g. sculptures, runestones,&nbsp;carvings, excavation sites and buildings.</p>
-
-<p>2D photographs are collected with regular SLR cameras when it comes to smaller objects, and with drones when it comes to landscape models.&nbsp;3D data is created by processing the photographs with software, and it is very often the&nbsp;program Metashape&nbsp;that is used.</p>
-
-<p>The 3D models add new possibilities to archaeologists&#39; work in relation to preliminary and remote investigations, communication, the inclusion of VR, etc. You can get an insight into&nbsp;the possibilities yourself by participating in the course.</p>
-
-<p>On the course you will be introduced to the process. You both help to collect data in&nbsp;the form of 2D photographs and help to generate 3D data.</p>
-
-<p>The course begins at The Glyptotek&#39;s, where we collect data. The data collection takes&nbsp;place by photographing selected sculptures in the&nbsp;exhibition.&nbsp;The course continues at KUB Datalab, Copenhagen University Library, S&oslash;ndre Campus,&nbsp;where we process data. The processing is converting the photographs into 3D&nbsp;data using some powerful gamer computers and the program Metashape.&nbsp;</p>
-
-<p>The plan is roughly as follows.</p>
-
-<ul>
-	<li>09:30 - We meet at the staff entrance of The Glypotek (see image below), where we are received by a museum&nbsp;employee and are guided to the collections</li>
-	<li>09:45 - 12:00 - We collect data - i.e. taking pictures. I bring three cameras, but if you&nbsp;have a digital SLR yourself, you are welcome to bring this.</li>
-	<li>12:00 - We say a nice goodbye to The Glyptotek&#39;s and cycle / walk to S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - We meet in KUB Datalab SC and process the models.</li>
-</ul>
-
-<p>To give an impression of what it&#39;s all about, I found a few links to sites with archaeological&nbsp;3D models:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>If there are participants who do not speak Danish, the course will be conducted in English.&nbsp;In the picture below, the Glyptoteket staff entrance is marked with a red circle.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>";https://kubkalender.kb.dk/event/4117877;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4117877;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;10;10;0;0;10;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Metashape_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4117877;Indsaml 2D fotografier og generer 3D data - fotogrammetri med Metashape;FALSE;2024-01-22T08:30:00Z;2024-01-22T15:00:00Z;"<p><strong><span style=""color:#c0392b;"">*** For English see below (non-Danish speaking participants are welcome)&nbsp;***</span></strong><strong><span style=""color:#c0392b;""></span></strong></p>
-
-<p><strong><span style=""color:#c0392b;""></span></strong><br />
-3D data har tilf&oslash;jet nye dimensioner til kulturarvsomr&aring;det b&aring;de i relation til dokumentation&nbsp;og i relation til formidling, og det er, hvad kurset skaber indblik i.</p>
-
-<p>Fotogrammetri er, n&aring;r 3D data bliver skabt vha. 2D fotografier. Ark&aelig;ologer bruger&nbsp;fotogrammetri til at gengive b&aring;de sm&aring; og store genstande, f.eks. skulpturer, runesten,&nbsp;heleristninger, udgravningsfelter og bygninger.</p>
-
-<p>2D fotografier bliver indsamlet med almindelige spejlreflekskameraer, n&aring;r det drejer sig om&nbsp;mindre genstande, og med droner, n&aring;r det drejer sig om landsskabsmodeller.</p>
-
-<p>3D data opst&aring;r ved at behandle fotografierne med software, og det er meget ofte&nbsp;programmet Metashape, som bliver benyttet. 3D-modellerne f&oslash;jer nye muligheder til ark&aelig;ologers arbejde i relation til for- og&nbsp;fjernunders&oslash;gelser, formidling, inddragelse af VR osv. Du kan selv f&aring; indblik i mulighederne ved at deltage p&aring; kurset.</p>
-
-<p>P&aring; kursuset bliver du introduceret til&nbsp;processen. Du er b&aring;de med til at indsamle data i&nbsp;form af 2D fotografier og med til at genere 3D data.&nbsp;Kurset begynder p&aring; Ny Carlsberg Glyptotek, hvor vi indsamler data. Dataindsamlingen foreg&aring;r ved, at vi fotograferer udvalgte skulpturer i udstillingen.&nbsp;Kurset fors&aelig;tter p&aring; KUB Datalab, K&oslash;benhavns Universitetsbibliotek, S&oslash;ndre Campus, hvor vi&nbsp;bearbejder data. Bearbejdningen foreg&aring;r ved, at vi omskaber fotografierne til 3D data ved&nbsp;hj&aelig;lp af nogle st&aelig;rke gamer-computere og programmet Metashape.</p>
-
-<p>Planen er i store tr&aelig;k s&aring;ledes.</p>
-
-<ul>
-	<li>09:30 - Vi m&oslash;des ved Glyptotekets personaleindgang (se billedet&nbsp;nedenfor), hvor vi bliver modtaget af en medarbejder&nbsp;og bliver guidet hen til de skulpturer, som vi kan fotografere.</li>
-	<li>09:45 - 11:30 - Vi indsamler data - dvs. tager billeder. Jeg medbringer tre kameraer,&nbsp;men har du selv et digitalt spejlreflekskamera, s&aring; er du velkommen til at medbringe dette.</li>
-	<li>11:30 - Vi siger farvel til Glyptoteket&nbsp;og cykler / g&aring;r til S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - Vi m&oslash;des i KUB Datalab SC og processerer modellerne.</li>
-</ul>
-
-<p>For at give et indtryk af, hvad det hele handler om, har jeg funder et par links til sites med&nbsp;ark&aelig;ologiske 3D modeller:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>Hvis der er deltagere, der ikke taler dansk, vil kurset blive afviklet p&aring; engelsk. P&aring; billedet neden for er&nbsp;Glyptotekets personaleindgang market med en r&oslash;d cirkel.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>
-
-<h4><br />
-Collect 2D data and generate 3D data - photogrammetry with Metashape</h4>
-
-<p><br />
-3D data has added new dimensions to the field of cultural heritage both in relation to&nbsp;documentation and in relation to dissemination, and this is what the course creates an&nbsp;insight into.</p>
-
-<p>Photogrammetry is when 3D data is created using 2D photographs. Archaeologists use&nbsp;photogrammetry to reproduce both small and large objects, e.g. sculptures, runestones,&nbsp;carvings, excavation sites and buildings.</p>
-
-<p>2D photographs are collected with regular SLR cameras when it comes to smaller objects, and with drones when it comes to landscape models.&nbsp;3D data is created by processing the photographs with software, and it is very often the&nbsp;program Metashape&nbsp;that is used.</p>
-
-<p>The 3D models add new possibilities to archaeologists&#39; work in relation to preliminary and remote investigations, communication, the inclusion of VR, etc. You can get an insight into&nbsp;the possibilities yourself by participating in the course.</p>
-
-<p>On the course you will be introduced to the process. You both help to collect data in&nbsp;the form of 2D photographs and help to generate 3D data.</p>
-
-<p>The course begins at The Glyptotek&#39;s, where we collect data. The data collection takes&nbsp;place by photographing selected sculptures in the&nbsp;exhibition.&nbsp;The course continues at KUB Datalab, Copenhagen University Library, S&oslash;ndre Campus,&nbsp;where we process data. The processing is converting the photographs into 3D&nbsp;data using some powerful gamer computers and the program Metashape.&nbsp;</p>
-
-<p>The plan is roughly as follows.</p>
-
-<ul>
-	<li>09:30 - We meet at the staff entrance of The Glypotek (see image below), where we are received by a museum&nbsp;employee and are guided to the collections</li>
-	<li>09:45 - 12:00 - We collect data - i.e. taking pictures. I bring three cameras, but if you&nbsp;have a digital SLR yourself, you are welcome to bring this.</li>
-	<li>12:00 - We say a nice goodbye to The Glyptotek&#39;s and cycle / walk to S&oslash;ndre Campus</li>
-	<li>13:00 - 16:00 - We meet in KUB Datalab SC and process the models.</li>
-</ul>
-
-<p>To give an impression of what it&#39;s all about, I found a few links to sites with archaeological&nbsp;3D models:</p>
-
-<ul>
-	<li><a href=""https://sketchfab.com/Martijn-A-Wijnhoven/models"" target=""_blank"">https://sketchfab.com/Martijn-A-Wijnhoven/models</a></li>
-	<li><a href=""https://sketchfab.com/museerne"" target=""_blank"">https://sketchfab.com/museerne</a></li>
-	<li><a href=""https://sketchfab.com/vikingshipmuseum"" target=""_blank"">https://sketchfab.com/vikingshipmuseum</a></li>
-</ul>
-
-<p>If there are participants who do not speak Danish, the course will be conducted in English.&nbsp;In the picture below, the Glyptoteket staff entrance is marked with a red circle.</p>
-
-<p><img alt="""" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/glyptoteket.PNG"" style=""width: 25%;"" /></p>";https://kubkalender.kb.dk/event/4117877;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4117877;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;10;10;0;0;10;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Metashape_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4119816;Python for let øvede: Tekstanalyse 1 - RegEX / Python for Intermediate Users: Text Analysis 1 - RegEX,;FALSE;2024-01-23T08:00:00Z;2024-01-23T09:30:00Z;"<p><span style=""color:#c0392b;""><strong>English read&nbsp;below</strong></span></p>
 
 <p>​Tre&nbsp;nye Python-kurser er m&aring;lrettet studerende, der er interesseret i&nbsp;tekstanalyse&nbsp;og Python.</p>
@@ -1902,7 +1692,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132937;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132937;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;38777;Lorna Wildgaard;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132937;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132937;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;38777;Lorna Wildgaard;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;11;0;0;11;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4132937;NVivo - Introduktion til kvalitativ dataanalyse-software (QDAS);FALSE;2024-03-11T11:00:00Z;2024-03-11T13:30:00Z;"<p><br />
 Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
 
@@ -1928,7 +1718,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132937;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132937;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;38777;Lorna Wildgaard;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132937;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132937;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;38777;Lorna Wildgaard;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;11;0;0;11;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4037392;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-03-13T11:30:00Z;2024-03-13T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2017,7 +1807,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132938;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132938;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132938;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132938;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4132938;NVivo og interviewdata;FALSE;2024-03-20T11:30:00Z;2024-03-20T14:00:00Z;"<p><br />
 <strong>Dette kursus er ikke et introducerende kursus, men&nbsp;foruds&aelig;tter en grundl&aelig;ggende forst&aring;else for NVivos funktioner.</strong><br />
 Denne forst&aring;else kan evt. f&aring;s via deltagelse i vores introducerende NVivo-kurser, som findes her:<br />
@@ -2046,7 +1836,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>Gennemf&oslash;res ved min. seks tilmeldte.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132938;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132938;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132938;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132938;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4037394;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-03-27T11:30:00Z;2024-03-27T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2254,7 +2044,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4140942;R for Absolute Beginners;FALSE;2024-04-04T11:00:00Z;2024-04-04T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -2274,7 +2064,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4140942;R for Absolute Beginners;FALSE;2024-04-04T11:00:00Z;2024-04-04T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -2294,7 +2084,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4140942;R for Absolute Beginners;FALSE;2024-04-04T11:00:00Z;2024-04-04T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -2314,7 +2104,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140942;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140942;0;0;;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4133598;Python for Absolute Beginners pt. 1;FALSE;2024-04-09T07:00:00Z;2024-04-09T10:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. For registration to part 2, visit here:</strong><br />
 <a href=""https://kubkalender.kb.dk/event/4133599"" target=""_blank"">https://kubkalender.kb.dk/event/4133599</a></p>
@@ -2450,7 +2240,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;2;0;0;2;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4133361;NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-11T08:00:00Z;2024-04-11T10:30:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -2478,7 +2268,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;2;0;0;2;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4133361;NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-11T08:00:00Z;2024-04-11T10:30:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -2506,7 +2296,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;33564;English;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133361;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133361;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;33564;English;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;2;0;0;2;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4133599;Python for Absolute Beginners pt. 2;FALSE;2024-04-16T07:00:00Z;2024-04-16T10:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
 <a href=""https://kubkalender.kb.dk/event/4133598"" target=""_blank"">https://kubkalender.kb.dk/event/4133598</a></p>
@@ -2720,7 +2510,7 @@ We will be working with transcription of audio files, the use of case classifica
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;4;0;0;4;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;5;0;0;5;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
 
 <p>&nbsp;</p>
@@ -2733,7 +2523,7 @@ We will be working with transcription of audio files, the use of case classifica
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33561;Cleaning;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;4;0;0;4;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33561;Cleaning;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;5;0;0;5;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
 
 <p>&nbsp;</p>
@@ -2746,7 +2536,7 @@ We will be working with transcription of audio files, the use of case classifica
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;4;0;0;4;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;5;0;0;5;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
 
 <p>&nbsp;</p>
@@ -2759,7 +2549,7 @@ We will be working with transcription of audio files, the use of case classifica
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33563;Visualisation;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;4;0;0;4;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33563;Visualisation;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;20;5;0;0;5;TRUE;#9AFCFC;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
 
 <p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
