@@ -1,84 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4165247;R for Absolute Beginners - ONLINE;FALSE;2024-02-01T12:00:00Z;2024-02-01T14:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
-
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
-</ul>
-
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4165247;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4165247;14440;0;Online på Zoom;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;0;0;40;19;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63751682829;;external
-4165247;R for Absolute Beginners - ONLINE;FALSE;2024-02-01T12:00:00Z;2024-02-01T14:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
-
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
-</ul>
-
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4165247;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4165247;14440;0;Online på Zoom;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;0;0;40;19;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63751682829;;external
-4165247;R for Absolute Beginners - ONLINE;FALSE;2024-02-01T12:00:00Z;2024-02-01T14:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
-
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
-</ul>
-
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4165247;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4165247;14440;0;Online på Zoom;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;0;0;40;19;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63751682829;;external
-4165247;R for Absolute Beginners - ONLINE;FALSE;2024-02-01T12:00:00Z;2024-02-01T14:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
-
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
-</ul>
-
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4165247;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4165247;14440;0;Online på Zoom;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;0;0;40;19;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63751682829;;external
 4141101;Explorative data analysis with R;FALSE;2024-02-05T09:00:00Z;2024-02-05T11:00:00Z;"<p>How do you gain insight in your data? We explore a largish dataset using statistical methods and visualizations.</p>
 
 <p>We assume that you have some experience working with R, and knows the tidyverse. The level required is what you would learn on one of our introductory course in &quot;R for absolute beginners&quot;.&nbsp;</p>
@@ -1199,7 +1119,7 @@ Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som dat
 
 <p>The course will be conducted in English if there are participants who do not speak Danish.</p>
 
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;5;0;0;5;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4190553;Digital Humaniora - tekst som data;FALSE;2024-03-11T10:30:00Z;2024-03-11T13:30:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
 
 <p><br />
@@ -1235,7 +1155,7 @@ Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som dat
 
 <p>The course will be conducted in English if there are participants who do not speak Danish.</p>
 
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;5;0;0;5;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4190553;Digital Humaniora - tekst som data;FALSE;2024-03-11T10:30:00Z;2024-03-11T13:30:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
 
 <p><br />
@@ -1271,7 +1191,7 @@ Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som dat
 
 <p>The course will be conducted in English if there are participants who do not speak Danish.</p>
 
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;5;0;0;5;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4190553;Digital Humaniora - tekst som data;FALSE;2024-03-11T10:30:00Z;2024-03-11T13:30:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
 
 <p><br />
@@ -1307,7 +1227,7 @@ Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som dat
 
 <p>The course will be conducted in English if there are participants who do not speak Danish.</p>
 
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4190553;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4190553;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;5;0;0;5;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4132937;NVivo - Introduktion til kvalitativ dataanalyse-software (QDAS);FALSE;2024-03-11T11:00:00Z;2024-03-11T13:30:00Z;"<p><br />
 Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
 
