@@ -1,268 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
-<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
-or here:<br />
-<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
-
-<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
-<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
-or here:<br />
-<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
-
-<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
-<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
-or here:<br />
-<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
-
-<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
-
-<p><br />
-Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
-
-<p>Opn&aring; kendskab til :</p>
-
-<ul>
-	<li>distant reading med udgangspunkt i Google Ngram</li>
-	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
-	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
-</ul>
-
-<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
-
-<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
-
-<p>&nbsp;</p>
-
-<h1>Digital Humanities - Text as Data</h1>
-
-<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>Distant reading with a basis in Google Ngram</li>
-	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
-	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
-
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
-
-<p><br />
-Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
-
-<p>Opn&aring; kendskab til :</p>
-
-<ul>
-	<li>distant reading med udgangspunkt i Google Ngram</li>
-	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
-	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
-</ul>
-
-<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
-
-<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
-
-<p>&nbsp;</p>
-
-<h1>Digital Humanities - Text as Data</h1>
-
-<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>Distant reading with a basis in Google Ngram</li>
-	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
-	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
-
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
-
-<p><br />
-Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
-
-<p>Opn&aring; kendskab til :</p>
-
-<ul>
-	<li>distant reading med udgangspunkt i Google Ngram</li>
-	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
-	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
-</ul>
-
-<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
-
-<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
-
-<p>&nbsp;</p>
-
-<h1>Digital Humanities - Text as Data</h1>
-
-<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>Distant reading with a basis in Google Ngram</li>
-	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
-	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
-
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
-
-<p><br />
-Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
-
-<p>Opn&aring; kendskab til :</p>
-
-<ul>
-	<li>distant reading med udgangspunkt i Google Ngram</li>
-	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
-	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
-</ul>
-
-<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
-
-<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
-
-<p>&nbsp;</p>
-
-<h1>Digital Humanities - Text as Data</h1>
-
-<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>Distant reading with a basis in Google Ngram</li>
-	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
-	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
-
-<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
 4132935;NVivo and interview data (English);FALSE;2024-02-29T09:00:00Z;2024-02-29T11:30:00Z;"<p><br />
 <strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
 This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
@@ -1093,7 +829,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;28;28;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
 4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
 <strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
 
@@ -1125,7 +861,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;28;28;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
 4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
 <strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
 
@@ -1157,7 +893,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33564;English;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33564;English;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;28;28;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
 4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
 <strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
 
@@ -1189,7 +925,7 @@ Vi kommer til at arbejde med transkribering af lydfiler, brug af cases og import
 
 <p>The course requires a minimum of six participants.</p>
 
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;34059;Online course;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;34059;Online course;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;28;28;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
 4037395;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-03T10:30:00Z;2024-04-03T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2159,8 +1895,8 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037399;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037399;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
-4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;2;0;0;2;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
-4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;2;0;0;2;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
+4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
+4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
 4037400;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-08T10:30:00Z;2024-05-08T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -3311,6 +3047,400 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4197848;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4197848;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
+<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
+<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
+or here:<br />
+<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
+
+<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
+
+<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
+
+<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
+
+<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
+
+<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
+<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
+
+<p>&nbsp;</p>
+
+<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
+
+<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
+<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
+<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
+or here:<br />
+<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
+
+<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
+
+<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
+
+<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
+
+<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
+
+<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
+<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
+
+<p>&nbsp;</p>
+
+<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
+
+<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4133591;Python for Absolute Beginners pt. 2;FALSE;2024-02-28T08:00:00Z;2024-02-28T11:30:00Z;"<p><br />
+<strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
+<a href=""https://kubkalender.kb.dk/event/4133590"" target=""_blank"">https://kubkalender.kb.dk/event/4133590</a><br />
+or here:<br />
+<a href=""https://kubkalender.kb.dk/event/4182656"" target=""_blank"">https://kubkalender.kb.dk/event/4182656</a></p>
+
+<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
+
+<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
+
+<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
+
+<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
+
+<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult the course page:<br />
+<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
+
+<p>&nbsp;</p>
+
+<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:</p>
+
+<p><a href=""https://kubkalender.kb.dk/calendar/datalab?q=python"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab?q=python</a></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4133591;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133591;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
+
+<p><br />
+Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
+
+<p>Opn&aring; kendskab til :</p>
+
+<ul>
+	<li>distant reading med udgangspunkt i Google Ngram</li>
+	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
+	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
+</ul>
+
+<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
+
+<p>&nbsp;</p>
+
+<h1>Digital Humanities - Text as Data</h1>
+
+<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
+
+<p>Gain knowledge in:</p>
+
+<ul>
+	<li>Distant reading with a basis in Google Ngram</li>
+	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
+	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
+</ul>
+
+<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
+
+<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
+
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
+
+<p><br />
+Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
+
+<p>Opn&aring; kendskab til :</p>
+
+<ul>
+	<li>distant reading med udgangspunkt i Google Ngram</li>
+	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
+	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
+</ul>
+
+<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
+
+<p>&nbsp;</p>
+
+<h1>Digital Humanities - Text as Data</h1>
+
+<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
+
+<p>Gain knowledge in:</p>
+
+<ul>
+	<li>Distant reading with a basis in Google Ngram</li>
+	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
+	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
+</ul>
+
+<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
+
+<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
+
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
+
+<p><br />
+Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
+
+<p>Opn&aring; kendskab til :</p>
+
+<ul>
+	<li>distant reading med udgangspunkt i Google Ngram</li>
+	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
+	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
+</ul>
+
+<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
+
+<p>&nbsp;</p>
+
+<h1>Digital Humanities - Text as Data</h1>
+
+<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
+
+<p>Gain knowledge in:</p>
+
+<ul>
+	<li>Distant reading with a basis in Google Ngram</li>
+	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
+	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
+</ul>
+
+<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
+
+<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
+
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33560;Harvesting;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4183100;Digital Humaniora - tekst som data;FALSE;2024-02-28T08:30:00Z;2024-02-28T11:00:00Z;"<p><span style=""color:#c0392b;""><strong>** For English see below **</strong></span></p>
+
+<p><br />
+Kurset &quot;Introduktion til Digital Humaniora med fokus p&aring; tekst som data&quot; giver mulighed at opn&aring; en forst&aring;else for begreber som &quot;text mining&quot; og &quot;distant reading&quot;. P&aring; kurset tager vi udgangspunkt i brugervenlige programmer og hjemmesider. Vi kigger p&aring; avanceret brug af Google Ngram Viewer for at f&aring; en forst&aring;else for distant reading og big data. Vi bruger Orange til at indsamle tekster fra The Guardian og Wikipedia, og vi taler nogle almindelige algoritmer til text mining p&aring; store datas&aelig;t. Med udgangspunkt i Voyant og Spyral forholder vi os til algoritmer og grafer til at g&aring; i dybden med mindre tekstsamlinger.</p>
+
+<p>Opn&aring; kendskab til :</p>
+
+<ul>
+	<li>distant reading med udgangspunkt i Google Ngram</li>
+	<li>dataindsamling og analyse med udgangspunkt i Orange</li>
+	<li>visualiseringer og formidling med udgangspunkt Voyant Tools og Spyral</li>
+</ul>
+
+<p>Kurset tager 2,5 timer med to korte pauser og veksler mellem korte opl&aelig;g efterfulgt af sm&aring; &oslash;velser. &nbsp;Kurset foreg&aring;r p&aring; KUB S&oslash;ndre Campus i datalabbet p&aring; anden sal.</p>
+
+<p>Kurset bliver afviklet p&aring; engelsk, hvis der er deltagere p&aring; kurset, der ikke taler dansk.</p>
+
+<p>&nbsp;</p>
+
+<h1>Digital Humanities - Text as Data</h1>
+
+<p>The course &quot;Introduction to Digital Humanities with a focus on text as data&quot; offers an opportunity to gain an understanding of concepts such as &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
+
+<p>Gain knowledge in:</p>
+
+<ul>
+	<li>Distant reading with a basis in Google Ngram</li>
+	<li>Data collection and analysis with a basis in Orange&nbsp;</li>
+	<li>Visualizations and dissemination with a basis in Voyant Tools and Spyral</li>
+</ul>
+
+<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
+
+<p>The course will be conducted in English if there are participants who do not speak Danish.</p>
+
+<p><em>Translated from Danish to English using AI.</em></p>";https://kubkalender.kb.dk/event/4183100;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4183100;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33563;Visualisation;9876;Lars Kjær;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;12;0;0;12;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707469853.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4037390;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-02-28T11:30:00Z;2024-02-28T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037390;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037390;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA
+4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
+<strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also ask you to complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33562;Analysis;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
+<strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also ask you to complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;32027;Datalab;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
+<strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also ask you to complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;33564;English;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
+<strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also ask you to complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4132940;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4132940;13792;0;Online course;NA;NA;NA;34059;Online course;28221;Daniel Pryn;Daniel Pryn, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;0;0;50;27;27;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674203937.jpg;NA;0;0;0;NA;NA;NA;https://kbdk.zoom.us/j/66292505377;nvivo;external
+4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;2;0;0;2;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
+4182799;Searching for open data: Strategies and pitfalls;FALSE;2024-05-08T09:00:00Z;2024-05-08T10:30:00Z;"<p>Digital resources abound, but some are trickier to find and use than others, none more so than open data, which can be reused for new research projects.&nbsp; In this course, we will put together some broad strategies for searching for open and accessible data, which can help to build up your research projects.&nbsp; We will also cover issues in information literacy, bias, and trust when searching for data.&nbsp; The session will end with a workshop, where attendees can either search for data that can butress an ongoing project, or they can search for supporting data to a couple of potential research questions to train the newly acquired strategies.&nbsp; Information specialists will be on hand to guide and advise your searches.</p>";https://kubkalender.kb.dk/event/4182799;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4182799;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;40172;Benjamin Derksen;Benjamin Derksen & Nynne Overlund;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;22;2;0;0;2;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1707314800.png;NA;15;15;NA;NA;NA;NA;NA;NA;NA
 4132940;ONLINE: NVivo - Introduction to Qualitative Data Analysis Software (QDAS) (English);FALSE;2024-04-03T08:00:00Z;2024-04-03T11:00:00Z;"<p><br />
 <strong>Please note: This course will be held online via Zoom. A link will be sent to attendees.</strong></p>
 
