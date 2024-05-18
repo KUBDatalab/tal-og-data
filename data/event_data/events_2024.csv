@@ -1,121 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;audience;online_join_password;campus_1;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_provider
-4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
-<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
-This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
-<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
-
-<p><br />
-We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
-
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
-
-<p>&nbsp;</p>
-
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
-
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
-
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
-
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
-
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
-
-<p>&nbsp;</p>
-
-<p>The course requires a minimum of six participants.</p>
-
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
-<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
-This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
-<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
-
-<p><br />
-We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
-
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
-
-<p>&nbsp;</p>
-
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
-
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
-
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
-
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
-
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
-
-<p>&nbsp;</p>
-
-<p>The course requires a minimum of six participants.</p>
-
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
-<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
-This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
-<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
-
-<p><br />
-We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
-
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
-
-<p>&nbsp;</p>
-
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
-
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
-
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
-
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
-
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
-
-<p>&nbsp;</p>
-
-<p>The course requires a minimum of six participants.</p>
-
-<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;33564;English;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
 
 <p>&nbsp;</p>
@@ -733,7 +616,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -753,7 +636,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -773,7 +656,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -793,7 +676,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;10;0;0;10;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4037403;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-29T10:30:00Z;2024-05-29T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -873,7 +756,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -893,7 +776,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -913,7 +796,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -933,7 +816,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
 
 <p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
-</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4037405;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-06-12T10:30:00Z;2024-06-12T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1774,6 +1657,283 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4197848;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4197848;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
+<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
+This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
+<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
+
+<p><br />
+We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;33562;Analysis;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
+<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
+This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
+<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
+
+<p><br />
+We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;32027;Datalab;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4133670;NVivo and interview data (English);FALSE;2024-04-17T08:00:00Z;2024-04-17T10:30:00Z;"<p><br />
+<strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
+This understanding can optionally be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
+<a href=""https://kubkalender.kb.dk/datalab"" target=""_blank"">https://kubkalender.kb.dk/datalab</a></p>
+
+<p><br />
+We will be working with transcription of audio files, the use of case classification, and import of transcribed interviews.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p>The course requires a minimum of six participants.</p>
+
+<p>/Erik Schw&auml;germann (es@kb.dk) og Daniel Pryn (pryn@kb.dk)</p>";https://kubkalender.kb.dk/event/4133670;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4133670;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;33564;English;28221;Daniel Pryn;Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;23;17;0;0;17;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571561.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037397;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-17T10:30:00Z;2024-04-17T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037397;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037397;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140948;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140948;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4140945;R for Absolute Beginners;FALSE;2024-06-10T11:00:00Z;2024-06-10T13:00:00Z;"<div id=""s-lc-event-desc"">
+<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+
+<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+</ul>
+
+<p>In preparation for the course, we recommend that you either download and install R and RStudio or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+
+<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>
+</div>";https://kubkalender.kb.dk/event/4140945;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4140945;21573;2;Lighthouse, Zone 1, Lighthouse, Zone 2;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1702029269.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4133599;Python for Absolute Beginners pt. 2;FALSE;2024-04-16T07:00:00Z;2024-04-16T10:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. For registration to part 1, visit here:</strong><br />
 <a href=""https://kubkalender.kb.dk/event/4133598"" target=""_blank"">https://kubkalender.kb.dk/event/4133598</a></p>
