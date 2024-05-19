@@ -1,132 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;audience
-4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
-
-<p>&nbsp;</p>
-
-<p>We will use summaries from the debates in the Danish parliament (Folketinget) as our data, but the tools and techniques that you learn can be used for text mining any set of texts.</p>
-
-<p>&nbsp;</p>
-
-<p>You don&#39;t need any experience with text mining, but participants should have a basic knowledge about R, corresponding to our introductory course &quot;R for Absolute Beginners&quot;. You must also have downloaded and installed R and Rstudio. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a></p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33562;Analysis;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;8;0;0;8;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;
-4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
-
-<p>&nbsp;</p>
-
-<p>We will use summaries from the debates in the Danish parliament (Folketinget) as our data, but the tools and techniques that you learn can be used for text mining any set of texts.</p>
-
-<p>&nbsp;</p>
-
-<p>You don&#39;t need any experience with text mining, but participants should have a basic knowledge about R, corresponding to our introductory course &quot;R for Absolute Beginners&quot;. You must also have downloaded and installed R and Rstudio. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a></p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33561;Cleaning;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;8;0;0;8;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;
-4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
-
-<p>&nbsp;</p>
-
-<p>We will use summaries from the debates in the Danish parliament (Folketinget) as our data, but the tools and techniques that you learn can be used for text mining any set of texts.</p>
-
-<p>&nbsp;</p>
-
-<p>You don&#39;t need any experience with text mining, but participants should have a basic knowledge about R, corresponding to our introductory course &quot;R for Absolute Beginners&quot;. You must also have downloaded and installed R and Rstudio. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a></p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;32027;Datalab;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;8;0;0;8;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;
-4175641;Text Mining with R;FALSE;2024-04-18T08:00:00Z;2024-04-18T10:00:00Z;"<p>In this course you will learn how to use text mining techniques with the programming language R to gain insights in to a large number of texts. Text mining is a set of powerful tools that allow you to make sense of a large set of texts and gain insights that are hard to spot by just reading the text yourself. You will also learn how to visualize your findings to showcase your results.</p>
-
-<p>&nbsp;</p>
-
-<p>We will use summaries from the debates in the Danish parliament (Folketinget) as our data, but the tools and techniques that you learn can be used for text mining any set of texts.</p>
-
-<p>&nbsp;</p>
-
-<p>You don&#39;t need any experience with text mining, but participants should have a basic knowledge about R, corresponding to our introductory course &quot;R for Absolute Beginners&quot;. You must also have downloaded and installed R and Rstudio. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a></p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in English if any participants request it. Otherwise it will be held in Danish.</p>";https://kubkalender.kb.dk/event/4175641;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4175641;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33563;Visualisation;43466;Søren Willer Hansen;Søren Willer Hansen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;8;0;0;8;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1706183803.jpg;;0;0;
-4198297;Python and Pandas - Manage your rows and columns;FALSE;2024-04-18T10:30:00Z;2024-04-18T13:30:00Z;"<p><br />
-Pandas is a Python library specifically designed for working with structured data such as data organised in rows and columns, similar to spreadsheets in Excel.</p>
-
-<p>Pandas is useful for students across all fields of study, offering a toolkit for efficiently managing and analysing various types of structured data regardless of academic discipline.</p>
-
-<p>In this three-hour course, you will develop an introductory understanding of Pandas. By the end of the course, you will have gained insights into the following areas:</p>
-
-<ul>
-	<li>Importing and exporting data with Pandas</li>
-	<li>Creating new datasets and subsets by filtering data</li>
-	<li>Using Pandas for analytical purposes</li>
-	<li>Creating simple visualisations</li>
-</ul>
-
-<p>This course is aimed at students who are new to Pandas but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.<br />
-We expect you to be familiar with the concepts described here:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4198297;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4198297;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Lars Kjær, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;4;0;0;4;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1711382326.jpg;;0;0;
-4198297;Python and Pandas - Manage your rows and columns;FALSE;2024-04-18T10:30:00Z;2024-04-18T13:30:00Z;"<p><br />
-Pandas is a Python library specifically designed for working with structured data such as data organised in rows and columns, similar to spreadsheets in Excel.</p>
-
-<p>Pandas is useful for students across all fields of study, offering a toolkit for efficiently managing and analysing various types of structured data regardless of academic discipline.</p>
-
-<p>In this three-hour course, you will develop an introductory understanding of Pandas. By the end of the course, you will have gained insights into the following areas:</p>
-
-<ul>
-	<li>Importing and exporting data with Pandas</li>
-	<li>Creating new datasets and subsets by filtering data</li>
-	<li>Using Pandas for analytical purposes</li>
-	<li>Creating simple visualisations</li>
-</ul>
-
-<p>This course is aimed at students who are new to Pandas but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.<br />
-We expect you to be familiar with the concepts described here:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4198297;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4198297;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Lars Kjær, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;4;0;0;4;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1711382326.jpg;;0;0;
-4198297;Python and Pandas - Manage your rows and columns;FALSE;2024-04-18T10:30:00Z;2024-04-18T13:30:00Z;"<p><br />
-Pandas is a Python library specifically designed for working with structured data such as data organised in rows and columns, similar to spreadsheets in Excel.</p>
-
-<p>Pandas is useful for students across all fields of study, offering a toolkit for efficiently managing and analysing various types of structured data regardless of academic discipline.</p>
-
-<p>In this three-hour course, you will develop an introductory understanding of Pandas. By the end of the course, you will have gained insights into the following areas:</p>
-
-<ul>
-	<li>Importing and exporting data with Pandas</li>
-	<li>Creating new datasets and subsets by filtering data</li>
-	<li>Using Pandas for analytical purposes</li>
-	<li>Creating simple visualisations</li>
-</ul>
-
-<p>This course is aimed at students who are new to Pandas but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.<br />
-We expect you to be familiar with the concepts described here:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4198297;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4198297;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33564;English;28221;Daniel Pryn;Benjamin Derksen, Lars Kjær, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;4;0;0;4;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1711382326.jpg;;0;0;
-4198297;Python and Pandas - Manage your rows and columns;FALSE;2024-04-18T10:30:00Z;2024-04-18T13:30:00Z;"<p><br />
-Pandas is a Python library specifically designed for working with structured data such as data organised in rows and columns, similar to spreadsheets in Excel.</p>
-
-<p>Pandas is useful for students across all fields of study, offering a toolkit for efficiently managing and analysing various types of structured data regardless of academic discipline.</p>
-
-<p>In this three-hour course, you will develop an introductory understanding of Pandas. By the end of the course, you will have gained insights into the following areas:</p>
-
-<ul>
-	<li>Importing and exporting data with Pandas</li>
-	<li>Creating new datasets and subsets by filtering data</li>
-	<li>Using Pandas for analytical purposes</li>
-	<li>Creating simple visualisations</li>
-</ul>
-
-<p>This course is aimed at students who are new to Pandas but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.<br />
-We expect you to be familiar with the concepts described here:<br />
-<a href=""https://kubdatalab.github.io/python-for-absolute-beginners/"" target=""_blank"">https://kubdatalab.github.io/python-for-absolute-beginners/</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4198297;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4198297;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;33563;Visualisation;28221;Daniel Pryn;Benjamin Derksen, Lars Kjær, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;22;4;0;0;4;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1711382326.jpg;;0;0;
 4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
 
 <p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
@@ -521,7 +393,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
 
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;9;0;0;9;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
+<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
 4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
 
 <p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
@@ -536,7 +408,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
 
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;9;0;0;9;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
+<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
 4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
 
 <p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
@@ -551,7 +423,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
 
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;9;0;0;9;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
+<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
 4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
 
 <p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
@@ -566,7 +438,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
 
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;9;0;0;9;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
+<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;
 4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
