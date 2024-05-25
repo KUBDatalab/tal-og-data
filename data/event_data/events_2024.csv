@@ -1,91 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;audience;online_join_password;campus_1;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_provider
-4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
-
-<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
-
-<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
-
-<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-</ul>
-
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
-
-<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
-
-<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
-
-<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-</ul>
-
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
-
-<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
-
-<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
-
-<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-</ul>
-
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4202129;Introduktion til tekst- og datamining i Orange;FALSE;2024-04-25T11:00:00Z;2024-04-25T13:00:00Z;"<p><img alt=""Orange a great tool for Data Mining"" src=""https://libapps-eu.s3.amazonaws.com/customers/105/images/orange_logo1.png"" style=""width: 100%;"" /></p>
 
 <p>Orange er et program til tekst- og datamining, og det gode ved Orange er, at man kan bruge det uden at kunne programmere.</p>
@@ -1527,6 +1440,93 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4197848;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4197848;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
+
+<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
+
+<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
+
+<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+</ul>
+
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
+
+<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
+
+<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
+
+<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+</ul>
+
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4141102;R and APIs - Statistics Denmark;FALSE;2024-04-24T08:00:00Z;2024-04-24T10:00:00Z;"<p>APIs provide access to a multitude of information.</p>
+
+<p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
+
+<p>The course material can be found on this <a href=""https://kubdatalab.github.io/R-api/"">website</a>. Please make sure that you have followed the under &quot;Setup&quot; to install R and RStudio as well as some additional packages.</p>
+
+<p>The course requires some previous knowledge of R. We will assume that you are familiar with:</p>
+
+<ul>
+	<li>Navigating in RStudio, and how to interact with R</li>
+	<li>Datatypes, variables and objects</li>
+	<li>Simple arithmetic and logical operations on data</li>
+	<li>Working with functions - and how to write a very simple function ourself</li>
+	<li>Import data into R</li>
+	<li>Summary statistics&nbsp;</li>
+	<li>Manipulating data frames</li>
+</ul>
+
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4141102;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4141102;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33562;Analysis;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33561;Cleaning;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;32027;Datalab;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33564;English;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33560;Harvesting;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4037398;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-04-24T10:30:00Z;2024-04-24T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037398;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037398;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;33563;Visualisation;16332;Christian Knudsen;NA;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
