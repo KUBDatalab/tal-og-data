@@ -1,94 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;audience;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
-
-<p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
-
-<p>The Orange workshop is recommended if you want to understand how data, such as digital texts, are transformed in digital data analysis.</p>
-
-<p>For the workshop, we have planned small exercises on text analysis, and we provide short introductions as a prelude to the exercises. You will gain insight into how you can use Orange to collect data and create systematics in large collections of texts and numbers.</p>
-
-<p>The data for this workshop is this data set: <a href=""https://github.com/Spijkervet/eurovision-dataset"" target=""_blank"">&quot;Measuring the {Eurovision Song Contest}: A Living Dataset for Real-World {MIR}&quot; by&nbsp;John Ashley Burgoyne and Janne Spijkervet and David John Baker, 2023</a></p>
-
-<p>We touch on important concepts such as embedding, vectorization, and distance calculation, which are cornerstones in machine learning, text, and data mining. Sign up via KUB Datalab&#39;s calendar. There are 12 spots available.</p>
-
-<p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
-
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
-
-<p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
-
-<p>The Orange workshop is recommended if you want to understand how data, such as digital texts, are transformed in digital data analysis.</p>
-
-<p>For the workshop, we have planned small exercises on text analysis, and we provide short introductions as a prelude to the exercises. You will gain insight into how you can use Orange to collect data and create systematics in large collections of texts and numbers.</p>
-
-<p>The data for this workshop is this data set: <a href=""https://github.com/Spijkervet/eurovision-dataset"" target=""_blank"">&quot;Measuring the {Eurovision Song Contest}: A Living Dataset for Real-World {MIR}&quot; by&nbsp;John Ashley Burgoyne and Janne Spijkervet and David John Baker, 2023</a></p>
-
-<p>We touch on important concepts such as embedding, vectorization, and distance calculation, which are cornerstones in machine learning, text, and data mining. Sign up via KUB Datalab&#39;s calendar. There are 12 spots available.</p>
-
-<p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
-
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
-
-<p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
-
-<p>The Orange workshop is recommended if you want to understand how data, such as digital texts, are transformed in digital data analysis.</p>
-
-<p>For the workshop, we have planned small exercises on text analysis, and we provide short introductions as a prelude to the exercises. You will gain insight into how you can use Orange to collect data and create systematics in large collections of texts and numbers.</p>
-
-<p>The data for this workshop is this data set: <a href=""https://github.com/Spijkervet/eurovision-dataset"" target=""_blank"">&quot;Measuring the {Eurovision Song Contest}: A Living Dataset for Real-World {MIR}&quot; by&nbsp;John Ashley Burgoyne and Janne Spijkervet and David John Baker, 2023</a></p>
-
-<p>We touch on important concepts such as embedding, vectorization, and distance calculation, which are cornerstones in machine learning, text, and data mining. Sign up via KUB Datalab&#39;s calendar. There are 12 spots available.</p>
-
-<p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
-
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4207550;KUB Datalab Orange Eurovision Dataset Workshop;FALSE;2024-05-22T07:30:00Z;2024-05-22T09:30:00Z;"<p><img alt=""KUB Datalab Eurovision"" src=""https://dkou0skpxpnwz.cloudfront.net/accounts/65132/images/euro-vision-orange-workshop_poster4.jpg"" style=""width: 75%;"" /></p>
-
-<p>Orange is a program for text and data mining, and the great thing about Orange is that it can be used without any programming skills.</p>
-
-<p>The Orange workshop is recommended if you want to understand how data, such as digital texts, are transformed in digital data analysis.</p>
-
-<p>For the workshop, we have planned small exercises on text analysis, and we provide short introductions as a prelude to the exercises. You will gain insight into how you can use Orange to collect data and create systematics in large collections of texts and numbers.</p>
-
-<p>The data for this workshop is this data set: <a href=""https://github.com/Spijkervet/eurovision-dataset"" target=""_blank"">&quot;Measuring the {Eurovision Song Contest}: A Living Dataset for Real-World {MIR}&quot; by&nbsp;John Ashley Burgoyne and Janne Spijkervet and David John Baker, 2023</a></p>
-
-<p>We touch on important concepts such as embedding, vectorization, and distance calculation, which are cornerstones in machine learning, text, and data mining. Sign up via KUB Datalab&#39;s calendar. There are 12 spots available.</p>
-
-<p>Please be aware that you need to <a href=""https://orangedatamining.com/download/"" target=""_blank"">download and install Orange</a> before the course.</p>
-
-<p>The workshop will be held in KUB Lighthouse Zone 1. Please use the library&#39;s main entrance and follow the signs.</p>";https://kubkalender.kb.dk/event/4207550;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4207550;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;TRUE;12;8;0;0;8;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Orange_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
-4037402;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-05-22T10:30:00Z;2024-05-22T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037402;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037402;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
 4140948;R for Absolute Beginners;FALSE;2024-05-23T11:00:00Z;2024-05-23T13:00:00Z;"<div id=""s-lc-event-desc"">
 <p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
@@ -870,7 +780,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;16;0;0;16;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;17;0;0;17;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
 4216241;Python for Absolute Beginners pt. 2;FALSE;2024-09-18T07:00:00Z;2024-09-18T10:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -895,7 +805,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;16;0;0;16;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;17;0;0;17;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
 4216241;Python for Absolute Beginners pt. 2;FALSE;2024-09-18T07:00:00Z;2024-09-18T10:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -920,7 +830,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;16;0;0;16;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216241;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216241;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;TRUE;FALSE;25;17;0;0;17;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;;NA;NA;NA;NA;NA;NA;NA
 4197835;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-09-18T10:30:00Z;2024-09-18T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
