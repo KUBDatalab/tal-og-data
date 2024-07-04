@@ -407,86 +407,75 @@ id;title;allday;start;end;description;url_public;url_admin;location_id;location_
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4037414;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4037414;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;Søren Davidsen & Henrik Hornemann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4202463;R for Absolute Beginners;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+4202463;R for absolutte nybegyndere;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>L&aelig;g venligst m&aelig;rke til, at kurset holdes p&aring; dansk.</p>
 
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
-
-<ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
-</ul>
-
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+<p><em>Please note that this course will be held in Danish. For courses in English, please visit the <a href=""https://kubkalender.kb.dk/calendar/datalab?cid=6416&amp;t=d&amp;d=0000-00-00&amp;cal=6416&amp;inc=0"" target=""_blank"">datalab course calendar</a>.</em></p>
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4202463;R for Absolute Beginners;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+<p>R et grenerelt programmeringssprog, som er s&aelig;rlig egnet til statistiske analyser og til rens og visualisering af data.</p>
 
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+<p>Vi forventer ikke, at du har nogen erfaring med programmering. Derfor tager vi udgangspunkt i nogle af R&#39;s helt grundl&aelig;ggende funktionaliterer, som for eksempel:</p>
 
 <ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+	<li>RStudios gr&aelig;nseflade og hvordan marn interagerer med R</li>
+	<li>Datatyper, variable og objekter</li>
+	<li>Enkle aritmetiske og logiske operationer p&aring; data</li>
+	<li>At arbejde med funktioner og hvordan man selv skriver en enkel funktion</li>
+	<li>Import af data i R</li>
+	<li>Opsummerende statistik</li>
+	<li>Bearbejdning af tabeller</li>
+	<li>Simple grafer, som ser lige s&aring; brugbare, som de er element&aelig;re.</li>
 </ul>
 
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+<p>Forud for kurset beder vi dig om at installere R og RStudio eller at oprette en konto p&aring; rstudio.cloud. Du kan l&aelig;se mere om, hvordan man g&oslash;r, <a href=""http://kubdatalab.github.io/beginning-R/setup.html"" target=""_blank"">her</a>. Her finder du ogs&aring; kursusmaterialet samt de &oslash;velser, der gennemg&aring;es p&aring; kurset.<br type=""_moz"" />
+&nbsp;</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4202463;R for absolutte nybegyndere;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>L&aelig;g venligst m&aelig;rke til, at kurset holdes p&aring; dansk.</p>
+
+<p><em>Please note that this course will be held in Danish. For courses in English, please visit the <a href=""https://kubkalender.kb.dk/calendar/datalab?cid=6416&amp;t=d&amp;d=0000-00-00&amp;cal=6416&amp;inc=0"" target=""_blank"">datalab course calendar</a>.</em></p>
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4202463;R for Absolute Beginners;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+<p>R et grenerelt programmeringssprog, som er s&aelig;rlig egnet til statistiske analyser og til rens og visualisering af data.</p>
 
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+<p>Vi forventer ikke, at du har nogen erfaring med programmering. Derfor tager vi udgangspunkt i nogle af R&#39;s helt grundl&aelig;ggende funktionaliterer, som for eksempel:</p>
 
 <ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+	<li>RStudios gr&aelig;nseflade og hvordan marn interagerer med R</li>
+	<li>Datatyper, variable og objekter</li>
+	<li>Enkle aritmetiske og logiske operationer p&aring; data</li>
+	<li>At arbejde med funktioner og hvordan man selv skriver en enkel funktion</li>
+	<li>Import af data i R</li>
+	<li>Opsummerende statistik</li>
+	<li>Bearbejdning af tabeller</li>
+	<li>Simple grafer, som ser lige s&aring; brugbare, som de er element&aelig;re.</li>
 </ul>
 
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
+<p>Forud for kurset beder vi dig om at installere R og RStudio eller at oprette en konto p&aring; rstudio.cloud. Du kan l&aelig;se mere om, hvordan man g&oslash;r, <a href=""http://kubdatalab.github.io/beginning-R/setup.html"" target=""_blank"">her</a>. Her finder du ogs&aring; kursusmaterialet samt de &oslash;velser, der gennemg&aring;es p&aring; kurset.<br type=""_moz"" />
+&nbsp;</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4202463;R for absolutte nybegyndere;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>L&aelig;g venligst m&aelig;rke til, at kurset holdes p&aring; dansk.</p>
+
+<p><em>Please note that this course will be held in Danish. For courses in English, please visit the <a href=""https://kubkalender.kb.dk/calendar/datalab?cid=6416&amp;t=d&amp;d=0000-00-00&amp;cal=6416&amp;inc=0"" target=""_blank"">datalab course calendar</a>.</em></p>
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4202463;R for Absolute Beginners;FALSE;2024-08-20T08:00:00Z;2024-08-20T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
+<p>R et grenerelt programmeringssprog, som er s&aelig;rlig egnet til statistiske analyser og til rens og visualisering af data.</p>
 
-<p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
+<p>Vi forventer ikke, at du har nogen erfaring med programmering. Derfor tager vi udgangspunkt i nogle af R&#39;s helt grundl&aelig;ggende funktionaliterer, som for eksempel:</p>
 
 <ul>
-	<li>Navigating in RStudio, and how to interact with R</li>
-	<li>Datatypes, variables and objects</li>
-	<li>Simple arithmetic and logical operations on data</li>
-	<li>Working with functions - and how to write a very simple function ourself</li>
-	<li>Import data into R</li>
-	<li>Summary statistics&nbsp;</li>
-	<li>Manipulating data frames</li>
-	<li>And how to make a couple of the common graphs, that are as useful as they are elementary.</li>
+	<li>RStudios gr&aelig;nseflade og hvordan marn interagerer med R</li>
+	<li>Datatyper, variable og objekter</li>
+	<li>Enkle aritmetiske og logiske operationer p&aring; data</li>
+	<li>At arbejde med funktioner og hvordan man selv skriver en enkel funktion</li>
+	<li>Import af data i R</li>
+	<li>Opsummerende statistik</li>
+	<li>Bearbejdning af tabeller</li>
+	<li>Simple grafer, som ser lige s&aring; brugbare, som de er element&aelig;re.</li>
 </ul>
 
-<p>In preparation for the course, we recommend that you either download and install R and RStudio, or register for an account at rstudio.cloud. Instructions on this can be found <a href=""https://kubdatalab.github.io/beginning-R/setup.html"">here</a>, where you will also find the course notes, additional material and exercises.</p>
-
-<p>&nbsp;</p>
-
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>Forud for kurset beder vi dig om at installere R og RStudio eller at oprette en konto p&aring; rstudio.cloud. Du kan l&aelig;se mere om, hvordan man g&oslash;r, <a href=""http://kubdatalab.github.io/beginning-R/setup.html"" target=""_blank"">her</a>. Her finder du ogs&aring; kursusmaterialet samt de &oslash;velser, der gennemg&aring;es p&aring; kurset.<br type=""_moz"" />
+&nbsp;</p>";https://kubkalender.kb.dk/event/4202463;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202463;21573;2;Lighthouse, Zone 1;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;30;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4037415;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-08-21T10:30:00Z;2024-08-21T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -988,7 +977,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216262;NVivo for Absolute Beginners;FALSE;2024-09-25T11:00:00Z;2024-09-25T13:30:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -1012,7 +1001,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216262;NVivo for Absolute Beginners;FALSE;2024-09-25T11:00:00Z;2024-09-25T13:30:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -1036,7 +1025,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216262;98;0;KUB Nord: Lighthouse;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;38777;Lorna Wildgaard;Benjamin Derksen, Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;30;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4218194;Introduction to Python programming I;FALSE;2024-09-27T10:30:00Z;2024-09-27T13:00:00Z;"<p>This is the first of two courses. There are no requrements for this course, but a basic understanding af algebra will be helpfull.</p>
 
 <p>In this course, I will cover data, variables, operations, data structures and simple commands and functions.</p>
@@ -2801,3 +2790,28 @@ This understanding can be gained by participating in our introductory NVivo cour
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216759;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216759;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4216760;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-04T10:30:00Z;2025-06-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216760;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216760;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4216760;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-04T10:30:00Z;2025-06-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216760;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216760;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4216760;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-04T10:30:00Z;2025-06-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216760;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216760;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4216760;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-04T10:30:00Z;2025-06-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216760;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216760;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33560;Harvesting;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4216760;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-04T10:30:00Z;2025-06-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216760;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216760;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
