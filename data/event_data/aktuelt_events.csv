@@ -246,7 +246,7 @@ id;title;allday;start;end;description;url_public;url_admin;location_id;location_
 <div class=""OutlineElement Ltr SCXW124391768 BCX2"" style=""direction: ltr;"">
 <p class=""Paragraph SCXW124391768 BCX2"" paraeid=""{da7c232b-ecc4-4f96-99ab-48a564fc1c62}{120}"" paraid=""1878548545"" style=""font-weight: normal; font-style: normal; vertical-align: baseline; background-color: rgb(255, 255, 255); color: windowtext; text-align: left; margin: 0px 0px 10px; padding-left: 0px; padding-right: 0px; text-indent: 0px;""><span arial_embeddedfont="""" class=""TextRun SCXW124391768 BCX2"" data-contrast=""none"" lang=""DA-DK"" style=""color: rgb(51, 51, 51); font-size: 10.5pt; font-style: normal; font-variant: normal; text-transform: none; line-height: 17.2667px; font-family: Arial, ""><span class=""NormalTextRun SCXW124391768 BCX2"">Inden kurset beder vi dig downloade og installere programmet p&aring; din computer.</span><span class=""NormalTextRun SCXW124391768 BCX2""> </span></span><a class=""Hyperlink SCXW124391768 BCX2"" href=""https://orangedatamining.com/download/"" rel=""noreferrer noopener"" style=""text-decoration: none; color: inherit;"" target=""_blank""><span arial_embeddedfont="""" class=""TextRun Underlined SCXW124391768 BCX2"" data-contrast=""none"" lang=""DA-DK"" style=""color: rgb(70, 120, 134); font-size: 10.5pt; font-style: normal; text-decoration: underline; font-variant: normal; text-transform: none; line-height: 17.2667px; font-family: Arial, ""><span class=""NormalTextRun SCXW124391768 BCX2"" data-ccp-charstyle=""Hyperlink"">Klik her for at komme til download-siden.</span></span></a><span arial_embeddedfont="""" class=""TextRun SCXW124391768 BCX2"" data-contrast=""none"" lang=""DA-DK"" style=""color: rgb(51, 51, 51); font-size: 10.5pt; font-style: normal; font-variant: normal; text-transform: none; line-height: 17.2667px; font-family: Arial, ""><span class=""NormalTextRun SCXW124391768 BCX2"">&nbsp;</span></span><span 134233117="""" class=""EOP SCXW124391768 BCX2"" data-ccp-props=""{"">&nbsp;</span></p>
 </div>
-</div>";https://kubkalender.kb.dk/event/4227299;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227299;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;44253;Søren Davidsen;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;TRUE;FALSE;12;2;0;0;2;FALSE;NA;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4227299;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227299;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;44253;Søren Davidsen;Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;TRUE;FALSE;12;1;0;0;1;FALSE;NA;NA;NA;NA;NA;NA;NA
 4197833;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-09-04T10:30:00Z;2024-09-04T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -294,7 +294,7 @@ The pedagogical starting point of the workshop is a practical, learning-by-doing
 
 <p>&nbsp;</p>
 
-<p>Before you attend the workshop please have access to P&yacute;thon and either Jupyter Notebook or Jupyter Lab. You can use <a href=""https://erda.dk/public/ucph-erda-user-guide.pdf"" target=""_blank"">Erda</a>, <a href=""https://colab.google/"" target=""_blank"">Google Colab</a> or have a local Python installation. If you prefer your own installation, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">click this link for a guide on how to easily install Python on your own computer</a>.</p>";https://kubkalender.kb.dk/event/4252262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4252262;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;2;0;0;2;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>Before you attend the workshop please have access to P&yacute;thon and either Jupyter Notebook or Jupyter Lab. You can use <a href=""https://erda.dk/public/ucph-erda-user-guide.pdf"" target=""_blank"">Erda</a>, <a href=""https://colab.google/"" target=""_blank"">Google Colab</a> or have a local Python installation. If you prefer your own installation, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">click this link for a guide on how to easily install Python on your own computer</a>.</p>";https://kubkalender.kb.dk/event/4252262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4252262;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
 4252262;Extra Python 1 - Strings, lists, and loops;FALSE;2024-09-06T07:00:00Z;2024-09-06T09:30:00Z;"<p dir=""auto""><strong>Extra Python 1</strong></p>
 
 <p>Extra Python 2</p>
@@ -312,7 +312,7 @@ The pedagogical starting point of the workshop is a practical, learning-by-doing
 
 <p>&nbsp;</p>
 
-<p>Before you attend the workshop please have access to P&yacute;thon and either Jupyter Notebook or Jupyter Lab. You can use <a href=""https://erda.dk/public/ucph-erda-user-guide.pdf"" target=""_blank"">Erda</a>, <a href=""https://colab.google/"" target=""_blank"">Google Colab</a> or have a local Python installation. If you prefer your own installation, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">click this link for a guide on how to easily install Python on your own computer</a>.</p>";https://kubkalender.kb.dk/event/4252262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4252262;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;2;0;0;2;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>Before you attend the workshop please have access to P&yacute;thon and either Jupyter Notebook or Jupyter Lab. You can use <a href=""https://erda.dk/public/ucph-erda-user-guide.pdf"" target=""_blank"">Erda</a>, <a href=""https://colab.google/"" target=""_blank"">Google Colab</a> or have a local Python installation. If you prefer your own installation, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">click this link for a guide on how to easily install Python on your own computer</a>.</p>";https://kubkalender.kb.dk/event/4252262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4252262;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;20;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
 4202465;R for Absolute Beginners;FALSE;2024-09-09T11:00:00Z;2024-09-09T13:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -971,7 +971,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;17;0;0;17;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;16;0;0;16;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216239;Python for Absolute Beginners pt. 1;FALSE;2024-09-24T07:00:00Z;2024-09-24T10:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -996,7 +996,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;17;0;0;17;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;16;0;0;16;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216239;Python for Absolute Beginners pt. 1;FALSE;2024-09-24T07:00:00Z;2024-09-24T10:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1021,7 +1021,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;17;0;0;17;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216239;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216239;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;16;0;0;16;TRUE;NA;NA;NA;NA;NA;NA;NA
 4197836;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-09-25T10:30:00Z;2024-09-25T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1603,7 +1603,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Geoffrey Rockwell. Online. Professor of Philosophy and Digital Humanities. University of Alberta</span>&nbsp;</strong></p>
 
-<p style=""text-align: center;""><strong>Voyant is a suite of text analysis and visualization tools that are widely used in the digital humanities, especially when introducing students to computer-assisted analysis of texts. In this presentation Geoffrey Rockwell will provide a brief history of Voyant leading up to the development of Spyral, a notebook programming extension to Voyant. He will demonstrate both Voyand and Spyral and discuss how Spyral provides a growth path for students and research projects. He will end by encouraging you to join the Voyant Consortium so that the tool evolves in ways that suit your research.</strong></p>
+<p style=""text-align: center;"">Voyant is a suite of text analysis and visualization tools that are widely used in the digital humanities, especially when introducing students to computer-assisted analysis of texts. In this presentation Geoffrey Rockwell will provide a brief history of Voyant leading up to the development of Spyral, a notebook programming extension to Voyant. He will demonstrate both Voyand and Spyral and discuss how Spyral provides a growth path for students and research projects. He will end by encouraging you to join the Voyant Consortium so that the tool evolves in ways that suit your research.</p>
 
 <p style=""text-align: center;""><strong>15:40 &ndash; 15:55: Questions &nbsp;</strong></p>
 
@@ -1940,78 +1940,42 @@ Before the course, we ask you to download and install the program on your comput
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4197840;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4197840;21575;2;Lighthouse, Zone 3;41;KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-4216263;NVivo for Absolute Beginners;FALSE;2024-10-28T09:00:00Z;2024-10-28T11:30:00Z;"<p><br />
-Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+4253162;Text mining with R;FALSE;2024-10-25T08:00:00Z;2024-10-25T10:00:00Z;"<p>Text mining is a powerful set of methods that enable us to process, analyze and visualize the content of a large number of texts. It gives us the possiblity to gain insights and spot patterns that can otherwise be hard to see when reading through the texts. The methods that you will learn on this course can be used to analyze any set of texts.</p>
 
-<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+<p>The advantage of R is that we have a lot of flexibility for our analysis and how we visualize our results. On this course you will learn how to prepare texts for analysis, and how to peform the analysis and visualize the results. Out texts will be summaries from debates in the Danish Parliament Folketinget.</p>
 
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+<p>We assume that you have some experience working with R, and knows the tidyverse. The level required is what you would learn on one of our introductory course in &quot;R for absolute beginners&quot;.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>You should have R and Rstudio installed before the course, and preferably also have downloaded the dataset that we are going to explore. You can find further instructions <a href=""https://kubdatalab.github.io/R-EDA/setup.html"">here</a>.</p>
 
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+<p>The course is by default held in English, unless everyone speaks Danish, in which case it will be in Danish</p>";https://kubkalender.kb.dk/event/4253162;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4253162;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;43466;Søren Willer Hansen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#9AFCFC;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1724849039.jpg;;0;0;TRUE;FALSE;22;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4253162;Text mining with R;FALSE;2024-10-25T08:00:00Z;2024-10-25T10:00:00Z;"<p>Text mining is a powerful set of methods that enable us to process, analyze and visualize the content of a large number of texts. It gives us the possiblity to gain insights and spot patterns that can otherwise be hard to see when reading through the texts. The methods that you will learn on this course can be used to analyze any set of texts.</p>
 
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+<p>The advantage of R is that we have a lot of flexibility for our analysis and how we visualize our results. On this course you will learn how to prepare texts for analysis, and how to peform the analysis and visualize the results. Out texts will be summaries from debates in the Danish Parliament Folketinget.</p>
 
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+<p>We assume that you have some experience working with R, and knows the tidyverse. The level required is what you would learn on one of our introductory course in &quot;R for absolute beginners&quot;.&nbsp;</p>
 
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+<p>You should have R and Rstudio installed before the course, and preferably also have downloaded the dataset that we are going to explore. You can find further instructions <a href=""https://kubdatalab.github.io/R-EDA/setup.html"">here</a>.</p>
 
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+<p>The course is by default held in English, unless everyone speaks Danish, in which case it will be in Danish</p>";https://kubkalender.kb.dk/event/4253162;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4253162;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33561;Cleaning;43466;Søren Willer Hansen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#9AFCFC;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1724849039.jpg;;0;0;TRUE;FALSE;22;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4253162;Text mining with R;FALSE;2024-10-25T08:00:00Z;2024-10-25T10:00:00Z;"<p>Text mining is a powerful set of methods that enable us to process, analyze and visualize the content of a large number of texts. It gives us the possiblity to gain insights and spot patterns that can otherwise be hard to see when reading through the texts. The methods that you will learn on this course can be used to analyze any set of texts.</p>
 
-<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+<p>The advantage of R is that we have a lot of flexibility for our analysis and how we visualize our results. On this course you will learn how to prepare texts for analysis, and how to peform the analysis and visualize the results. Out texts will be summaries from debates in the Danish Parliament Folketinget.</p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4216263;NVivo for Absolute Beginners;FALSE;2024-10-28T09:00:00Z;2024-10-28T11:30:00Z;"<p><br />
-Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+<p>We assume that you have some experience working with R, and knows the tidyverse. The level required is what you would learn on one of our introductory course in &quot;R for absolute beginners&quot;.&nbsp;</p>
 
-<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+<p>You should have R and Rstudio installed before the course, and preferably also have downloaded the dataset that we are going to explore. You can find further instructions <a href=""https://kubdatalab.github.io/R-EDA/setup.html"">here</a>.</p>
 
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+<p>The course is by default held in English, unless everyone speaks Danish, in which case it will be in Danish</p>";https://kubkalender.kb.dk/event/4253162;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4253162;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;43466;Søren Willer Hansen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#9AFCFC;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1724849039.jpg;;0;0;TRUE;FALSE;22;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4253162;Text mining with R;FALSE;2024-10-25T08:00:00Z;2024-10-25T10:00:00Z;"<p>Text mining is a powerful set of methods that enable us to process, analyze and visualize the content of a large number of texts. It gives us the possiblity to gain insights and spot patterns that can otherwise be hard to see when reading through the texts. The methods that you will learn on this course can be used to analyze any set of texts.</p>
 
-<p>&nbsp;</p>
+<p>The advantage of R is that we have a lot of flexibility for our analysis and how we visualize our results. On this course you will learn how to prepare texts for analysis, and how to peform the analysis and visualize the results. Out texts will be summaries from debates in the Danish Parliament Folketinget.</p>
 
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+<p>We assume that you have some experience working with R, and knows the tidyverse. The level required is what you would learn on one of our introductory course in &quot;R for absolute beginners&quot;.&nbsp;</p>
 
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+<p>You should have R and Rstudio installed before the course, and preferably also have downloaded the dataset that we are going to explore. You can find further instructions <a href=""https://kubdatalab.github.io/R-EDA/setup.html"">here</a>.</p>
 
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
-
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
-
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
-
-<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
-4216263;NVivo for Absolute Beginners;FALSE;2024-10-28T09:00:00Z;2024-10-28T11:30:00Z;"<p><br />
-Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
-
-<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
-
-<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
-
-<p>&nbsp;</p>
-
-<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
-
-<p>This can be done here for Windows:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
-
-<p>And here for Mac:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
-
-<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
-
-<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
-
-<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>The course is by default held in English, unless everyone speaks Danish, in which case it will be in Danish</p>";https://kubkalender.kb.dk/event/4253162;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4253162;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33563;Visualisation;43466;Søren Willer Hansen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#9AFCFC;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1724849039.jpg;;0;0;TRUE;FALSE;22;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4202468;R for Absolute Beginners - ONLINE;FALSE;2024-10-29T08:00:00Z;2024-10-29T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -2092,6 +2056,78 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>&nbsp;</p>
 
 <p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202468;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202468;13792;0;Online course;NA;NA;;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;TRUE;FALSE;0;0;40;5;5;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+4216263;NVivo for Absolute Beginners;FALSE;2024-10-29T09:00:00Z;2024-10-29T11:30:00Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4216263;NVivo for Absolute Beginners;FALSE;2024-10-29T09:00:00Z;2024-10-29T11:30:00Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
+4216263;NVivo for Absolute Beginners;FALSE;2024-10-29T09:00:00Z;2024-10-29T11:30:00Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 14.</p>
+
+<p>This can be done here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a></p>
+
+<p>Registration key is available through the <a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>.</p>
+
+<p><strong>Please note:</strong>&nbsp;NVivo can be found int the Software Library under the link&nbsp;&quot;QSR International - NVivo&quot;.</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216263;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216263;97;0;KUB Frederiksberg: Undervisningslokale I61, Dyrlægevej 10;42;KUB Frederiksberg - Natur- og Sundhedsvidenskab, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Daniel Pryn & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0;TRUE;FALSE;25;0;0;0;0;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216240;Python for Absolute Beginners pt. 1;FALSE;2024-10-30T11:00:00Z;2024-10-30T14:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2116,7 +2152,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216240;Python for Absolute Beginners pt. 1;FALSE;2024-10-30T11:00:00Z;2024-10-30T14:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2141,7 +2177,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216240;Python for Absolute Beginners pt. 1;FALSE;2024-10-30T11:00:00Z;2024-10-30T14:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2166,7 +2202,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;3;0;0;3;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216240;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216240;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;4;0;0;4;TRUE;NA;NA;NA;NA;NA;NA;NA
 4197841;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-10-30T11:30:00Z;2024-10-30T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2301,7 +2337,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;2;0;0;2;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216244;Python for Absolute Beginners pt. 2;FALSE;2024-11-06T11:00:00Z;2024-11-06T14:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2326,7 +2362,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;2;0;0;2;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216244;Python for Absolute Beginners pt. 2;FALSE;2024-11-06T11:00:00Z;2024-11-06T14:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2351,7 +2387,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;1;0;0;1;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216244;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216244;15906;0;KUB Datalab - Samf;40;SAMF: Det Samfundsvidenskabelige Fakultetsbibliotek, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;TRUE;FALSE;25;2;0;0;2;TRUE;NA;NA;NA;NA;NA;NA;NA
 4197842;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-11-06T11:30:00Z;2024-11-06T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
