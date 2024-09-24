@@ -15,7 +15,7 @@ library(lubridate)
 library(kableExtra)
 library(formattable)
 library(knitr)
-wanted <- "Det Samfundsvidenskabelige Fakultetsbibliotek"
+wanted <- "KUB City Campus"
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
