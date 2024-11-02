@@ -1,104 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;audience;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4216243;Python for Absolute Beginners pt. 2;FALSE;2024-10-01T07:00:00Z;2024-10-01T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216243;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216243;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4216243;Python for Absolute Beginners pt. 2;FALSE;2024-10-01T07:00:00Z;2024-10-01T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216243;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216243;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4216243;Python for Absolute Beginners pt. 2;FALSE;2024-10-01T07:00:00Z;2024-10-01T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216243;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216243;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4216243;Python for Absolute Beginners pt. 2;FALSE;2024-10-01T07:00:00Z;2024-10-01T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216243;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216243;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
 4216276;NVivo - Cases and Classification in Interview Data;FALSE;2024-10-02T08:00:00Z;2024-10-02T10:30:00Z;"<p><br />
 <strong>This course is not an introductory course but&nbsp;presupposes a basic understanding of the functionality in NVivo.</strong><br />
 This understanding can be gained by participating in our introductory NVivo courses&nbsp;found here:<br />
@@ -1821,7 +1721,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;23;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;24;24;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1841,7 +1741,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;23;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;24;24;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1861,7 +1761,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;23;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;24;24;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1881,7 +1781,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;23;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;0;0;40;24;24;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4197844;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-11-20T11:30:00Z;2024-11-20T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2205,6 +2105,21 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>&nbsp;</p>
 
 <p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202471;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202471;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
+4292401;Automatiseret transskription med værktøjet Whisper;FALSE;2024-12-03T12:00:00Z;2024-12-03T13:00:00Z;"<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328"">Workshoppen er en gennemgang af, hvordan du kommer i gang med at anvende Whisper til at transskribere dine interviews. Efterf&oslash;lgende kan du selv pr&oslash;ve kr&aelig;fter med programmet, og vi er der til at hj&aelig;lpe dig i gang. </span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328""></span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328""><span style=""background:white""><span style=""line-height:normal""><span style=""background:white""><span style=""color:#1f2328"">Installationen af Whisper ligger p&aring; et&nbsp;<a href=""https://cloud.sdu.dk/app/login"" target=""_blank""><span style=""color:#2954d1"">Ucloud</span></a>, hvor der er adgang via WAYF, og hvor dine data er i sikkerhed.</span></span><span style=""color:#333333""></span></span></span></span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328""></span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328"">Vi har en lydfil, s&aring; du beh&oslash;ver ikke at medbringe dine egne data.</span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328""></span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328"">Kursusmaterialet stammer fra AUL-BSS Datalab.</span></span></span></p>
+
+<p><span style=""background:white""><span segoe="""" ui=""""><span style=""color:#1f2328""> <a href=""https://github.com/AUL-BSS-Datalab/FraTaleTilTekst"" target=""_blank"">L&aelig;s mere om materialet p&aring; denne side. </a></span></span></span></p>";https://kubkalender.kb.dk/event/4292401;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4292401;98;0;KUB Nørre Campus: Lighthouse;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;9876;Lars Kjær;Anne Bagger, Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;28;1;0;0;1;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1729775208.png;;0;0;NA;NA;NA;NA;NA;NA;NA
 4197846;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-12-04T11:30:00Z;2024-12-04T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2235,19 +2150,6 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4197846;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4197846;21575;2;Lighthouse, Zone 3;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0;NA;NA;NA;NA;NA;NA;NA
-4292401;Automatiseret transskription med værktøjet Whisper;FALSE;2024-12-04T12:00:00Z;2024-12-04T13:00:00Z;"<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328"">Workshoppen er en gennemgang af, hvordan du kommer i gang med at anvende Whisper til at transskribere dine interviews. Efterf&oslash;lgende kan du selv pr&oslash;ve kr&aelig;fter med programmet, og vi er der til at hj&aelig;lpe dig i gang. </span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328""></span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328"">Installationen af Whisper ligger p&aring; et <a href=""https://cloud.sdu.dk/app/login"" target=""_blank"">Ucloud</a>, hvor dine data er i sikkerhed. Det vil sige, at du ogs&aring; kan transskribere interviews med f&oslash;lsomme data.</span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328""></span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328"">Vi har en lydfil, s&aring; du beh&oslash;ver ikke at medbringe dine egne data.</span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328""></span></span></span></span></span></p>
-
-<p><span style=""font-size:11pt""><span style=""font-family:Calibri,sans-serif""><span style=""background:white""><span style=""font-family:&quot;Segoe UI&quot;,sans-serif""><span style=""color:#1f2328"">Kursusmaterialet stammer fra AUL-Arts-Digital-Lab. <a href=""https://github.com/AUL-BSS-Datalab/FraTaleTilTekst"" target=""_blank"">L&aelig;s mere om materialet p&aring; denne side. </a></span></span></span></span></span></p>";https://kubkalender.kb.dk/event/4292401;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4292401;98;0;KUB Nørre Campus: Lighthouse;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;9876;Lars Kjær;Anne Bagger, Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;28;1;0;0;1;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1729775208.png;;0;0;NA;NA;NA;NA;NA;NA;NA
 4197847;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-12-11T11:30:00Z;2024-12-11T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
