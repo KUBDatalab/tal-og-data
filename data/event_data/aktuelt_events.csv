@@ -1,101 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;color;featured_image;more_info;setup_time;teardown_time;audience;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;online_user_id;zoom_email;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4248258;Digital Humanities - Culture and Text;FALSE;2024-10-11T10:00:00Z;2024-10-11T14:00:00Z;"<p>Don&#39;t miss this unique opportunity to gain insight into different ways in which computer technology is being used as a tool in humanities research. In the&nbsp;<a href=""https://kub.kb.dk/datalab/network/dhcult"">DHCult</a>&nbsp;network we have gathered five researchers who are looking forward to presenting how they use the computer in research in different projects.</p>
-
-<p><strong><a href=""https://ku-dk.libwizard.com/f/dh_cult"" target=""_blank"">Click here to register to participate online.</a></strong></p>
-
-<p>The program follows below.<br />
-&nbsp;</p>
-
-<hr />
-<p>&nbsp;</p>
-
-<p style=""text-align: center;""><strong>12:00 &ndash; 12:05</strong></p>
-
-<p style=""text-align: center;""><strong>Introduction to the conference. &nbsp;</strong></p>
-
-<p style=""text-align: center;"">*</p>
-
-<p style=""text-align: center;"">&nbsp;<strong>12:05 - 12:25</strong></p>
-
-<p style=""text-align: center;""><strong>Cognitive Modeling as method for researching the mind &ndash; possibilities and limitations. Theory of Mind modeling as example.&nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Peter Thestrup Waade. Onsite. PhD Student. Aarhus University. &nbsp;</span></strong></p>
-
-<p style=""text-align: center;"">Cognitive modeling is a formal and computational approach to researching an understanding the (human) mind, methodologically rooted in the natural sciences but belonging to psychology, psychiatry, and the humanities in terms of subject matter. Giving an approach to describe mental mechanisms that underlie observable behavior, cognitive modeling provides tools for formal and data-driven accounts of the mind &ndash; but also comes with many limitations. In this talk, I use Theory of Mind modeling as an illustrative example of the method, both its advantages and disadvantages.&nbsp;</p>
-
-<p style=""text-align: center;"">&nbsp;<strong>12:25 - 12:30: Questions &nbsp;</strong></p>
-
-<p style=""text-align: center;"">&nbsp;*</p>
-
-<p style=""text-align: center;""><strong>12:35 - 12:55</strong></p>
-
-<p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Digital Humanities between Ambition and Pragmatism</span></strong> &nbsp;</p>
-
-<p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Jonas Kj&oslash;ller-Rasmussen. Onsite. Information Specialist and PhD Student. University of Copenhagen</span><span style=""font-family:Arial,Helvetica,sans-serif;""><br />
-&nbsp;</span></strong><br />
-<em><span style=""font-family:Arial,Helvetica,sans-serif;"">The combination of source accessibility and digital tools has inspired many novel and ambitious approaches to traditional humanities scholarship. Ambition, however, might sometimes yield to pragmatism when unfolded within the constraints of academic project management. In my presentation I will give a practical example of how high ambitions for the application of digital methods, when faced with obstacles, can be transformed into practical approaches that nonetheless provide valuable and unique insights that support and enhance traditional humanities scholarship at a fundamental level.</span></em><span style=""font-family:Arial,Helvetica,sans-serif;""></span></p>
-
-<p style=""text-align: center;""><strong>&nbsp;12:55 - 13:00: Questions </strong>&nbsp;</p>
-
-<p style=""text-align: center;"">*</p>
-
-<p style=""text-align: center;"">&nbsp;<strong>13:05 - 13:35</strong></p>
-
-<p style=""text-align: center;""><strong>Read, search and Research. Using Trinskribus on a 18<sup>th</sup> century handwritten large scale source material</strong></p>
-
-<p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Tine R. Reeh. Onsite. Associate Professor. University of Copenhagen</span></strong></p>
-
-<p style=""text-align: center;"">This paper presents some of the experiences from using Transkribus in an interdisciplinary and collective research project; <a href=""https://teol.ku.dk/english/dept/managing-melancholy/"" target=""_blank"">Managing Melancholy</a>. After a brief explanation of our aims and approach, I will give some examples from our work. Finally, I will touch on unexpected obstacles and opportunities that may inspire and inform other projects.&nbsp;</p>
-
-<p style=""text-align: center;"">&nbsp;</p>
-
-<p style=""text-align: center;""><strong>&nbsp;13:35 - 13:45: Questions&nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong>*</strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;13:45 - 14:00: Break</strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;*</strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;<strong>14:00 &ndash; 14:35</strong></strong></p>
-
-<p style=""text-align: center;""><strong><strong>Digital humanities, infrastructure, and multilingual inclusivity</strong></strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;&nbsp;<span style=""font-family:Arial,Helvetica,sans-serif;"">Paul Spence. Online. Reader in Digital Humanities. King&rsquo;s College London</span></strong></p>
-
-<p style=""text-align: center;"">Recent years have seen a growing interest in the concept of Multilingual digital humanities, but what does DH understand by multilingualism, and how does DH research respond to the challenges which digital mediation presents for language diversity, language justice and language professionals? In this presentation, I will explore how Multilingual DH &#39;infrastructural&#39; or &#39;workflow&#39; responses engage with wider discussions about fostering epistemic diversity and global inclusivity in knowledge infrastructures.</p>
-
-<p style=""text-align: center;""><strong>&nbsp;&nbsp;14:35 &ndash; 14:45: Questions &nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong>*</strong></p>
-
-<p style=""text-align: center;""><strong>14.45 - 15:00: Break &nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong>*</strong></p>
-
-<p style=""text-align: center;""><strong>15:00 &ndash; 15:40</strong></p>
-
-<p style=""text-align: center;""><strong><strong>Voyant and Spyral</strong></strong></p>
-
-<p style=""text-align: center;""><strong><span style=""font-family:Arial,Helvetica,sans-serif;"">Geoffrey Rockwell. Online. Professor of Philosophy and Digital Humanities. University of Alberta</span>&nbsp;</strong></p>
-
-<p style=""text-align: center;"">Voyant is a suite of text analysis and visualization tools that are widely used in the digital humanities, especially when introducing students to computer-assisted analysis of texts. In this presentation Geoffrey Rockwell will provide a brief history of Voyant leading up to the development of Spyral, a notebook programming extension to Voyant. He will demonstrate both Voyand and Spyral and discuss how Spyral provides a growth path for students and research projects. He will end by encouraging you to join the Voyant Consortium so that the tool evolves in ways that suit your research.</p>
-
-<p style=""text-align: center;""><strong>15:40 &ndash; 15:55: Questions &nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong>*</strong></p>
-
-<p style=""text-align: center;""><strong>15:55 &ndash; 16:00</strong></p>
-
-<p style=""text-align: center;""><strong><strong>Goodbye</strong></strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp; &nbsp;&nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong><a href=""https://ku-dk.libwizard.com/f/dh_cult"" target=""_blank"">Click here to register.</a></strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;</strong></p>
-
-<p style=""text-align: center;""><strong>&nbsp;</strong></p>";https://kubkalender.kb.dk/event/4248258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4248258;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;9876;Lars Kjær;Geoffrey Rockwell, Paul Spence, Tine R. Reeh, Jonas Kjøller-Rasmussen, Peter Thestrup Waade;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1723800103.png;;0;0;;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4197839;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-10-16T10:30:00Z;2024-10-16T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1027,7 +930,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p lang=""DA-DK"" paraeid=""{6d7503ae-1fb7-4397-8422-a7bd3ba2f6fd}{89}"" paraid=""1056691263"" xml:lang=""DA-DK"">&nbsp;The workshop is based on dialog and switches between short talks and practical solving of small tasks.</p>
 
-<p lang=""DA-DK"" paraeid=""{2129f0ef-e12a-458b-96a5-1c7e68b74f33}{67}"" paraid=""1967478892"" xml:lang=""DA-DK"">Before the course, we ask you to download and install the program on your computer. <a href=""https://orangedatamining.com/download/"" rel=""noreferrer noopener"" target=""_blank"">Click here to get to the download page</a>.&nbsp;</p>";https://kubkalender.kb.dk/event/4227301;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227301;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;;5673;FALSE;TRUE;FALSE;12;7;0;0;7;FALSE;NA;NA;NA;NA;NA;NA;NA
+<p lang=""DA-DK"" paraeid=""{2129f0ef-e12a-458b-96a5-1c7e68b74f33}{67}"" paraid=""1967478892"" xml:lang=""DA-DK"">Before the course, we ask you to download and install the program on your computer. <a href=""https://orangedatamining.com/download/"" rel=""noreferrer noopener"" target=""_blank"">Click here to get to the download page</a>.&nbsp;</p>";https://kubkalender.kb.dk/event/4227301;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227301;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;;5673;FALSE;TRUE;TRUE;12;6;0;0;6;FALSE;NA;NA;NA;NA;NA;NA;NA
 4227301;Orange - Data Mining for Absolute Beginners;FALSE;2024-11-11T08:30:00Z;2024-11-11T10:30:00Z;"<p>We know that&nbsp;programming can be a barrier for many who are fascinated by text and data mining. Therefore, we are hosting a course on the program Orange.</p>
 
 <p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen="""" frameborder=""0"" height=""315"" referrerpolicy=""strict-origin-when-cross-origin"" src=""https://www.youtube.com/embed/HXjnDIgGDuI?si=-y2hqFZKr1Uy0D1i"" title=""YouTube video player"" width=""560""></iframe></p>
@@ -1057,7 +960,7 @@ Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are wo
 
 <p lang=""DA-DK"" paraeid=""{6d7503ae-1fb7-4397-8422-a7bd3ba2f6fd}{89}"" paraid=""1056691263"" xml:lang=""DA-DK"">&nbsp;The workshop is based on dialog and switches between short talks and practical solving of small tasks.</p>
 
-<p lang=""DA-DK"" paraeid=""{2129f0ef-e12a-458b-96a5-1c7e68b74f33}{67}"" paraid=""1967478892"" xml:lang=""DA-DK"">Before the course, we ask you to download and install the program on your computer. <a href=""https://orangedatamining.com/download/"" rel=""noreferrer noopener"" target=""_blank"">Click here to get to the download page</a>.&nbsp;</p>";https://kubkalender.kb.dk/event/4227301;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227301;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33564;English;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;;5673;FALSE;TRUE;FALSE;12;7;0;0;7;FALSE;NA;NA;NA;NA;NA;NA;NA
+<p lang=""DA-DK"" paraeid=""{2129f0ef-e12a-458b-96a5-1c7e68b74f33}{67}"" paraid=""1967478892"" xml:lang=""DA-DK"">Before the course, we ask you to download and install the program on your computer. <a href=""https://orangedatamining.com/download/"" rel=""noreferrer noopener"" target=""_blank"">Click here to get to the download page</a>.&nbsp;</p>";https://kubkalender.kb.dk/event/4227301;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4227301;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33564;English;44253;Søren Davidsen;Søren Davidsen & Lars Kjær;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;;;0;0;;5673;FALSE;TRUE;TRUE;12;6;0;0;6;FALSE;NA;NA;NA;NA;NA;NA;NA
 4197843;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-11-13T11:30:00Z;2024-11-13T13:30:00Z;"<h1><strong><span style=""color:#e74c3c;"">NOTE: KUB Datalab has been moved to KU Lighthouse, room 5.</span></strong></h1>
 
 <p><b>We hope to be able to return to the normal location November 20th</b></p>
@@ -1133,7 +1036,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p><strong>Vi anbefaler desuden, at du gennemg&aring;r de f&oslash;rste tre &oslash;velser beskrevet&nbsp;<a href=""https://absalon.ku.dk/courses/71442"" target=""_blank"">HER</a>.</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216266;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216266;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;;5673;FALSE;TRUE;FALSE;25;12;0;0;12;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216266;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216266;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;33562;Analysis;44253;Søren Davidsen;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;;5673;FALSE;TRUE;FALSE;25;13;0;0;13;TRUE;NA;NA;NA;NA;NA;NA;NA
 4216266;NVivo for absolutte begyndere;FALSE;2024-11-15T09:00:00Z;2024-11-15T11:30:00Z;"<p><br />
 Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
 
@@ -1155,7 +1058,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p><strong>Vi anbefaler desuden, at du gennemg&aring;r de f&oslash;rste tre &oslash;velser beskrevet&nbsp;<a href=""https://absalon.ku.dk/courses/71442"" target=""_blank"">HER</a>.</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216266;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216266;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;;5673;FALSE;TRUE;FALSE;25;12;0;0;12;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4216266;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216266;92;0;KUB Søndre campus: Undervisningslokalet 1. sal;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;NA;32027;Datalab;44253;Søren Davidsen;Søren Davidsen & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0;;5673;FALSE;TRUE;FALSE;25;13;0;0;13;TRUE;NA;NA;NA;NA;NA;NA;NA
 4292509;Fotogrammetri for begyndere;FALSE;2024-11-18T08:30:00Z;2024-11-18T14:30:00Z;"<p paraeid=""{a934f8f5-7f8a-4c42-9451-ab54de3502dd}{48}"" paraid=""2014460326"">I samarbejde med K&oslash;benhavns Bymuseum afholder KUB Datalab et&nbsp;kursus med fokus p&aring; digitalisering i ark&aelig;ologi og p&aring; brugen af 3D data inden for kulturarvsomr&aring;det.</p>
 
 <div class=""sketchfab-embed-wrapper""><iframe allow=""autoplay; fullscreen; xr-spatial-tracking"" allowfullscreen="""" execution-while-not-rendered="""" execution-while-out-of-viewport="""" frameborder=""0"" mozallowfullscreen=""true"" src=""https://sketchfab.com/models/8c6462b8194446589b0c15ff9d133814/embed"" title=""Cult item"" web-share="""" webkitallowfullscreen=""true"" xr-spatial-tracking=""""></iframe>
@@ -1318,7 +1221,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 	<li>Manipulating data frames</li>
 </ul>
 
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;8;0;0;8;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;7;0;0;7;TRUE;NA;NA;NA;NA;NA;NA;NA
 4251291;R and APIs - Statistics Denmark;FALSE;2024-11-18T09:00:00Z;2024-11-18T11:00:00Z;"<p>APIs provide access to a multitude of information.</p>
 
 <p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
@@ -1337,7 +1240,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 	<li>Manipulating data frames</li>
 </ul>
 
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;8;0;0;8;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;7;0;0;7;TRUE;NA;NA;NA;NA;NA;NA;NA
 4251291;R and APIs - Statistics Denmark;FALSE;2024-11-18T09:00:00Z;2024-11-18T11:00:00Z;"<p>APIs provide access to a multitude of information.</p>
 
 <p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
@@ -1356,7 +1259,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 	<li>Manipulating data frames</li>
 </ul>
 
-<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;8;0;0;8;TRUE;NA;NA;NA;NA;NA;NA;NA
+<p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4251291;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4251291;21573;2;Lighthouse, Zone 1;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33560;Harvesting;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0;;5673;FALSE;TRUE;FALSE;20;7;0;0;7;TRUE;NA;NA;NA;NA;NA;NA;NA
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1376,7 +1279,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;33;33;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33562;Analysis;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;34;34;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1396,7 +1299,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;33;33;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33561;Cleaning;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;34;34;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1416,7 +1319,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;33;33;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;34;34;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4202470;R for Absolute Beginners - ONLINE;FALSE;2024-11-19T08:00:00Z;2024-11-19T10:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1436,7 +1339,7 @@ Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dat
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;33;33;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4202470;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4202470;13792;0;Online course;41;KUB Nørre Campus - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N;NA;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0;;5673;FALSE;TRUE;FALSE;0;0;40;34;34;TRUE;0;;;;https://kbdk.zoom.us/j/63321870011;;external
 4197844;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2024-11-20T11:30:00Z;2024-11-20T13:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
