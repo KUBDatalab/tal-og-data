@@ -1,7 +1,6 @@
 library(purrr)
 library(lubridate)
 library(tibble)  
-library(plotly)
 library(rmarkdown)
 library(here)
 library(stringr)
