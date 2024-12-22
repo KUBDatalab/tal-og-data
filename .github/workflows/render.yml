@@ -17,6 +17,7 @@ jobs:
       - name: Install packages
         run: |
           Rscript -e 'install.packages("rmarkdown")'
+          Rscript -e 'install.packages("curl")'
           Rscript -e 'install.packages("knitr")'
           Rscript -e 'install.packages("kableExtra")'
           Rscript -e 'install.packages("formattable")'
