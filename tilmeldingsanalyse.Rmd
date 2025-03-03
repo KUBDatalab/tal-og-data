@@ -1,0 +1,116 @@
+---
+title: "Vores tilmeldinger"
+author: "Christian Knudsen"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+metadata <- read_csv2("data/tilmeldingsdata/metadata.csv")
+tilmeldinger <- read_csv2("data/tilmeldingsdata/tilmeldinger.csv")
+presenter <- read_csv2("data/tilmeldingsdata/presenter.csv")
+```
+
+## Teknik
+
+Vi gemmer regelmæssigt tilmeldingerne til vores kurser. 
+Tag et kig på repoet til denne side (github.com/kubdatalab/tal-og-data), og 
+studer filen "read_kursus_tilmeldinger.R" hvis du er nysgerring på oprensningen
+af data. Hiver du selv repoet ned, skal du være opmærksom på, at alle filerne 
+skal hentes ned, og gemmes i mappen 
+/data-raw/kursus_tilmeldinger
+
+Den er ikke automatisk med, da .gitignore sikrer at den ikke kommer med op på github.
+
+Den behandling fører til tre csv-filer:
+
+* presenter.csv med et id på kurset, og et undervisernavn. Det er nemlig en en til mange forbindelse.
+* metadata.csv der også har et id på kurset - og dertil diverse oplysninger om navn, R/python kategori, tid, sted og dato.
+* tilmeldinger.csv der har de egentlige tilmeldingsdata. Herunder et pid der er en hashet udgave af emailadressen på tilmeldingen - det gør det tilnærmelsesvist muligt at identificere gengangere. Og en sex-kolonne, der på en skala fra 0 til 1 angiver hvor sandsynlig det er 
+at deltagere er en mand - baseret på data for hyppigheden af mænd/kvinder med et givet fornavn (fra 2021, så...)
+
+
+## Cave
+
+Hvis du føler trang til at sammenligne med de tal der trækkes gennem API'en og 
+er publiceret på https://kubdatalab.github.io/tal-og-data/tallene.html så husk at
+det er løbende tale inklusive ventelister, studerende der har tilmeldt sig men
+melder fra igen osv. Så de er altså ikke direkte sammenlignelige. For ikke at
+tale om at 2024 tallene ikke er for hele året. 
+
+Perioden der her undersøges: `r min(tilmeldinger$booking_made)` til `r max(tilmeldinger$booking_made)`
+
+
+
+## Antal tilmeldinger:
+
+```{r}
+tilmeldinger %>% 
+  group_by(year) %>% 
+  summarise(antal = n())
+```
+Hvornår kommer de?
+
+```{r}
+tilmeldinger %>% 
+  select(booking_made) %>% 
+  arrange(booking_made) %>% 
+  group_by(year(booking_made)) %>% 
+  mutate(antal = row_number()) %>% 
+  ggplot(aes(x=yday(booking_made),y = antal, color = factor(year(booking_made)))) +
+  geom_line() +
+  ggtitle("udviklingen i antal tilmeldinger")
+```
+
+Online eller fysiske kurser:
+```{r}
+tilmeldinger %>% count(registration_type)
+```
+Hvilke fakulteter?
+```{r}
+tilmeldinger %>% count(faculty) %>% 
+  ggplot(aes(faculty, n)) +
+  geom_col() +
+  coord_flip()
+
+```
+udd. niveua
+```{r}
+tilmeldinger %>% count(niveau)
+
+```
+erfaring med emnet:
+```{r}
+tilmeldinger %>% count(erfaring)
+
+```
+
+Styresystem:
+```{r}
+tilmeldinger %>% count(os)
+```
+
+Er der forskel på fakulteterne?
+
+```{r}
+tilmeldinger %>% group_by(faculty) %>% 
+  count(os) %>% 
+  ggplot(aes(os, n)) +
+  geom_col() +
+  facet_wrap(~faculty) +
+  coord_flip()
+```
+# den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
+```{r}
+tilmeldinger %>%
+  group_by(faculty) %>% 
+  summarise(male = mean(sex, na.rm = TRUE)*100) %>% 
+  mutate(female = 100 - male)
+```
+Det er så kun et estimat baseret på fornavne. Hvis ikke DS har tal på kønsfordelingen
+for et givet fornavn, optræder man som NA. Der skal selvfølgelig her sammenlignes
+med kønsfordelingen på de enkelte fakulteter.
+
+
