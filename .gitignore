@@ -28,3 +28,4 @@ vignettes/*.pdf
 .Renviron
 scratchpad.R
 tallene.html
+/data-raw/kursus_tilmeldinger
