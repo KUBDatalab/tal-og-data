@@ -87,21 +87,7 @@ tilmeldinger %>% count(erfaring)
 
 ```
 
-Styresystem:
-```{r}
-tilmeldinger %>% count(os)
-```
 
-Er der forskel på fakulteterne?
-
-```{r}
-tilmeldinger %>% group_by(faculty) %>% 
-  count(os) %>% 
-  ggplot(aes(os, n)) +
-  geom_col() +
-  facet_wrap(~faculty) +
-  coord_flip()
-```
 # den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
 ```{r}
 tilmeldinger %>%
@@ -113,4 +99,50 @@ Det er så kun et estimat baseret på fornavne. Hvis ikke DS har tal på kønsfo
 for et givet fornavn, optræder man som NA. Der skal selvfølgelig her sammenlignes
 med kønsfordelingen på de enkelte fakulteter.
 
+## Nå. Vi må hellere gå lidt systematisk til værks.
 
+### Styresystem
+
+#### Styresystem:
+```{r}
+tilmeldinger %>% count(os)
+```
+
+#### Er der forskel på fakulteterne?
+
+```{r}
+tilmeldinger %>% group_by(faculty) %>% 
+  count(os) %>% 
+  ggplot(aes(os, n)) +
+  geom_col() +
+  facet_wrap(~faculty) +
+  coord_flip()
+```
+
+#### er der forskel på kønnene?
+
+```{r}
+tilmeldinger %>% 
+  mutate(gender = sex<0.5) %>% 
+  mutate(gender = factor(gender, labels = c("male", "female"))) %>% 
+  group_by(gender) %>% 
+  count(os) %>% 
+  pivot_wider(names_from = gender, values_from = n)
+```
+
+
+```{r}
+tilmeldinger %>% 
+  mutate(gender = sex<0.5) %>% 
+  mutate(gender = factor(gender, labels = c("male", "female"))) %>% 
+  group_by(gender) %>% 
+  count(os) %>% 
+  ggplot(aes(os, n)) +
+  geom_col() +
+  facet_wrap(~gender) +
+  coord_flip()
+```
+
+os vs. niveau og erfaring mangler
+join med kursus så vi får kategori af kurser på - og se om der er forskel på
+os vs kategori af kurser.
