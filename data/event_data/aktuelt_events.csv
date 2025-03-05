@@ -1,60 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;audience;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time
-4308262;NVivo for absolutte begyndere;FALSE;2025-02-04T09:00:00Z;2025-02-04T11:00:00Z;"<p><br />
-Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
-
-<p>PC-versionen af NVivo har mere udvidet&nbsp;funktionalitet end Mac-versionen, men man kan deltage i alle &oslash;velser uanset version, og undervisningen vil ligeledes blive demonstreret i begge.</p>
-
-<p>&nbsp;</p>
-
-<p>Du bedes forud for kurset have installeret enten NVivo 14 eller NVivo 15.</p>
-
-<p>Det kan du g&oslash;re her til Windows:<br />
-NVivo 14:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a><br />
-NVivo 15:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe</a></p>
-
-<p>Og her til Mac:<br />
-NVivo 14<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a><br />
-NVivo 15:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg</a></p>
-
-<p>Benyt&nbsp;derefter&nbsp;registreringsn&oslash;gle fra&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">KU&rsquo;s Softwarebibliotek</a>. Det er den samme n&oslash;gle til b&aring;de NVivo 14 og 15.</p>
-
-<p><strong>Bem&aelig;rk:</strong> NVivo findes i Sofwarebiblioteket under linket &quot;QSR International - NVivo&quot;.</p>
-
-<p><strong>Vi anbefaler desuden, at du gennemg&aring;r de f&oslash;rste tre &oslash;velser beskrevet&nbsp;<a href=""https://absalon.ku.dk/courses/71442"" target=""_blank"">HER</a>.</strong></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308262;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;313;Erik Schwägermann;Benjamin Derksen & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;16;0;0;16;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0
-4308262;NVivo for absolutte begyndere;FALSE;2025-02-04T09:00:00Z;2025-02-04T11:00:00Z;"<p><br />
-Introduktion til programmet NVivo, som er en stor hj&aelig;lp til kvalitativ dataanalyse. NVivo kan bl.a. hj&aelig;lpe dig med at organisere og kode din empiri og litteratur, generere hypoteser, transskribere din lyd/video og meget andet.</p>
-
-<p>PC-versionen af NVivo har mere udvidet&nbsp;funktionalitet end Mac-versionen, men man kan deltage i alle &oslash;velser uanset version, og undervisningen vil ligeledes blive demonstreret i begge.</p>
-
-<p>&nbsp;</p>
-
-<p>Du bedes forud for kurset have installeret enten NVivo 14 eller NVivo 15.</p>
-
-<p>Det kan du g&oslash;re her til Windows:<br />
-NVivo 14:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14/NVivo.x64.exe</a><br />
-NVivo 15:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe</a></p>
-
-<p>Og her til Mac:<br />
-NVivo 14<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo14forMac/NVivo.dmg</a><br />
-NVivo 15:<br />
-<a href=""https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg</a></p>
-
-<p>Benyt&nbsp;derefter&nbsp;registreringsn&oslash;gle fra&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">KU&rsquo;s Softwarebibliotek</a>. Det er den samme n&oslash;gle til b&aring;de NVivo 14 og 15.</p>
-
-<p><strong>Bem&aelig;rk:</strong> NVivo findes i Sofwarebiblioteket under linket &quot;QSR International - NVivo&quot;.</p>
-
-<p><strong>Vi anbefaler desuden, at du gennemg&aring;r de f&oslash;rste tre &oslash;velser beskrevet&nbsp;<a href=""https://absalon.ku.dk/courses/71442"" target=""_blank"">HER</a>.</strong></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308262;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308262;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;313;Erik Schwägermann;Benjamin Derksen & Erik Schwägermann;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;16;0;0;16;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1644571897.jpg;;0;0
 4330867;Python for Absolute Beginners pt. 1;FALSE;2025-02-05T08:30:00Z;2025-02-05T11:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1219,7 +1163,7 @@ NVivo 15:<br />
 
 <p>In this course, I will cover data, variables, operations, data structures and simple commands and functions.</p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4339810;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4339810;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;30747;Henrik Hornemann;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;5;0;0;5;TRUE;#18E0F2;;;30;30
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4339810;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4339810;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;30747;Henrik Hornemann;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;6;0;0;6;TRUE;#18E0F2;;;30;30
 4299887;R for absolutte nybegyndere;FALSE;2025-03-07T08:00:00Z;2025-03-07T10:00:00Z;"<p>L&aelig;g venligst m&aelig;rke til, at kurset holdes p&aring; dansk.</p>
 
 <p><em>Please note that this course will be held in Danish. For courses in English, please visit the <a href=""https://kubkalender.kb.dk/calendar/datalab?cid=6416&amp;t=d&amp;d=0000-00-00&amp;cal=6416&amp;inc=0"" target=""_blank"">datalab course calendar</a>.</em></p>
@@ -1491,7 +1435,7 @@ NVivo 15:<br />
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216748;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216748;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
 4339816;Introduction to programming with Python II;FALSE;2025-03-13T12:00:00Z;2025-03-13T14:30:00Z;"<p>This is the second part of two courses. Prerequsites: part one of the course or some basic familiarity with Python programming.</p>
 
-<p>We will look closer on some data structures including files and classes. We will also look at importing libraries.</p>";https://kubkalender.kb.dk/event/4339816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4339816;98;0;Library Lighthouse, zone 1;NA;NA;;;32027;Datalab;30747;Henrik Hornemann;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;;;30;30
+<p>We will look closer on some data structures including files and classes. We will also look at importing libraries.</p>";https://kubkalender.kb.dk/event/4339816;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4339816;98;0;Library Lighthouse, zone 1;NA;NA;;;32027;Datalab;30747;Henrik Hornemann;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;5;0;0;5;TRUE;#18E0F2;;;30;30
 4330663;Python advanced - Text Processing with Regular Expressions;FALSE;2025-03-14T09:00:00Z;2025-03-14T11:00:00Z;"<p>In the course, you can gain insight into what Regular Expressions (Regex) are and get ideas on how to use them. A basic understanding of Python programming is recommended.</p>
 
 <p>We start by downloading a book digitized by the Royal Library, which provides an opportunity to focus on issues with Optical Character Recognition (OCR) scanned documents. Once the book is downloaded, we begin to clean and process the text data by removing unwanted characters, normalizing the text, and preparing it for further analysis. &nbsp;</p>
@@ -2021,7 +1965,7 @@ NVivo 15:<br />
 
 <p><strong>Please download and save the files we will be using during the course. Have a look at these introductory exercises before course start. The exercises cover the basics in importing files into NVivo and inductive/deductive coding and will help you check that your NVivo is running correctly.&nbsp;&nbsp;Find the exercises and files we will be using in the teaching&nbsp;<a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.&nbsp;</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33562;Analysis;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33562;Analysis;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
 4308258;NVivo for Absolute Beginners;FALSE;2025-03-27T09:00:00Z;2025-03-27T11:00:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -2051,7 +1995,7 @@ NVivo 15:<br />
 
 <p><strong>Please download and save the files we will be using during the course. Have a look at these introductory exercises before course start. The exercises cover the basics in importing files into NVivo and inductive/deductive coding and will help you check that your NVivo is running correctly.&nbsp;&nbsp;Find the exercises and files we will be using in the teaching&nbsp;<a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.&nbsp;</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33564;English;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;33564;English;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
 4308258;NVivo for Absolute Beginners;FALSE;2025-03-27T09:00:00Z;2025-03-27T11:00:00Z;"<p><br />
 Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
 
@@ -2081,7 +2025,7 @@ NVivo 15:<br />
 
 <p><strong>Please download and save the files we will be using during the course. Have a look at these introductory exercises before course start. The exercises cover the basics in importing files into NVivo and inductive/deductive coding and will help you check that your NVivo is running correctly.&nbsp;&nbsp;Find the exercises and files we will be using in the teaching&nbsp;<a href=""https://absalon.ku.dk/courses/71442/pages/intro-english"" target=""_blank"">HERE</a>.&nbsp;</strong></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;32027;Datalab;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;5;0;0;5;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4308258;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4308258;97;0;KUB Frederiksberg: Undervisningslokale I61;42;KUB Frederiksberg, Dyrlægevej 10, 1870 Frederiksberg C;NA;;32027;Datalab;38777;Lorna Wildgaard;Erik Schwägermann & Lorna Wildgaard;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;;0;0
 4217428;R and APIs - Statistics Denmark;FALSE;2025-03-28T09:00:00Z;2025-03-28T11:00:00Z;"<p>APIs provide access to a multitude of information.</p>
 
 <p>In this course we cover how to extract data though APIs using the Statistics Denmark and i can haz dad joke APIs as examples.</p>
