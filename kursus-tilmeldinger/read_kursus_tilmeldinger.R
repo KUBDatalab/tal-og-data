@@ -168,13 +168,19 @@ metadata <- metadata %>%
   left_join(date_time)
 
 # lad os også få køn på tilmeldingerne.
+# Husk at navnene i sex_dist.csv er med stort.
+# og at vi har alle fornavne med i tilmeldinger.
 
 koen <- read_csv2("data/sex_dist.csv")
 
+
 tilmeldinger <- tilmeldinger %>%
+  mutate(fornavn = word(fornavn, 1)) %>% 
   mutate(fornavn = toupper(fornavn)) %>% 
   left_join(koen, by=c("fornavn" = "Navn")) %>% 
-  select(-c(fornavn, male, female))
+  select(-c(fornavn, male, female)) %>% 
+  mutate(sex = if_else(sex<0.5, "f", "m"))
+
 
 write_csv2(tilmeldinger, "data/tilmeldingsdata/tilmeldinger.csv")
 write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
