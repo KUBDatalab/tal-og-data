@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(knitr)
 metadata <- read_csv2("data/tilmeldingsdata/metadata.csv")
 tilmeldinger <- read_csv2("data/tilmeldingsdata/tilmeldinger.csv")
 presenter <- read_csv2("data/tilmeldingsdata/presenter.csv")
@@ -43,6 +44,14 @@ tale om at 2024 tallene ikke er for hele året.
 Perioden der her undersøges: `r min(tilmeldinger$booking_made)` til `r max(tilmeldinger$booking_made)`
 
 
+### registration type
+```{r}
+tilmeldinger %>% 
+  count(registration_type)
+  
+```
+
+
 
 ## Antal tilmeldinger:
 
@@ -51,7 +60,32 @@ tilmeldinger %>%
   group_by(year) %>% 
   summarise(antal = n())
 ```
-Hvornår kommer de?
+## Kønsfordeling
+
+```{r}
+tilmeldinger %>% 
+  group_by(sex) %>% 
+  summarise(antal = n())
+```
+
+#### fakulteter
+
+```{r}
+tilmeldinger %>% 
+  group_by(faculty) %>% 
+  summarise(antal = n())
+```
+
+#### uddannelser
+```{r}
+tilmeldinger %>% 
+  mutate(udd = tolower(udd)) %>% 
+  count(udd)
+```
+Held og lykke med at finde hoved og hale i det...
+
+
+#### Hvornår kommer tilmeldingerne?
 
 ```{r}
 tilmeldinger %>% 
@@ -64,11 +98,11 @@ tilmeldinger %>%
   ggtitle("udviklingen i antal tilmeldinger")
 ```
 
-Online eller fysiske kurser:
+#### Online eller fysiske kurser:
 ```{r}
 tilmeldinger %>% count(registration_type)
 ```
-Hvilke fakulteter?
+### Hvilke fakulteter?
 ```{r}
 tilmeldinger %>% count(faculty) %>% 
   ggplot(aes(faculty, n)) +
@@ -76,28 +110,43 @@ tilmeldinger %>% count(faculty) %>%
   coord_flip()
 
 ```
-udd. niveua
+#### udd. niveua
 ```{r}
 tilmeldinger %>% count(niveau)
 
 ```
-erfaring med emnet:
+### erfaring med emnet:
 ```{r}
 tilmeldinger %>% count(erfaring)
 
 ```
 
-
-# den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
+#### os
 ```{r}
-tilmeldinger %>%
-  group_by(faculty) %>% 
-  summarise(male = mean(sex, na.rm = TRUE)*100) %>% 
-  mutate(female = 100 - male)
+tilmeldinger %>% 
+  count(os)
 ```
-Det er så kun et estimat baseret på fornavne. Hvis ikke DS har tal på kønsfordelingen
-for et givet fornavn, optræder man som NA. Der skal selvfølgelig her sammenlignes
-med kønsfordelingen på de enkelte fakulteter.
+
+
+#### kilde 
+
+```{r}
+tilmeldinger %>% 
+  count(kilde)
+```
+
+#### kontakttilladelse
+```{r}
+tilmeldinger %>% 
+  count(kontakt_tilladelse)
+```
+
+#### køn
+```{r}
+tilmeldinger %>% 
+  count(sex)
+```
+
 
 ## Nå. Vi må hellere gå lidt systematisk til værks.
 
@@ -105,7 +154,7 @@ med kønsfordelingen på de enkelte fakulteter.
 
 #### Styresystem:
 ```{r}
-tilmeldinger %>% count(os)
+tilmeldinger %>% count(os) %>% kable()
 ```
 
 #### Er der forskel på fakulteterne?
@@ -123,26 +172,74 @@ tilmeldinger %>% group_by(faculty) %>%
 
 ```{r}
 tilmeldinger %>% 
-  mutate(gender = sex<0.5) %>% 
-  mutate(gender = factor(gender, labels = c("male", "female"))) %>% 
-  group_by(gender) %>% 
+  group_by(sex) %>% 
   count(os) %>% 
-  pivot_wider(names_from = gender, values_from = n)
+  pivot_wider(names_from = sex, values_from = n)
 ```
 
 
-```{r}
+```{r eval = TRUE}
 tilmeldinger %>% 
-  mutate(gender = sex<0.5) %>% 
-  mutate(gender = factor(gender, labels = c("male", "female"))) %>% 
-  group_by(gender) %>% 
+  group_by(sex) %>% 
   count(os) %>% 
   ggplot(aes(os, n)) +
   geom_col() +
-  facet_wrap(~gender) +
+  facet_wrap(~sex) +
   coord_flip()
 ```
+#### Styresystem vs. niveau
+```{r}
+tilmeldinger %>%   
+  group_by(niveau) %>% 
+  count(os) %>% 
+  pivot_wider(names_from = os, values_from= n)
+```
 
-os vs. niveau og erfaring mangler
+#### Styresystem vs. erfaring
+
+```{r}
+tilmeldinger %>% 
+    group_by(erfaring) %>% 
+  count(os) %>% 
+  pivot_wider(names_from=os, values_from = n)
+
+```
+
+os vs. niveau og erfaring mangler - og gruppe
 join med kursus så vi får kategori af kurser på - og se om der er forskel på
 os vs kategori af kurser.
+
+
+
+
+
+
+
+
+# den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
+```{r eval = FALSE}
+tilmeldinger %>%
+  group_by(faculty, sex) %>% 
+  summarise(antal = n()) %>% 
+  ungroup() %>% 
+  filter(!is.na(sex)) %>% 
+  group_by(faculty) %>% 
+  mutate(andel = antal/sum(antal))
+```
+Det er så kun et estimat baseret på fornavne. Hvis ikke DS har tal på kønsfordelingen
+for et givet fornavn, optræder man som NA. Der skal selvfølgelig her sammenlignes
+med kønsfordelingen på de enkelte fakulteter.
+
+
+
+#### Hvad er det foretrukne overordnede emne fordelt på fakulteterne?
+
+```{r}
+tilmeldinger %>% 
+  left_join(metadata) %>% 
+  select(faculty,gruppe) %>% 
+  group_by(faculty, gruppe) %>% 
+  summarise(antal = n()) %>% 
+  pivot_wider(names_from = gruppe, values_from = antal)
+```
+
