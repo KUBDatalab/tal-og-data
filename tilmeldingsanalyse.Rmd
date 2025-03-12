@@ -154,7 +154,7 @@ tilmeldinger %>%
 
 #### Styresystem:
 ```{r}
-tilmeldinger %>% count(os) %>% kable()
+tilmeldinger %>% count(os)
 ```
 
 #### Er der forskel på fakulteterne?
@@ -217,14 +217,16 @@ os vs kategori af kurser.
 
 
 # den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
-```{r eval = FALSE}
+```{r}
 tilmeldinger %>%
   group_by(faculty, sex) %>% 
   summarise(antal = n()) %>% 
   ungroup() %>% 
   filter(!is.na(sex)) %>% 
   group_by(faculty) %>% 
-  mutate(andel = antal/sum(antal))
+  mutate(andel = antal/sum(antal)*100) %>% 
+  select(-antal) %>% 
+  pivot_wider(names_from = sex, values_from = andel)
 ```
 Det er så kun et estimat baseret på fornavne. Hvis ikke DS har tal på kønsfordelingen
 for et givet fornavn, optræder man som NA. Der skal selvfølgelig her sammenlignes
@@ -242,4 +244,33 @@ tilmeldinger %>%
   summarise(antal = n()) %>% 
   pivot_wider(names_from = gruppe, values_from = antal)
 ```
+det er antal - så hvis man vil have procenter skal man tage stilling til hvilken
+margen man vil summere på.
 
+# hvilke dage?
+
+```{r}
+tilmeldinger %>% left_join(metadata) %>% 
+  mutate(uge_dag = lubridate::wday(dato, label = TRUE)) %>% 
+  group_by(uge_dag, filename) %>% 
+  summarise(antal_tilmeldinger = n()) %>% 
+  summarise(antal_tilmeldinger = sum(antal_tilmeldinger),
+            antal_kurser = n(),
+            middel_tilmeldinger = antal_tilmeldinger/antal_kurser)
+```
+Som det ser ud i skrivende stund, er mandage og fredage dårlige tidspunkter
+mhp tilmeldinger.
+
+# hvilke tidspunkter?
+
+```{r}
+tilmeldinger %>% 
+  left_join(metadata) %>%
+  group_by(from, filename) %>% 
+  summarise(antal_tilmeldinger = n()) %>% 
+  summarise(antal_tilmeldinger = sum(antal_tilmeldinger),
+            antal_kurser = n(),
+            middel_tilmeldinger = antal_tilmeldinger/antal_kurser)
+```
+Vi skal nok passe på med at konkludere alt for meget - for de der 6 kurser der
+starter kl. 9.30 forstyrrer billedet lidt. Det gør 12.30 også. 
