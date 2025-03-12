@@ -184,6 +184,6 @@ tilmeldinger <- tilmeldinger %>%
 
 write_csv2(tilmeldinger, "data/tilmeldingsdata/tilmeldinger.csv")
 write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
-write_csv(metadata, "data/tilmeldingsdata/metadata.csv")
+write_csv2(metadata, "data/tilmeldingsdata/metadata.csv")
 
 
