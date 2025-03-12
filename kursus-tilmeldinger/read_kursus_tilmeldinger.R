@@ -147,7 +147,8 @@ date_time <- bind_rows(
 date_time <- date_time %>%
   select(-X1) %>% 
   mutate(across(From:To, str_trim)) %>% 
-  mutate(dato = dmy(dato))
+  mutate(dato = dmy(dato)) %>% 
+  rename(from = From)
 
 # Og så metadata uden date_time
 
