@@ -159,6 +159,8 @@ tilmeldinger %>% count(os)
 
 #### Er der forskel på fakulteterne?
 
+den skal være procentuel
+
 ```{r}
 tilmeldinger %>% group_by(faculty) %>% 
   count(os) %>% 
@@ -217,6 +219,9 @@ os vs kategori af kurser.
 
 
 # den procentuelle kønsfordeling fordelt på hvilke fakulteter de kommer fra.
+
+Husk at sammenligne med kønsfordelingen på fakulteterne.
+
 ```{r}
 tilmeldinger %>%
   group_by(faculty, sex) %>% 
@@ -246,6 +251,8 @@ tilmeldinger %>%
 ```
 det er antal - så hvis man vil have procenter skal man tage stilling til hvilken
 margen man vil summere på.
+
+Vi skal have summen med også 
 
 # hvilke dage?
 
