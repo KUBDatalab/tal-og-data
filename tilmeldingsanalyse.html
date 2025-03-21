@@ -11,7 +11,7 @@
 
 <meta name="author" content="Christian Knudsen" />
 
-<meta name="date" content="2025-03-13" />
+<meta name="date" content="2025-03-18" />
 
 <title>Vores tilmeldinger</title>
 
@@ -352,7 +352,7 @@ display: none;
 
 <h1 class="title toc-ignore">Vores tilmeldinger</h1>
 <h4 class="author">Christian Knudsen</h4>
-<h4 class="date">2025-03-13</h4>
+<h4 class="date">2025-03-18</h4>
 
 </div>
 
@@ -580,6 +580,7 @@ sammenlignelige. For ikke at tale om at 2024 tallene ikke er for hele
 </div>
 <div id="er-der-forskel-på-fakulteterne" class="section level4">
 <h4>Er der forskel på fakulteterne?</h4>
+<p>den skal være procentuel</p>
 <pre class="r"><code>tilmeldinger %&gt;% group_by(faculty) %&gt;% 
   count(os) %&gt;% 
   ggplot(aes(os, n)) +
@@ -647,6 +648,7 @@ kurser.</p>
 <div id="den-procentuelle-kønsfordeling-fordelt-på-hvilke-fakulteter-de-kommer-fra." class="section level1">
 <h1>den procentuelle kønsfordeling fordelt på hvilke fakulteter de
 kommer fra.</h1>
+<p>Husk at sammenligne med kønsfordelingen på fakulteterne.</p>
 <pre class="r"><code>tilmeldinger %&gt;%
   group_by(faculty, sex) %&gt;% 
   summarise(antal = n()) %&gt;% 
@@ -702,6 +704,7 @@ fakulteterne?</h4>
 ## 9 Other university than UCPH                        4    NA     5      7     NA</code></pre>
 <p>det er antal - så hvis man vil have procenter skal man tage stilling
 til hvilken margen man vil summere på.</p>
+<p>Vi skal have summen med også</p>
 </div>
 </div>
 <div id="hvilke-dage" class="section level1">
