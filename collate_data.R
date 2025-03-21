@@ -48,7 +48,7 @@ kalendere <- kalendere %>%
   unnest_wider(owner, names_repair = "universal") %>%
   rename(kalender_navn = name...2,
          ejer_id = id,
-         ejer_navn = name...6)
+         ejer_navn = name...7)
 
 kalender_id <- kalendere %>%
   select(calid, kalender_navn, public) %>%
