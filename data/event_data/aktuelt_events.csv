@@ -1,154 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;campus_1;audience;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time
-4330650;Harvest data from the web with Python;FALSE;2025-02-21T08:30:00Z;2025-02-21T10:30:00Z;"<p>Web scraping, or web harvesting or data extraction is what this course is about. A basic understanding of Python programming is recommended.</p>
-
-<p>The course provides insight into how you can use Python to collect data from the web. We start by discussing HTML and examining HTML elements and attributes. Then, we try working with HTML in Python, and you are introduced to two libraries: Requests and BeautifulSoup. We attempt to locate data within the HTML structure using the methods .find and .find_all, and we read/extract data from the structure. We conclude with a mini-project that involves harvesting text data from a Wikipedia page. &nbsp;</p>
-
-<p>Regardless of your academic background, the course will be relevant if you are interested in collecting material for your assignments or if you are simply interested in more advanced use of Python.</p>
-
-<p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Harvest%20text%20from%20the%20web.html"" target=""_blank"">Harvest data from the web</a> &nbsp;</p>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330650;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330650;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;7;0;0;7;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330650;Harvest data from the web with Python;FALSE;2025-02-21T08:30:00Z;2025-02-21T10:30:00Z;"<p>Web scraping, or web harvesting or data extraction is what this course is about. A basic understanding of Python programming is recommended.</p>
-
-<p>The course provides insight into how you can use Python to collect data from the web. We start by discussing HTML and examining HTML elements and attributes. Then, we try working with HTML in Python, and you are introduced to two libraries: Requests and BeautifulSoup. We attempt to locate data within the HTML structure using the methods .find and .find_all, and we read/extract data from the structure. We conclude with a mini-project that involves harvesting text data from a Wikipedia page. &nbsp;</p>
-
-<p>Regardless of your academic background, the course will be relevant if you are interested in collecting material for your assignments or if you are simply interested in more advanced use of Python.</p>
-
-<p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Harvest%20text%20from%20the%20web.html"" target=""_blank"">Harvest data from the web</a> &nbsp;</p>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330650;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330650;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;7;0;0;7;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330650;Harvest data from the web with Python;FALSE;2025-02-21T08:30:00Z;2025-02-21T10:30:00Z;"<p>Web scraping, or web harvesting or data extraction is what this course is about. A basic understanding of Python programming is recommended.</p>
-
-<p>The course provides insight into how you can use Python to collect data from the web. We start by discussing HTML and examining HTML elements and attributes. Then, we try working with HTML in Python, and you are introduced to two libraries: Requests and BeautifulSoup. We attempt to locate data within the HTML structure using the methods .find and .find_all, and we read/extract data from the structure. We conclude with a mini-project that involves harvesting text data from a Wikipedia page. &nbsp;</p>
-
-<p>Regardless of your academic background, the course will be relevant if you are interested in collecting material for your assignments or if you are simply interested in more advanced use of Python.</p>
-
-<p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Harvest%20text%20from%20the%20web.html"" target=""_blank"">Harvest data from the web</a> &nbsp;</p>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330650;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330650;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;7;0;0;7;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330650;Harvest data from the web with Python;FALSE;2025-02-21T08:30:00Z;2025-02-21T10:30:00Z;"<p>Web scraping, or web harvesting or data extraction is what this course is about. A basic understanding of Python programming is recommended.</p>
-
-<p>The course provides insight into how you can use Python to collect data from the web. We start by discussing HTML and examining HTML elements and attributes. Then, we try working with HTML in Python, and you are introduced to two libraries: Requests and BeautifulSoup. We attempt to locate data within the HTML structure using the methods .find and .find_all, and we read/extract data from the structure. We conclude with a mini-project that involves harvesting text data from a Wikipedia page. &nbsp;</p>
-
-<p>Regardless of your academic background, the course will be relevant if you are interested in collecting material for your assignments or if you are simply interested in more advanced use of Python.</p>
-
-<p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Harvest%20text%20from%20the%20web.html"" target=""_blank"">Harvest data from the web</a> &nbsp;</p>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330650;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330650;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;7;0;0;7;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33561;Cleaning;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
-4330767;Text Mining with Python;FALSE;2025-02-21T11:30:00Z;2025-02-21T14:00:00Z;"<p>In this course, you can gain knowledge of concepts such as cleaning, lemmatization, part-of-speech (POS) tagging, term frequency, TF-IDF, and collocations. A basic understanding of Python programming is recommended.</p>
-
-<p>We begin by downloading and extracting text from a digitized historical book from the Royal Danish Library. After that, we look at cleaning techniques and stopwords. &nbsp;</p>
-
-<p>We then explore the NLTK library and use it for lemmatization and POS tagging. Next, we build a term-frequency-tool that visualizes the most common words in the text.</p>
-
-<p>Then we will look on a method to find words that are not the most common in a text. For that, we use the TF-IDF algorithm and we get a high level understanding of how it works. We conclude by building a collocations tool that can find words that often appear in the same context.</p>
-
-<p>If you have to hand in an assignment that must include text mining, then participation is an ideal way to find inspiration.&nbsp; &nbsp;</p>
-
-<p>The course is based on material available here:</p>
-
-<ul>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Lemmatization%20pos%20tagging%20and%20digitized%20books.html"" target=""_blank"">Lemmatization and POS tagging</a> &nbsp;</li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Tf-idf%20example.html"" target=""_blank"">TF-IDF</a></li>
-	<li>&nbsp; <a href=""https://kubdatalab.github.io/python-toolbox/Collocation%20and%20digitized%20books.html"" target=""_blank"">Collocation</a>&nbsp;&nbsp;</li>
-</ul>
-
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>.</p>";https://kubkalender.kb.dk/event/4330767;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330767;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;22;5;0;0;5;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4330795;Automatiseret transskription med programmet Whisper;FALSE;2025-02-24T10:00:00Z;2025-02-24T11:30:00Z;"<p paraeid=""{ba21b28a-c8ca-4ddd-bb2f-2532c52f8c7c}{175}"" paraid=""1778330455"">Workshoppen er en gennemgang af, hvordan du kommer i gang med at anvende Whisper til at transskribere dine lydfiler, f.eks. interviews. Efterf&oslash;lgende kan du selv pr&oslash;ve kr&aelig;fter med programmet, og vi er der til at hj&aelig;lpe dig i gang.&nbsp;</p>
 
 <p paraeid=""{ba21b28a-c8ca-4ddd-bb2f-2532c52f8c7c}{181}"" paraid=""2145452291"">Installationen af Whisper ligger p&aring; et <a href=""https://cloud.sdu.dk/app/login"" rel=""noreferrer noopener"" target=""_blank"">Ucloud</a>, hvor der er adgang via WAYF, og hvor dine data er i sikkerhed.&nbsp;</p>
@@ -1533,69 +1383,6 @@ NVivo 15:<br />
 </ul>
 
 <p>These topics are covered in our introductory courses in R.</p>";https://kubkalender.kb.dk/event/4217428;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4217428;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;20;6;0;0;6;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1648734446.jpg;;0;0
-4356554;Lær at analysere tekster med R / Learn how to analyse text with R;FALSE;2025-03-31T07:30:00Z;2025-03-31T09:30:00Z;"<p><em>In English below.</em></p>
-
-<p>&nbsp;</p>
-
-<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem. S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining. P&aring; kurset tager vi udgangspunkt i nyhedsartikler, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
-
-<p>For at deltage i kurset foruds&aelig;ttes det, at du har en vis erfaring med programmering i R, og at du er bekendt med tidyverse. Dette svarer til, hvad man l&aelig;rer p&aring; <a href=""https://kubdatalab.github.io/R-intro/index.html"" target=""_blank"">vores grundl&aelig;ggende R-kursus.</a></p>
-
-<p>Du bedes have installeret R og RStudio f&oslash;r kurset, s&aring;dan at vi kan n&aring; s&aring; langt som muligt p&aring; kurset. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">installere R og RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere af deltagerne &oslash;nsker det, afholdes det p&aring; engelsk.Undervisere: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>
-
-<p>&nbsp;</p>
-
-<p>Would you like to analyse text collections so large that you cannot read them all yourself? Then this course might be for you. The course provides an introduction to the concept of text mining. We will primarily work with news articles, but the skills you acquire can be applied to many other types of text.</p>
-
-<p>To participate in the course, you are expected to have some experience with programming in R and be familiar with the tidyverse. This corresponds to what is taught in <a href=""https://kubdatalab.github.io/R-intro/00-intro.html"" target=""_blank"">our basic R courses</a>.</p>
-
-<p>Please ensure that you have installed R and RStudio before the course so that we can make the most of our time. You can find <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">help with installing R and RStudio here</a>.</p>
-
-<p>The course will primarily be conducted in Danish, but if one or more participants prefer, it will be held in English.Instructors: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>";https://kubkalender.kb.dk/event/4356554;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4356554;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33564;English;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;0;0;0;0;FALSE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1742371506.jpg;;0;0
-4356554;Lær at analysere tekster med R / Learn how to analyse text with R;FALSE;2025-03-31T07:30:00Z;2025-03-31T09:30:00Z;"<p><em>In English below.</em></p>
-
-<p>&nbsp;</p>
-
-<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem. S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining. P&aring; kurset tager vi udgangspunkt i nyhedsartikler, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
-
-<p>For at deltage i kurset foruds&aelig;ttes det, at du har en vis erfaring med programmering i R, og at du er bekendt med tidyverse. Dette svarer til, hvad man l&aelig;rer p&aring; <a href=""https://kubdatalab.github.io/R-intro/index.html"" target=""_blank"">vores grundl&aelig;ggende R-kursus.</a></p>
-
-<p>Du bedes have installeret R og RStudio f&oslash;r kurset, s&aring;dan at vi kan n&aring; s&aring; langt som muligt p&aring; kurset. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">installere R og RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere af deltagerne &oslash;nsker det, afholdes det p&aring; engelsk.Undervisere: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>
-
-<p>&nbsp;</p>
-
-<p>Would you like to analyse text collections so large that you cannot read them all yourself? Then this course might be for you. The course provides an introduction to the concept of text mining. We will primarily work with news articles, but the skills you acquire can be applied to many other types of text.</p>
-
-<p>To participate in the course, you are expected to have some experience with programming in R and be familiar with the tidyverse. This corresponds to what is taught in <a href=""https://kubdatalab.github.io/R-intro/00-intro.html"" target=""_blank"">our basic R courses</a>.</p>
-
-<p>Please ensure that you have installed R and RStudio before the course so that we can make the most of our time. You can find <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">help with installing R and RStudio here</a>.</p>
-
-<p>The course will primarily be conducted in Danish, but if one or more participants prefer, it will be held in English.Instructors: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>";https://kubkalender.kb.dk/event/4356554;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4356554;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;36627;R;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;0;0;0;0;FALSE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1742371506.jpg;;0;0
-4356554;Lær at analysere tekster med R / Learn how to analyse text with R;FALSE;2025-03-31T07:30:00Z;2025-03-31T09:30:00Z;"<p><em>In English below.</em></p>
-
-<p>&nbsp;</p>
-
-<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem. S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining. P&aring; kurset tager vi udgangspunkt i nyhedsartikler, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
-
-<p>For at deltage i kurset foruds&aelig;ttes det, at du har en vis erfaring med programmering i R, og at du er bekendt med tidyverse. Dette svarer til, hvad man l&aelig;rer p&aring; <a href=""https://kubdatalab.github.io/R-intro/index.html"" target=""_blank"">vores grundl&aelig;ggende R-kursus.</a></p>
-
-<p>Du bedes have installeret R og RStudio f&oslash;r kurset, s&aring;dan at vi kan n&aring; s&aring; langt som muligt p&aring; kurset. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">installere R og RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere af deltagerne &oslash;nsker det, afholdes det p&aring; engelsk.Undervisere: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>
-
-<p>&nbsp;</p>
-
-<p>Would you like to analyse text collections so large that you cannot read them all yourself? Then this course might be for you. The course provides an introduction to the concept of text mining. We will primarily work with news articles, but the skills you acquire can be applied to many other types of text.</p>
-
-<p>To participate in the course, you are expected to have some experience with programming in R and be familiar with the tidyverse. This corresponds to what is taught in <a href=""https://kubdatalab.github.io/R-intro/00-intro.html"" target=""_blank"">our basic R courses</a>.</p>
-
-<p>Please ensure that you have installed R and RStudio before the course so that we can make the most of our time. You can find <a href=""https://kubdatalab.github.io/R-textmining_new/"" target=""_blank"">help with installing R and RStudio here</a>.</p>
-
-<p>The course will primarily be conducted in Danish, but if one or more participants prefer, it will be held in English.Instructors: Ene Rammer Nielsen (enrn@kb.dk) og S&oslash;ren Davidsen</p>";https://kubkalender.kb.dk/event/4356554;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4356554;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;44253;Søren Davidsen;Søren Davidsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;0;0;0;0;FALSE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/data/feat_img/1069/6416/1742371506.jpg;;0;0
 4364172;Python for Absolute Beginners pt. 1;FALSE;2025-04-01T10:00:00Z;2025-04-01T13:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1620,7 +1407,7 @@ NVivo 15:<br />
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364172;Python for Absolute Beginners pt. 1;FALSE;2025-04-01T10:00:00Z;2025-04-01T13:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1645,7 +1432,7 @@ NVivo 15:<br />
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364172;Python for Absolute Beginners pt. 1;FALSE;2025-04-01T10:00:00Z;2025-04-01T13:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1670,7 +1457,7 @@ NVivo 15:<br />
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364172;Python for Absolute Beginners pt. 1;FALSE;2025-04-01T10:00:00Z;2025-04-01T13:00:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1695,7 +1482,7 @@ NVivo 15:<br />
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364172;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364172;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;7;0;0;7;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4216751;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-02T10:30:00Z;2025-04-02T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2242,7 +2029,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33562;Analysis;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299888;R for Absolute Beginners;FALSE;2025-04-11T10:30:00Z;2025-04-11T12:30:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -2262,7 +2049,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33561;Cleaning;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299888;R for Absolute Beginners;FALSE;2025-04-11T10:30:00Z;2025-04-11T12:30:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -2282,7 +2069,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;33564;English;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299888;R for Absolute Beginners;FALSE;2025-04-11T10:30:00Z;2025-04-11T12:30:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -2302,7 +2089,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;36627;R;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;36627;R;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299888;R for Absolute Beginners;FALSE;2025-04-11T10:30:00Z;2025-04-11T12:30:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -2322,7 +2109,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;22;0;0;22;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299888;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299888;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;NA;;32027;Datalab;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;23;0;0;23;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4216753;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-16T10:30:00Z;2025-04-16T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -2372,7 +2159,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364173;Python for Absolute Beginners pt. 2;FALSE;2025-04-22T10:00:00Z;2025-04-22T13:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2397,7 +2184,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364173;Python for Absolute Beginners pt. 2;FALSE;2025-04-22T10:00:00Z;2025-04-22T13:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2422,7 +2209,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4364173;Python for Absolute Beginners pt. 2;FALSE;2025-04-22T10:00:00Z;2025-04-22T13:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -2447,7 +2234,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 <p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
 
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4364173;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4364173;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;NA;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;25;3;0;0;3;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4330782;"Orange; Data Mining for Beginners";FALSE;2025-04-23T07:30:00Z;2025-04-23T09:30:00Z;"<p>We know that programming can be a barrier for many who are fascinated by text and data mining. Therefore, we are hosting a course on the program Orange.</p>
 
 <p><iframe allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen="""" frameborder=""0"" height=""315"" referrerpolicy=""strict-origin-when-cross-origin"" src=""https://www.youtube.com/embed/HXjnDIgGDuI?si=E7y9oqV1QBYOlNgQ"" title=""YouTube video player"" width=""560""></iframe></p>
