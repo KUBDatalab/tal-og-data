@@ -1,104 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;audience;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time
-4330875;Python for Absolute Beginners pt. 1;FALSE;2025-04-03T07:30:00Z;2025-04-03T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4330875;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330875;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;;33562;Analysis;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;25;0;0;25;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
-4330875;Python for Absolute Beginners pt. 1;FALSE;2025-04-03T07:30:00Z;2025-04-03T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4330875;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330875;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;;33564;English;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;25;0;0;25;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
-4330875;Python for Absolute Beginners pt. 1;FALSE;2025-04-03T07:30:00Z;2025-04-03T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4330875;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330875;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;;36626;Python;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;25;0;0;25;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
-4330875;Python for Absolute Beginners pt. 1;FALSE;2025-04-03T07:30:00Z;2025-04-03T10:30:00Z;"<p><br />
-<strong>Note:&nbsp;This is part 1 of 2. You can find part 2 in our course calendar:</strong><br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
-
-<p>Intimidated by mathematics, numbers, and obscure Python scripts? Don&rsquo;t be!&nbsp;We will be covering all the very basic concepts and building blocks in order to get complete beginners, who have no experience writing code, working in Python.</p>
-
-<p>This will include explaining the concepts of variables and data types, as well generating some basic scripts to interact with these data, such as lists, loops, and conditionals.&nbsp;By the end of this course, you will have an understanding of the basic building blocks in Python. You will also come away with an appreciation for how a computer program &ldquo;thinks&rdquo;. All we require from you is a will to learn.&nbsp;We look forward to seeing you!</p>
-
-<p>The course is divided&nbsp;in two parts. The first covers different datatypes in Python and how data is stored. In other words, it is an introduction to the building blocks of coding in Python.</p>
-
-<p>The second part expands on this by putting these blocks together to create simple scripts. If you already have some understanding of Python, feel free to skip the first section. Otherwise, we recommend that you start with pt. 1 and then move on to pt. 2.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>&nbsp;</p>
-
-<p>As written, this course is an introduction to the basics of Python. If you have never programmed before, this is a good place to start before you move on to some of our more advanced courses:<br />
-<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4330875;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330875;15906;0;KUB Datalab - Samf;40;KUB City Campus, Gothersgade 140, 1123 København K;;32027;Datalab;28221;Daniel Pryn;Benjamin Derksen, Nynne Overlund & Daniel Pryn;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;25;0;0;25;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/Python_logo.jpg;;0;0
 4309171;Automatiseret transskription med programmet Whisper;FALSE;2025-04-07T08:00:00Z;2025-04-07T09:30:00Z;"<p paraeid=""{ba21b28a-c8ca-4ddd-bb2f-2532c52f8c7c}{175}"" paraid=""1778330455"">Workshoppen er en gennemgang af, hvordan du kommer i gang med at anvende Whisper til at transskribere dine lydfiler, f.eks. interviews. Efterf&oslash;lgende kan du selv pr&oslash;ve kr&aelig;fter med programmet, og vi er der til at hj&aelig;lpe dig i gang.&nbsp;</p>
 
 <p paraeid=""{ba21b28a-c8ca-4ddd-bb2f-2532c52f8c7c}{181}"" paraid=""2145452291"">Installationen af Whisper ligger p&aring; et <a href=""https://cloud.sdu.dk/app/login"" rel=""noreferrer noopener"" target=""_blank"">Ucloud</a>, hvor der er adgang via WAYF, og hvor dine data er i sikkerhed.&nbsp;</p>
@@ -1210,7 +1110,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Regex%20and%20digitized%20books.html"" target=""_blank"">Regex and&nbsp;digitized books</a></p>
 
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
+<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4330676;Python basic -  Text Processing with Regular Expressions;FALSE;2025-05-07T08:00:00Z;2025-05-07T10:00:00Z;"<p><strong>This course is aimed at students who are new to Regular Expressions but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.</strong><br />
 We expect you to be familiar with all the concepts described under &quot;Python for Absolute Beginners&quot; here:<br />
 <a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
@@ -1225,7 +1125,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Regex%20and%20digitized%20books.html"" target=""_blank"">Regex and&nbsp;digitized books</a></p>
 
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33561;Cleaning;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
+<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33561;Cleaning;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4330676;Python basic -  Text Processing with Regular Expressions;FALSE;2025-05-07T08:00:00Z;2025-05-07T10:00:00Z;"<p><strong>This course is aimed at students who are new to Regular Expressions but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.</strong><br />
 We expect you to be familiar with all the concepts described under &quot;Python for Absolute Beginners&quot; here:<br />
 <a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
@@ -1240,7 +1140,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Regex%20and%20digitized%20books.html"" target=""_blank"">Regex and&nbsp;digitized books</a></p>
 
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
+<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4330676;Python basic -  Text Processing with Regular Expressions;FALSE;2025-05-07T08:00:00Z;2025-05-07T10:00:00Z;"<p><strong>This course is aimed at students who are new to Regular Expressions but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.</strong><br />
 We expect you to be familiar with all the concepts described under &quot;Python for Absolute Beginners&quot; here:<br />
 <a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
@@ -1255,7 +1155,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Regex%20and%20digitized%20books.html"" target=""_blank"">Regex and&nbsp;digitized books</a></p>
 
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;36626;Python;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
+<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;36626;Python;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4330676;Python basic -  Text Processing with Regular Expressions;FALSE;2025-05-07T08:00:00Z;2025-05-07T10:00:00Z;"<p><strong>This course is aimed at students who are new to Regular Expressions but already have an introductory understanding of Python, such as can be gained from our &ldquo;Python for Absolute Beginners&rdquo; courses - pt. 1 and 2.</strong><br />
 We expect you to be familiar with all the concepts described under &quot;Python for Absolute Beginners&quot; here:<br />
 <a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
@@ -1270,7 +1170,7 @@ We expect you to be familiar with all the concepts described under &quot;Python 
 
 <p>The course is based on material available here: <a href=""https://kubdatalab.github.io/python-toolbox/Regex%20and%20digitized%20books.html"" target=""_blank"">Regex and&nbsp;digitized books</a></p>
 
-<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;3;0;0;3;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
+<p>Before the course, please have Python installed on your computer, as well as either Jupyter Notebook or Jupyter Lab. The easiest way is to download and install the <a href=""https://www.anaconda.com/download/success"" target=""_blank"">Anaconda package</a>, as it provides everything at once. However, if you prefer not to do this, <a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">here is a guide on how to install Python first and then Jupyter</a>. &nbsp;</p>";https://kubkalender.kb.dk/event/4330676;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330676;98;0;Library Lighthouse, zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;22;4;0;0;4;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;;0;0
 4216756;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-05-07T10:30:00Z;2025-05-07T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
