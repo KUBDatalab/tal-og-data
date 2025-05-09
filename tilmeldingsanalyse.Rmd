@@ -312,3 +312,30 @@ tilmeldinger %>%
   ungroup() %>% 
   kable()
 ```
+
+
+Hvor lang tid i forvejen tilmelder de sig kurserne?
+
+Gennemsnit for alle kurser:
+
+```{r}
+tilmeldinger %>% 
+  left_join(metadata) %>%
+  mutate(kursus_tid = as.POSIXct(paste(dato, from))) %>% 
+  mutate(tid_before= as.numeric(kursus_tid - booking_made, units = "days")) %>% 
+  summarise(gennemsnit = mean(tid_before))
+```
+Og det var i dage.
+
+Fordelingen af "hvor lang tid i forvejen":
+```{r}
+tilmeldinger %>% 
+  left_join(metadata) %>%
+  mutate(kursus_tid = as.POSIXct(paste(dato, from))) %>% 
+  mutate(tid_before= as.numeric(kursus_tid - booking_made, units = "days")) %>%
+  ggplot(aes(tid_before)) +
+  geom_density() +
+  ggtitle("sandsynlighedsfordelingen for hvor lang tid i forvejen tilmeldingerne falder")
+```
+Nu kunne det jo være interessant at se om det er dem der tilmeldte sig i meget god
+tid der falder fra.
