@@ -1,3 +1,4 @@
+# biblioteker -------------------------------------------------------------
 library(purrr)
 library(lubridate)
 library(tibble)  
@@ -16,6 +17,9 @@ library(zoo)
 wanted <- "KUB Datalab"
 first_year <- 2018 # Det første år vi interesserer os for
 aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
+
+
+
 
 # Indlæser script med nyttige funktioner
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner

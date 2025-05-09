@@ -10,32 +10,53 @@
 # metadata, med kursusnavn, gruppe, antal pladser, dato etc.
 
 
+# biblioteker -------------------------------------------------------------
+
+
 library(tidyverse)
 library(readxl)
 library(digest)
 
-# genererer fillister
+# genererer fillister -------------------------------------------------
+# bør gøres generisk
 
-tilm_2024 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2024/", full.names = TRUE)
-tilm_2025 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2025/", full.names = TRUE)
+files <- dir("data-raw/kursus_tilmeldinger/", full.names = TRUE, recursive = TRUE)
 
-# samler dem i tibbler
-tilm_2024 <- tibble(year = 2024, filename = tilm_2024)
-tilm_2025 <- tibble(year = 2025, filename = tilm_2025)
 
-# samler i en tibble og rydder op
-tilmeldinger <- bind_rows(tilm_2024, tilm_2025)
-rm(tilm_2024, tilm_2025)
+  tibble(filename = files) %>% 
+  mutate(year = str_extract(filename, "(?<=Tilmeldinger )(\\d{4})")) %>% 
+  mutate(kursus_id = str_extract(filename, "(?<=_)(\\d*)(?=_)")) %>% 
+  mutate(file_id = str_extract(filename, "(?<=_)(\\d*)(?=\\.csv)")) %>% 
+  
 
+filer_2024 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2024/", full.names = TRUE)
+filer_2025 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2025/", full.names = TRUE)
+
+# samler dem i tibbler -----------------------
+filer_2024 <- tibble(year = 2024, filename = filer_2024)
+filer_2025 <- tibble(year = 2025, filename = filer_2025)
+
+# samler i en tibble og rydder op -----------------------
+filer <- bind_rows(filer_2024, filer_2025)
+rm(filer_2024, filer_2025)
+
+
+
+
+
+# minikonferencen.... ------------------------------------------------
 # minikonference er et snefnug...
 # og skal derfor håndteres separat
 
-skrammel <- tilmeldinger %>% 
-  filter(!str_detect(filename, "lc_attendees"))
+skrammel <- filer %>% 
+  filter(str_detect(filename, "minikonference"))
+
+
 
 # så har vi dem der følger formen
-tilmeldinger <- tilmeldinger %>% 
-  filter(str_detect(filename, "lc_attendees"))
+tilmeldings_data <- filer %>% 
+  filter(str_detect(filename, "lc_attendees|wait_list"))
+
 
 
 # funktion til at indlæse og splitte filerne i to efter den tomme linie
@@ -55,15 +76,16 @@ read_files <- function(path){
 }
 
 # Så mapper vi, og unnester.
-tilmeldinger <- tilmeldinger %>% 
+tilmeldings_data <- tilmeldings_data %>% 
   mutate(noget = map(filename, read_files)) %>% 
   unnest_wider(noget)
 
+
 # og deler op efter om det er metadata eller tilmeldinger.
-metadata <- tilmeldinger %>% 
+metadata <- tilmeldings_data %>% 
   select(-data)
 
-tilmeldinger <- tilmeldinger %>% 
+tilmeldings_data <- tilmeldings_data %>% 
   select(-meta)
 
 # Vi har nu en tibble med tilmeldingerne. Den behandler vi videre
@@ -71,14 +93,17 @@ tilmeldinger <- tilmeldinger %>%
 # fornavne er ladt tilbage - for jeg har ikke skrevet hvad der skal til for 
 # at gætte på kønnet.
 
-tilmeldinger <- tilmeldinger %>%
+tilmeldings_data <- tilmeldings_data %>%
   mutate(data = map(data, ~ read_csv(paste(.x, collapse= "\n"), show_col_types = FALSE))) %>% 
   unnest_longer(data) %>% 
   unnest_wider(data) %>% 
-  janitor::clean_names()
+  janitor::clean_names() %>% 
+  mutate(kursus_id = str_extract(filename, "(?<=_)(\\d*)(?=_)"))
 
 
-tilmeldinger <- tilmeldinger %>% 
+
+
+tilmeldings_data <- tilmeldings_data %>% 
   select(-last_name) %>%
   rowwise() %>% 
   mutate(pid = digest(email, algo = "md5")) %>% 
@@ -108,7 +133,8 @@ metadata <- metadata %>%
 
 metadata <- metadata %>% 
   unnest_wider(meta) %>% 
-  unnest_longer(c(X1, X2))
+  unnest_longer(c(X1, X2)) %>% 
+  mutate(kursus_id = str_extract(filename, "(?<=_)(\\d*)(?=_)"))
 
 
 
@@ -119,7 +145,7 @@ presenter <- metadata %>%
   separate_longer_delim(X2, delim = ",") %>% 
   separate_longer_delim(X2, delim = "&") %>% 
   mutate(X2 = str_trim(X2)) %>% 
-  select(filename, presenter = X2) 
+  select(filename, presenter = X2, kursus_id) 
 
 # Og så fjerner vi Presenter fra metadata
 
@@ -165,8 +191,19 @@ metadata <- metadata %>%
                           .default  = NA)) %>% 
   mutate(online = str_detect(Location, "Online"))
 
-metadata <- metadata %>% 
-  left_join(date_time)
+
+date_time %>% view()
+
+
+metadata %>% 
+  left_join(date_time, by = join_by(kursus_id)) 
+
+
+metadata %>% 
+  
+  filter(dato == "2025-02-25")
+  
+
 
 # lad os også få køn på tilmeldingerne.
 # Husk at navnene i sex_dist.csv er med stort.
@@ -183,8 +220,8 @@ tilmeldinger <- tilmeldinger %>%
   mutate(sex = if_else(sex<0.5, "f", "m"))
 
 
-write_csv2(tilmeldinger, "data/tilmeldingsdata/tilmeldinger.csv")
-write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
-write_csv2(metadata, "data/tilmeldingsdata/metadata.csv")
+# write_csv2(tilmeldinger, "data/tilmeldingsdata/tilmeldinger.csv")
+# write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
+# write_csv2(metadata, "data/tilmeldingsdata/metadata.csv")
 
 
