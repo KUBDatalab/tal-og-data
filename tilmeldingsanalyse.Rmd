@@ -12,7 +12,18 @@ library(knitr)
 metadata <- read_csv2("data/tilmeldingsdata/metadata.csv")
 tilmeldinger <- read_csv2("data/tilmeldingsdata/tilmeldinger.csv")
 presenter <- read_csv2("data/tilmeldingsdata/presenter.csv")
+
 ```
+
+Vi har lidt udfordringer. Der er huller i dataindsamlingen.
+Eksempelvis har vi en venteliste på et kursus som vi ikke
+har tilmeldingsdata til....
+
+Det kan jeg ikke løse i koden.
+
+Der er også lidt andre sjuskefejl, hvor samme kursus optræder med
+mere end en tilmeldingsliste. Det _kan_ jeg løse i koden. Og tager
+den nyeste af dem.
 
 ## Teknik
 
@@ -281,3 +292,23 @@ tilmeldinger %>%
 ```
 Vi skal nok passe på med at konkludere alt for meget - for de der 6 kurser der
 starter kl. 9.30 forstyrrer billedet lidt. Det gør 12.30 også. 
+
+## Fordeling af fag på R-kurserne.
+
+
+```{r}
+tilmeldinger %>% 
+  left_join(metadata, by = join_by(filename)) %>% 
+  filter(gruppe == "r") %>% 
+  select(Event, faculty, udd) %>% 
+  group_by(Event) %>% 
+  count(faculty) %>% 
+  pivot_wider(names_from = faculty, values_from = n, values_fill = 0) %>% 
+  mutate(total = sum(c_across(where(is.integer))), 
+         across(where(is.integer), ~.x/total)
+         ) %>% 
+  mutate(across(where(is.numeric), scales::percent)) %>% 
+  select(-total) %>% 
+  ungroup() %>% 
+  kable()
+```
