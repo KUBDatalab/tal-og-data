@@ -1,128 +1,4 @@
 id;title;allday;start;end;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;audience;category_id;category_name;owner_id;owner_name;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;has_registration_closed;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;more_info;setup_time;teardown_time
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;33562;Analysis;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;33561;Cleaning;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;33564;English;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;33560;Harvesting;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;33563;Visualisation;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4330643;Digital Humanities - Text as Data;FALSE;2025-04-09T07:30:00Z;2025-04-09T10:00:00Z;"<p>The course offers an opportunity to gain an understanding of concepts such as&nbsp; language technology, &quot;text mining&quot; and &quot;distant reading&quot;. In this course, we will start with user-friendly programs and websites. We will look at advanced use of Google Ngram Viewer to understand distant reading and big data. We will use Orange to collect texts from The Guardian and Wikipedia, and we will discuss some common algorithms for text mining on large datasets. With a basis in Voyant and Spyral, we will delve into algorithms and graphs to go in depth with smaller text collections.</p>
-
-<p>Gain knowledge in:</p>
-
-<ul>
-	<li>&nbsp; Distant reading with Google Ngram</li>
-	<li>&nbsp; Data collection and analysis with Orange &nbsp;</li>
-	<li>&nbsp; Graphs -&nbsp; lots of graphs in Voyant Tools and Spyral</li>
-</ul>
-
-<p>The course lasts 2.5 hours with two short breaks and alternates between brief lectures followed by small exercises. The course takes place at KUB Southern Campus in the data lab on the second floor.</p>
-
-<p>The course will be in English if there are participants who do not speak Danish.</p>";https://kubkalender.kb.dk/event/4330643;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4330643;14429;0;KUB Datalab - Sdr Campus;39;KUB Søndre Campus, Karen Blixens Plads 7, 2300 Kbh. S;;32027;Datalab;9876;Lars Kjær;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;12;10;0;0;10;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/orange_logo1.png;;0;0
-4217429;Introduction to visualizing with ggplot2 in R;FALSE;2025-04-09T08:00:00Z;2025-04-09T10:00:00Z;"<p>Learn more about how you can visualize your data using R and RStudio. We cover the basics of ggplot2, including different types of plots, scales and facetting.</p>
-
-<p>We expect that you have some experience using R, and tidyverse. The level of experience requiered is equivalent to the content of our introductory course in R, &quot;<a href=""https://kubdatalab.github.io/beginning-R/"">R for absolute beginners</a>&quot;.</p>
-
-<p>The course material is published <a href=""https://kubdatalab.github.io/R-visualisation/"">here</a>, and we expect you to have R, RStudio and the tidyverse libraries installed. Instructions for this can be found <a href=""https://kubdatalab.github.io/R-visualisation/setup.html"">here</a>.</p>
-
-<p>By default our courses are held in Danish, but if one or more learners request it, we will do it in English.</p>";https://kubkalender.kb.dk/event/4217429;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4217429;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33564;English;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;8;0;0;8;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;;0;0
-4217429;Introduction to visualizing with ggplot2 in R;FALSE;2025-04-09T08:00:00Z;2025-04-09T10:00:00Z;"<p>Learn more about how you can visualize your data using R and RStudio. We cover the basics of ggplot2, including different types of plots, scales and facetting.</p>
-
-<p>We expect that you have some experience using R, and tidyverse. The level of experience requiered is equivalent to the content of our introductory course in R, &quot;<a href=""https://kubdatalab.github.io/beginning-R/"">R for absolute beginners</a>&quot;.</p>
-
-<p>The course material is published <a href=""https://kubdatalab.github.io/R-visualisation/"">here</a>, and we expect you to have R, RStudio and the tidyverse libraries installed. Instructions for this can be found <a href=""https://kubdatalab.github.io/R-visualisation/setup.html"">here</a>.</p>
-
-<p>By default our courses are held in Danish, but if one or more learners request it, we will do it in English.</p>";https://kubkalender.kb.dk/event/4217429;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4217429;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33563;Visualisation;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;8;0;0;8;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;;0;0
-4217429;Introduction to visualizing with ggplot2 in R;FALSE;2025-04-09T08:00:00Z;2025-04-09T10:00:00Z;"<p>Learn more about how you can visualize your data using R and RStudio. We cover the basics of ggplot2, including different types of plots, scales and facetting.</p>
-
-<p>We expect that you have some experience using R, and tidyverse. The level of experience requiered is equivalent to the content of our introductory course in R, &quot;<a href=""https://kubdatalab.github.io/beginning-R/"">R for absolute beginners</a>&quot;.</p>
-
-<p>The course material is published <a href=""https://kubdatalab.github.io/R-visualisation/"">here</a>, and we expect you to have R, RStudio and the tidyverse libraries installed. Instructions for this can be found <a href=""https://kubdatalab.github.io/R-visualisation/setup.html"">here</a>.</p>
-
-<p>By default our courses are held in Danish, but if one or more learners request it, we will do it in English.</p>";https://kubkalender.kb.dk/event/4217429;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4217429;21573;2;Library Lighthouse, Zone 1;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;16332;Christian Knudsen;Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;TRUE;25;8;0;0;8;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;;0;0
-4216752;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-09T10:30:00Z;2025-04-09T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216752;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216752;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33562;Analysis;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
-4216752;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-09T10:30:00Z;2025-04-09T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216752;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216752;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33561;Cleaning;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
-4216752;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-09T10:30:00Z;2025-04-09T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216752;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216752;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
-4216752;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-09T10:30:00Z;2025-04-09T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216752;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216752;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33560;Harvesting;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
-4216752;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-04-09T10:30:00Z;2025-04-09T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
-
-<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
-
-<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4216752;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4216752;21575;2;Library Lighthouse, Zone 3;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33563;Visualisation;16332;Christian Knudsen;;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;0;0
 4330876;Python for Absolute Beginners pt. 2;FALSE;2025-04-10T07:00:00Z;2025-04-10T10:30:00Z;"<p><br />
 <strong>Note:&nbsp;This is part 2&nbsp;of 2. You can find part 1&nbsp;in our course calendar:</strong><br />
 <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
@@ -1162,7 +1038,7 @@ Introduction and recap to NVivo;&nbsp;a program&nbsp;which is a great help when 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33562;Analysis;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;19;0;0;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33562;Analysis;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299895;R for Absolute Beginners;FALSE;2025-06-12T11:00:00Z;2025-06-12T13:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1182,7 +1058,7 @@ Introduction and recap to NVivo;&nbsp;a program&nbsp;which is a great help when 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33561;Cleaning;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;19;0;0;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33561;Cleaning;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299895;R for Absolute Beginners;FALSE;2025-06-12T11:00:00Z;2025-06-12T13:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1202,7 +1078,7 @@ Introduction and recap to NVivo;&nbsp;a program&nbsp;which is a great help when 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33564;English;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;19;0;0;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;33564;English;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299895;R for Absolute Beginners;FALSE;2025-06-12T11:00:00Z;2025-06-12T13:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1222,7 +1098,7 @@ Introduction and recap to NVivo;&nbsp;a program&nbsp;which is a great help when 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;36627;R;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;19;0;0;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;36627;R;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4299895;R for Absolute Beginners;FALSE;2025-06-12T11:00:00Z;2025-06-12T13:00:00Z;"<p>R is a general programming language, especially suited for statistical analysis and cleaning and visualization of data.</p>
 
 <p>We assume absolutely no previous experience with programming, and will cover the basics of getting started with R, including:</p>
@@ -1242,7 +1118,7 @@ Introduction and recap to NVivo;&nbsp;a program&nbsp;which is a great help when 
 
 <p>&nbsp;</p>
 
-<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;19;0;0;19;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
+<p>Please note that this course will be held in english if any participants requests it. Otherwise it will be held in danish.</p>";https://kubkalender.kb.dk/event/4299895;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4299895;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;KUB Nørre Campus, Nørre Allé 49, 2200 København N;;32027;Datalab;16332;Christian Knudsen;Søren Davidsen & Christian Knudsen;6416;KUB Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;FALSE;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;0;0
 4216762;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2025-06-18T10:30:00Z;2025-06-18T12:30:00Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
