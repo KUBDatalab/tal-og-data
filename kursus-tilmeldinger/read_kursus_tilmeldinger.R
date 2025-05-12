@@ -22,26 +22,13 @@ library(digest)
 
 files <- dir("data-raw/kursus_tilmeldinger/", full.names = TRUE, recursive = TRUE)
 
-
-  tibble(filename = files) %>% 
+filer <-   tibble(filename = files) %>% 
   mutate(year = str_extract(filename, "(?<=Tilmeldinger )(\\d{4})")) %>% 
   mutate(kursus_id = str_extract(filename, "(?<=_)(\\d*)(?=_)")) %>% 
-  mutate(file_id = str_extract(filename, "(?<=_)(\\d*)(?=\\.csv)")) %>% 
+  mutate(file_id = str_extract(filename, "(?<=_)(\\d*)(?=\\.csv)"))
   
-
-filer_2024 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2024/", full.names = TRUE)
-filer_2025 <- dir("data-raw/kursus_tilmeldinger/Tilmeldinger 2025/", full.names = TRUE)
-
-# samler dem i tibbler -----------------------
-filer_2024 <- tibble(year = 2024, filename = filer_2024)
-filer_2025 <- tibble(year = 2025, filename = filer_2025)
-
-# samler i en tibble og rydder op -----------------------
-filer <- bind_rows(filer_2024, filer_2025)
-rm(filer_2024, filer_2025)
-
-
-
+# vi skal have oplysning om venteliste eller deltagerliste
+# filer %>% filter(str_detect(filename, "lc_attendees|wait_list"))
 
 
 # minikonferencen.... ------------------------------------------------
@@ -53,11 +40,15 @@ skrammel <- filer %>%
 
 
 
-# så har vi dem der følger formen
+# så har vi dem der følger formen. Vi smider oplysninger om venteliste ind 
+# med det samme.
 tilmeldings_data <- filer %>% 
-  filter(str_detect(filename, "lc_attendees|wait_list"))
-
-
+  filter(str_detect(filename, "lc_attendees|wait_list")) %>% 
+  mutate(tilm_type = case_when(
+    str_detect(filename, "lc_attendees") ~ "tilmeldt",
+    str_detect(filename, "wait_list") ~ "venteliste",
+    .default = NA_character_
+  )) 
 
 # funktion til at indlæse og splitte filerne i to efter den tomme linie
 read_files <- function(path){
@@ -192,17 +183,16 @@ metadata <- metadata %>%
   mutate(online = str_detect(Location, "Online"))
 
 
-date_time %>% view()
+metadata <- metadata %>% 
+  distinct()
 
+date_time <- date_time %>% distinct()
 
+Her skal vi have håndteret at der er dubletter. 
 metadata %>% 
   left_join(date_time, by = join_by(kursus_id)) 
 
-
-metadata %>% 
-  
-  filter(dato == "2025-02-25")
-  
+Hm. Vi skal nok have harmoniseret lokationerne... Men stadig?
 
 
 # lad os også få køn på tilmeldingerne.
