@@ -293,16 +293,27 @@ tilmeldinger %>%
 Vi skal nok passe på med at konkludere alt for meget - for de der 6 kurser der
 starter kl. 9.30 forstyrrer billedet lidt. Det gør 12.30 også. 
 
+## fordeling af tilmeldinger på type af kurser
+
+```{r}
+tilmeldinger %>% 
+  left_join(metadata) %>% 
+  group_by(year, gruppe) %>% 
+  summarise(antal = n()) %>% 
+  pivot_wider(names_from = year, values_from = antal)
+```
+
+
 ## Fordeling af fag på R-kurserne.
 
 
 ```{r}
 tilmeldinger %>% 
-  left_join(metadata, by = join_by(filename)) %>% 
+  left_join(metadata, by = join_by(kursus_id)) %>% 
   filter(gruppe == "r") %>% 
   select(Event, faculty, udd) %>% 
   group_by(Event) %>% 
-  count(faculty) %>% 
+  count(faculty) %>%
   pivot_wider(names_from = faculty, values_from = n, values_fill = 0) %>% 
   mutate(total = sum(c_across(where(is.integer))), 
          across(where(is.integer), ~.x/total)
@@ -321,17 +332,16 @@ Gennemsnit for alle kurser:
 ```{r}
 tilmeldinger %>% 
   left_join(metadata) %>%
-  mutate(kursus_tid = as.POSIXct(paste(dato, from))) %>% 
+  mutate(kursus_tid = as.POSIXct(paste(dato, from), optional = TRUE)) %>% 
   mutate(tid_before= as.numeric(kursus_tid - booking_made, units = "days")) %>% 
   summarise(gennemsnit = mean(tid_before))
 ```
 Og det var i dage.
 
-Fordelingen af "hvor lang tid i forvejen":
 ```{r}
 tilmeldinger %>% 
   left_join(metadata) %>%
-  mutate(kursus_tid = as.POSIXct(paste(dato, from))) %>% 
+  mutate(kursus_tid = as.POSIXct(paste(dato, from), optional = TRUE)) %>% 
   mutate(tid_before= as.numeric(kursus_tid - booking_made, units = "days")) %>%
   ggplot(aes(tid_before)) +
   geom_density() +

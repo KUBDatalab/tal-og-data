@@ -183,16 +183,24 @@ metadata <- metadata %>%
   mutate(online = str_detect(Location, "Online"))
 
 
+
+
 metadata <- metadata %>% 
-  distinct()
+  distinct(kursus_id, .keep_all = TRUE)
 
-date_time <- date_time %>% distinct()
 
-Her skal vi have håndteret at der er dubletter. 
-metadata %>% 
-  left_join(date_time, by = join_by(kursus_id)) 
 
-Hm. Vi skal nok have harmoniseret lokationerne... Men stadig?
+date_time <- date_time %>% distinct(kursus_id, .keep_all = TRUE)
+
+
+
+# Her skal vi have håndteret at der er dubletter. 
+
+
+metadata <- metadata %>% 
+  left_join(date_time) 
+
+# Hm. Vi skal nok have harmoniseret lokationerne... Men stadig?
 
 
 # lad os også få køn på tilmeldingerne.
@@ -202,7 +210,7 @@ Hm. Vi skal nok have harmoniseret lokationerne... Men stadig?
 koen <- read_csv2("data/sex_dist.csv")
 
 
-tilmeldinger <- tilmeldinger %>%
+tilmeldings_data <- tilmeldings_data %>%
   mutate(fornavn = word(fornavn, 1)) %>% 
   mutate(fornavn = toupper(fornavn)) %>% 
   left_join(koen, by=c("fornavn" = "Navn")) %>% 
@@ -210,8 +218,8 @@ tilmeldinger <- tilmeldinger %>%
   mutate(sex = if_else(sex<0.5, "f", "m"))
 
 
-# write_csv2(tilmeldinger, "data/tilmeldingsdata/tilmeldinger.csv")
-# write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
-# write_csv2(metadata, "data/tilmeldingsdata/metadata.csv")
 
+write_csv2(tilmeldings_data, "data/tilmeldingsdata/tilmeldinger.csv")
+write_csv2(presenter, "data/tilmeldingsdata/presenter.csv")
+write_csv2(metadata, "data/tilmeldingsdata/metadata.csv")
 
