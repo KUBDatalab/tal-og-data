@@ -298,9 +298,20 @@ starter kl. 9.30 forstyrrer billedet lidt. Det gør 12.30 også.
 ```{r}
 tilmeldinger %>% 
   left_join(metadata) %>% 
-  group_by(year, gruppe) %>% 
-  summarise(antal = n()) %>% 
-  pivot_wider(names_from = year, values_from = antal)
+  group_by(year, gruppe, kursus_id) %>% 
+  mutate(antal = n()) %>%
+  ungroup() %>% 
+  select(gruppe, antal, year, kursus_id) %>% 
+  distinct() %>% 
+  group_by(year, gruppe)  %>% 
+  summarise(tilmeldinger = sum(antal),
+            antal_kurser = n()) %>% 
+  ungroup() %>% 
+  group_by(year,gruppe) %>% 
+  summarise(gennemsnit = tilmeldinger/antal_kurser) %>% 
+  pivot_wider(names_from = year, values_from = gennemsnit)
+  
+  
 ```
 
 
