@@ -54,10 +54,6 @@ jobs:
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten-sundsci.Rmd", output_format = "html_document")'
-      - name: Render observationsliste_samf
-        env: 
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
-        run: Rscript -e 'rmarkdown::render("observationslisten-samf.Rmd", output_format = "html_document")'
       - name: Render tilmeldingsanalyse
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
