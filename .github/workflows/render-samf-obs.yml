@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
-name: Render README
+name: Render samf observationsliste
 
 jobs:
   render:
@@ -38,30 +38,10 @@ jobs:
           Rscript -e 'install.packages("readr")'
           Rscript -e 'install.packages("openssl")'
           Rscript -e 'install.packages("zoo")'
-      - name: Render README
-        env: 
-          TEST_SECRET: ${{ secrets.TEST_SECRET}}
-        run: Rscript -e 'rmarkdown::render("README.Rmd", output_format = "md_document")'
-      - name: Render tallene
-        env: 
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
-        run: Rscript -e 'rmarkdown::render("tallene.Rmd", output_format = "html_document")'
-      - name: Render observationsliste_datalab
-        env: 
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
-        run: Rscript -e 'rmarkdown::render("observationslisten.Rmd", output_format = "html_document")'
-      - name: Render observationsliste_sundsci
-        env: 
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
-        run: Rscript -e 'rmarkdown::render("observationslisten-sundsci.Rmd", output_format = "html_document")'
       - name: Render observationsliste_samf
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten-samf.Rmd", output_format = "html_document")'
-      - name: Render tilmeldingsanalyse
-        env: 
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
-        run: Rscript -e 'rmarkdown::render("tilmeldingsanalyse.Rmd", output_format = "html_document")'
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
