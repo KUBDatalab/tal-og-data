@@ -46,15 +46,15 @@ jobs:
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("tallene.Rmd", output_format = "html_document")'
-      - name: Render observationsliste
+      - name: Render observationsliste_datalab
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten.Rmd", output_format = "html_document")'
-      - name: Render observationsliste_samf
+      - name: Render observationsliste_sundsci
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten-sundsci.Rmd", output_format = "html_document")'
-      - name: Render observationsliste_sundsci
+      - name: Render observationsliste_samf
         env: 
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'rmarkdown::render("observationslisten-samf.Rmd", output_format = "html_document")'
