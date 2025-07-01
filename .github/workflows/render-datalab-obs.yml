@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
-name: Render README
+name: Render observationsliste_datalab
 
 jobs:
   render:
