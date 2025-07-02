@@ -35,6 +35,7 @@ jobs:
           Rscript -e 'install.packages("plotly")'
           Rscript -e 'install.packages("knitr")'
           Rscript -e 'install.packages("httr")'
+          Rscript -e 'install.packages("httr2")'
           Rscript -e 'install.packages("readr")'
           Rscript -e 'install.packages("openssl")'
           Rscript -e 'install.packages("zoo")'
