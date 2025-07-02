@@ -41,7 +41,7 @@ jobs:
       - name: Opdater kursus metadata
         env: 
           TEST_SECRET: ${{ secrets.TEST_SECRET}}
-        run: Rscript -e 'kursus-tilmeldinger/opdater_metadata.R'
+        run: Rscript -e 'source("kursus-tilmeldinger/opdater_metadata.R")'
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
