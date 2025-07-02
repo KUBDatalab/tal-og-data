@@ -8,7 +8,6 @@ cal_id <- 6416L
 # mindst en mere. som er fra 2. juli
 # find dog også ud af hvorfor id 4216763 fører til 10 rækker?
 
-
 meta_data <- read_csv2("data-raw/kursus_metadata.csv")
 
 if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){

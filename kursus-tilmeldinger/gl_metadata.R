@@ -114,7 +114,9 @@ meta_data <- meta_data %>%
   unnest(seats) %>% 
   unnest_longer(category) %>% 
   unnest_wider(category, names_sep = "_")
-  
-meta_data <- write_csv2(file = "data-raw/kursus_metadata.csv")
+
+meta_data %>% filter(id == 4216763)
+
+meta_data %>% write_csv2(file = "data-raw/kursus_metadata.csv")
   
   
