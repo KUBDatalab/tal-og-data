@@ -3,6 +3,7 @@ library(httr2)
 library(httr)
 library(here)
 cal_id <- 6416L
+kalender_id <- cal_id
 
 # har pt 1749 rækker i metadata. Efter dagens åbne værksted, skal der gerne være
 # mindst en mere. som er fra 2. juli
@@ -92,6 +93,7 @@ nye_meta_data <- data %>% unnest_wider(events) %>%
 
 
 
-nye_meta_data <- nye_meta_data %>% filter(!(id %in% meta_data$id)) %>% 
-bind_rows(nye_meta_data, meta_data) %>% 
+nye_meta_data <- nye_meta_data %>% 
+  type_convert() %>% filter(!(id %in% meta_data$id)) %>% 
+  bind_rows(meta_data) %>% 
   write_csv2("data-raw/kursus_metadata.csv")
