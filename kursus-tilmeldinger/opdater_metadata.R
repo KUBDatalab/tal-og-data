@@ -93,6 +93,7 @@ nye_meta_data <- data %>% unnest_wider(events) %>%
 
 
 
-nye_meta_data <- nye_meta_data %>% filter(!(id %in% meta_data$id)) %>% 
-bind_rows(nye_meta_data, meta_data) %>% 
+nye_meta_data <- nye_meta_data %>% 
+  type_convert() %>% filter(!(id %in% meta_data$id)) %>% 
+  bind_rows(meta_data) %>% 
   write_csv2("data-raw/kursus_metadata.csv")
