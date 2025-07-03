@@ -41,7 +41,7 @@ jobs:
           Rscript -e 'install.packages("zoo")'
       - name: Opdater kursus metadata
         env: 
-          TEST_SECRET: ${{ secrets.TEST_SECRET}}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET}}
         run: Rscript -e 'source("kursus-tilmeldinger/opdater_metadata.R")'
       - name: Commit results
         run: |
