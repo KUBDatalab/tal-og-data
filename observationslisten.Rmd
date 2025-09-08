@@ -19,7 +19,7 @@ wanted <- "KUB Datalab"
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
-Opdateret `r today()`
+Opdateret `r today()` <- denne burde opdateres?
 
 ```{r echo =F, message=F, warning=F}
 # get client secret ----
