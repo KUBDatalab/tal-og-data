@@ -15,13 +15,13 @@ library(lubridate)
 library(kableExtra)
 library(formattable)
 library(knitr)
-wanted <- "KUB Datalab"
+wanted <- "Datalab"
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 ```
 
 Opdateret `r today()` <- denne burde opdateres?
 
-```{r echo =F, message=F, warning=F}
+```{r tokens_et_cal_id, cho =F, message=F, warning=F}
 # get client secret ----
 if(here::here() == "P:/R_projekter/tal-og-data"){
   client_secret <- keyring::key_get("libcal")
@@ -59,7 +59,7 @@ kalender_id <- kalender_id$calid
 ```
 
 
-```{r echo = F}
+```{r get_events, echo = F}
 i <- year(today())
 data <- get_events(kalender_id, i) %>% 
   as_tibble() 
