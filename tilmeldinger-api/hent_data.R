@@ -1,7 +1,7 @@
 library(tidyverse)
 library(httr2)
 library(here)
-wanted <- "KUB Datalab"
+wanted <- "Datalab"
 
 
 
