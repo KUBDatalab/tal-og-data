@@ -93,7 +93,12 @@ nye_meta_data <- data %>% unnest_wider(events) %>%
 
 
 
-nye_meta_data <- nye_meta_data %>% 
+nye_meta_data %>% 
   type_convert() %>% filter(!(id %in% meta_data$id)) %>% 
-  bind_rows(meta_data) %>% 
+  mutate(more_info = as.character(more_info),
+  online_join_url = as.character(online_join_url),
+  online_join_password = as.character(online_join_password),
+  online_provider = as.character(online_provider)
+) |> 
+  bind_rows(meta_data) |> 
   write_csv2("data-raw/kursus_metadata.csv")
