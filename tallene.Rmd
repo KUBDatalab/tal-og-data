@@ -27,7 +27,7 @@ PYTHONKURSER SOM ER BLEVET FLYTTET FRA 2022 TIL 2023 - DET GIVER FEJL!!
 ```{r setup, include=FALSE, cache = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 # source(here::here("rmd_config.R"))
-wanted <- "KUB Datalab"
+wanted <- "Datalab"
 first_year <- 2018 # Det første år vi interesserer os for
 aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
 
