@@ -353,7 +353,41 @@ display: none;
 </div>
 
 
-<p>Opdateret 2026-01-09 &lt;- denne burde opdateres?</p>
+<p>Opdateret 2026-01-12 &lt;- denne burde opdateres?</p>
+<pre class="r"><code># get client secret ----
+if(here::here() == &quot;P:/R_projekter/tal-og-data&quot;){
+  client_secret &lt;- keyring::key_get(&quot;libcal&quot;)
+}else{
+  client_secret &lt;- Sys.getenv(&quot;CLIENT_SECRET&quot;)
+}
+
+# get_token ----
+token &lt;- get_token(client_secret = client_secret)
+
+# hent_kalendere ----
+kalendere &lt;- modify_url(
+  url = &quot;https://kubkalender.kb.dk&quot;,
+  path = c(&quot;1.1&quot;, &quot;calendars&quot;)
+) %&gt;% 
+  GET(add_headers(&#39;Authorization&#39; = paste(&quot;bearer&quot;, token))) %&gt;% 
+  content() %&gt;% 
+  as_tibble()
+
+
+# get_calid ----
+# Nu finder vi så det relevante calid vi skal bruge
+kalendere &lt;- kalendere %&gt;%
+  unnest_wider(calendars) %&gt;%
+  unnest_wider(url) %&gt;%
+  unnest_wider(owner, names_repair = &quot;universal&quot;) %&gt;%
+  rename(kalender_navn = name...2,
+         ejer_id = id,
+         ejer_navn = name...7)
+
+kalender_id &lt;- kalendere %&gt;%
+  select(calid, kalender_navn, public) %&gt;%
+  filter(kalender_navn == wanted) 
+kalender_id &lt;- kalender_id$calid</code></pre>
 <table>
 <colgroup>
 <col width="32%" />
@@ -379,36 +413,36 @@ display: none;
 absolutte nybegyndere</a></td>
 <td align="left">2026-01-26</td>
 <td align="right">50</td>
-<td align="right">44</td>
-<td align="right">88%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #1ee000; width: 88.00%">88%</span></td>
+<td align="right">47</td>
+<td align="right">94%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #0fef00; width: 94.00%">94%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4454075">R for
 Absolute Beginners</a></td>
 <td align="left">2026-01-26</td>
 <td align="right">50</td>
-<td align="right">44</td>
-<td align="right">88%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #1ee000; width: 88.00%">88%</span></td>
+<td align="right">50</td>
+<td align="right">100%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #00ff00; width: 100.00%">100%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4454076">Introduction to
 visualizing with ggplot2 in R</a></td>
 <td align="left">2026-01-27</td>
 <td align="right">50</td>
-<td align="right">46</td>
-<td align="right">92%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #14ea00; width: 92.00%">92%</span></td>
+<td align="right">47</td>
+<td align="right">94%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #0fef00; width: 94.00%">94%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4460064">Tekstanalyse med R på
 dansk</a></td>
 <td align="left">2026-01-27</td>
 <td align="right">40</td>
-<td align="right">16</td>
-<td align="right">40%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #996600; width: 40.00%">40%</span></td>
+<td align="right">17</td>
+<td align="right">42%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #926c00; width: 42.50%">42%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4454077">Learn
@@ -433,36 +467,36 @@ Beginners pt. 1</a></td>
 with R</a></td>
 <td align="left">2026-01-29</td>
 <td align="right">50</td>
-<td align="right">49</td>
-<td align="right">98%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #05f900; width: 98.00%">98%</span></td>
+<td align="right">50</td>
+<td align="right">100%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #00ff00; width: 100.00%">100%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4454084">Introduktion til
 statistik i R / Introduction to statistics in R</a></td>
 <td align="left">2026-01-29</td>
 <td align="right">50</td>
-<td align="right">41</td>
-<td align="right">82%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #2dd100; width: 82.00%">82%</span></td>
+<td align="right">43</td>
+<td align="right">86%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #23db00; width: 86.00%">86%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4454087">R and
 APIs - Statistics Denmark</a></td>
 <td align="left">2026-01-30</td>
 <td align="right">50</td>
-<td align="right">25</td>
-<td align="right">50%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #7f7f00; width: 50.00%">50%</span></td>
+<td align="right">28</td>
+<td align="right">56%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #708e00; width: 56.00%">56%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4486314">Harvest data from
 webpages without APIs - with R</a></td>
 <td align="left">2026-01-30</td>
 <td align="right">40</td>
-<td align="right">5</td>
-<td align="right">12%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #df1f00; width: 12.50%">12%</span></td>
+<td align="right">6</td>
+<td align="right">15%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #d82600; width: 15.00%">15%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4486406">Python for Absolute
@@ -478,18 +512,18 @@ Beginners pt. 2</a></td>
 for absolutte begyndere - på dansk</a></td>
 <td align="left">2026-02-04</td>
 <td align="right">30</td>
-<td align="right">3</td>
-<td align="right">10%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #e51900; width: 10.00%">10%</span></td>
+<td align="right">4</td>
+<td align="right">13%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #dd2200; width: 13.33%">13%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4465967">R for
 Absolute Beginners</a></td>
 <td align="left">2026-02-13</td>
 <td align="right">30</td>
-<td align="right">8</td>
-<td align="right">27%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #bb4400; width: 26.67%">27%</span></td>
+<td align="right">9</td>
+<td align="right">30%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #b24c00; width: 30.00%">30%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4465961">R for
@@ -505,18 +539,18 @@ absolutte nybegyndere</a></td>
 for Absolute Beginners</a></td>
 <td align="left">2026-02-18</td>
 <td align="right">25</td>
-<td align="right">2</td>
-<td align="right">8%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #ea1400; width: 8.00%">8%</span></td>
+<td align="right">3</td>
+<td align="right">12%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #e01e00; width: 12.00%">12%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4486407">Python for Absolute
 Beginners pt. 1</a></td>
 <td align="left">2026-02-19</td>
 <td align="right">25</td>
-<td align="right">3</td>
-<td align="right">12%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #e01e00; width: 12.00%">12%</span></td>
+<td align="right">4</td>
+<td align="right">16%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #d62800; width: 16.00%">16%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4472962">Explorative data analysis
@@ -532,18 +566,18 @@ with R</a></td>
 - Cases and Classification in Interview Data</a></td>
 <td align="left">2026-02-25</td>
 <td align="right">25</td>
-<td align="right">1</td>
-<td align="right">4%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #f40a00; width: 4.00%">4%</span></td>
+<td align="right">3</td>
+<td align="right">12%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #e01e00; width: 12.00%">12%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4486408">Python for Absolute
 Beginners pt. 2</a></td>
 <td align="left">2026-02-26</td>
 <td align="right">25</td>
-<td align="right">3</td>
-<td align="right">12%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #e01e00; width: 12.00%">12%</span></td>
+<td align="right">4</td>
+<td align="right">16%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #d62800; width: 16.00%">16%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4472963">Introduction to
@@ -568,18 +602,18 @@ Getting Started with Data Analysis</a></td>
 Beginners pt. 1</a></td>
 <td align="left">2026-03-04</td>
 <td align="right">25</td>
-<td align="right">1</td>
-<td align="right">4%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #f40a00; width: 4.00%">4%</span></td>
+<td align="right">2</td>
+<td align="right">8%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #ea1400; width: 8.00%">8%</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4465997">R for
 Absolute Beginners</a></td>
 <td align="left">2026-03-09</td>
 <td align="right">30</td>
-<td align="right">0</td>
-<td align="right">0%</td>
-<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #ff0000; width: 0.00%">0%</span></td>
+<td align="right">1</td>
+<td align="right">3%</td>
+<td align="left"><span style="display: inline-block; direction: rtl; unicode-bidi: plaintext; color:rgba(0,0,0,0); border-radius: 4px; padding-right: 2px; background-color: #f60800; width: 3.33%">3%</span></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://kubkalender.kb.dk/event/4472972">R and
