@@ -14,7 +14,7 @@ library(readr)
 library(openssl)
 library(zoo)
 # settings
-wanted <- "KUB Datalab"
+wanted <- "Datalab"
 first_year <- 2018 # Det første år vi interesserer os for
 aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
 
