@@ -12,7 +12,7 @@ kalender_id <- cal_id
 meta_data <- read_csv2("data-raw/kursus_metadata.csv") |> 
   mutate(online_join_password = as.character(online_join_password))
 
-if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+if(here::here() == "C:/Users/B043487/Documents/R-projects/tal-og-data"){
   client_secret <- keyring::key_get("libcal")
 }else{
   client_secret <- Sys.getenv("CLIENT_SECRET")
@@ -93,10 +93,10 @@ nye_meta_data <- data %>% unnest_wider(events) %>%
   unnest_wider(category, names_sep = "_") 
 
 
-
 nye_meta_data %>% 
   type_convert() %>% filter(!(id %in% meta_data$id)) %>% 
   mutate(more_info = as.character(more_info),
+         geolocation = as.character(geolocation),
   online_join_url = as.character(online_join_url),
   online_join_password = as.character(online_join_password),
   online_provider = as.character(online_provider)
