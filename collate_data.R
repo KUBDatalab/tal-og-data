@@ -25,7 +25,7 @@ aktuelt_year <- as.numeric(substr(Sys.Date(), 1, 4))
 source("funcs.R", encoding = "UTF8") # her samler vi nyttige funktioner
 
 # get client secret ----
-if(here::here() == "C:/Users/cbk/Documents/R_projekter/tal-og-data"){
+if(here::here() == "C:/Users/B043487/Documents/R-projects/tal-og-data"){
   client_secret <- keyring::key_get("libcal")
 }else{
   client_secret <- Sys.getenv("CLIENT_SECRET")
