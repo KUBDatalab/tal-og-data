@@ -1,321 +1,4 @@
 id;title;allday;start;end;created;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;audience;category_id;category_name;owner_id;owner_name;owner_email;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_series_linked;has_registration_opened;registration_open_at;has_registration_closed;registration_close_at;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;featured_image_alt_text;more_info;setup_time;teardown_time;online_user_id;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;38246;Summer School;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33563;Visualisation;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4542788;Python for not quite Absolute Beginners : data analysis with pandas, #summer(school);FALSE;2026-08-13T07:01:00Z;2026-08-13T10:00:00Z;2026-05-18T14:58:24+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4542788;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4542788;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-18T14:58:24+02:00;TRUE;2026-08-13T12:00:00+02:00;50;37;0;0;37;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4545164;Python for not quite Absolute Beginners : text analysis with pandas, #summer(school);FALSE;2026-08-13T11:01:00Z;2026-08-13T14:00:00Z;2026-05-27T08:54:31+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em> </strong>courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this workshop, you gain knowledge about how to work with texts as data using the library <strong><span style=""font-family:Courier New,Courier,monospace;"">pandas</span></strong>. We will use fairy tales as our example material and combine many of them into a single dataset.&nbsp;</p>
-
-<p>You will gain knowledge about:&nbsp;</p>
-
-<ul>
-	<li>what a dataset of texts is in practice</li>
-	<li>how a DataFrame can be built from a folder of text files</li>
-	<li>how to combine multiple DataFrames using <strong><span style=""font-family:Courier New,Courier,monospace;"">pd.concat</span></strong></li>
-	<li>how to apply functions to text with <strong><span style=""font-family:Courier New,Courier,monospace;"">.apply</span></strong> (for example, for text cleaning)</li>
-	<li>how to calculate simple metrics such as word count and TTR (type-token ratio)</li>
-	<li>how to compare authors using <strong><span style=""font-family:Courier New,Courier,monospace;"">groupby</span></strong> (Split-Apply-Combine)</li>
-	<li>how to visualise simple patterns (for example, average word length by author)</li>
-	<li>how to save the data for further analysis</li>
-</ul>
-
-<p>By the end of the workshop, you will have a structured dataset that you can use in Workshop 2 and in your own projects.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4545164;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4545164;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen, Lars Kjær & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-27T08:54:31+02:00;TRUE;2026-08-13T16:00:00+02:00;50;30;0;0;30;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4545164;Python for not quite Absolute Beginners : text analysis with pandas, #summer(school);FALSE;2026-08-13T11:01:00Z;2026-08-13T14:00:00Z;2026-05-27T08:54:31+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em> </strong>courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this workshop, you gain knowledge about how to work with texts as data using the library <strong><span style=""font-family:Courier New,Courier,monospace;"">pandas</span></strong>. We will use fairy tales as our example material and combine many of them into a single dataset.&nbsp;</p>
-
-<p>You will gain knowledge about:&nbsp;</p>
-
-<ul>
-	<li>what a dataset of texts is in practice</li>
-	<li>how a DataFrame can be built from a folder of text files</li>
-	<li>how to combine multiple DataFrames using <strong><span style=""font-family:Courier New,Courier,monospace;"">pd.concat</span></strong></li>
-	<li>how to apply functions to text with <strong><span style=""font-family:Courier New,Courier,monospace;"">.apply</span></strong> (for example, for text cleaning)</li>
-	<li>how to calculate simple metrics such as word count and TTR (type-token ratio)</li>
-	<li>how to compare authors using <strong><span style=""font-family:Courier New,Courier,monospace;"">groupby</span></strong> (Split-Apply-Combine)</li>
-	<li>how to visualise simple patterns (for example, average word length by author)</li>
-	<li>how to save the data for further analysis</li>
-</ul>
-
-<p>By the end of the workshop, you will have a structured dataset that you can use in Workshop 2 and in your own projects.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4545164;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4545164;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen, Lars Kjær & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-27T08:54:31+02:00;TRUE;2026-08-13T16:00:00+02:00;50;30;0;0;30;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4545164;Python for not quite Absolute Beginners : text analysis with pandas, #summer(school);FALSE;2026-08-13T11:01:00Z;2026-08-13T14:00:00Z;2026-05-27T08:54:31+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em> </strong>courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this workshop, you gain knowledge about how to work with texts as data using the library <strong><span style=""font-family:Courier New,Courier,monospace;"">pandas</span></strong>. We will use fairy tales as our example material and combine many of them into a single dataset.&nbsp;</p>
-
-<p>You will gain knowledge about:&nbsp;</p>
-
-<ul>
-	<li>what a dataset of texts is in practice</li>
-	<li>how a DataFrame can be built from a folder of text files</li>
-	<li>how to combine multiple DataFrames using <strong><span style=""font-family:Courier New,Courier,monospace;"">pd.concat</span></strong></li>
-	<li>how to apply functions to text with <strong><span style=""font-family:Courier New,Courier,monospace;"">.apply</span></strong> (for example, for text cleaning)</li>
-	<li>how to calculate simple metrics such as word count and TTR (type-token ratio)</li>
-	<li>how to compare authors using <strong><span style=""font-family:Courier New,Courier,monospace;"">groupby</span></strong> (Split-Apply-Combine)</li>
-	<li>how to visualise simple patterns (for example, average word length by author)</li>
-	<li>how to save the data for further analysis</li>
-</ul>
-
-<p>By the end of the workshop, you will have a structured dataset that you can use in Workshop 2 and in your own projects.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4545164;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4545164;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen, Lars Kjær & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-27T08:54:31+02:00;TRUE;2026-08-13T16:00:00+02:00;50;30;0;0;30;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4545164;Python for not quite Absolute Beginners : text analysis with pandas, #summer(school);FALSE;2026-08-13T11:01:00Z;2026-08-13T14:00:00Z;2026-05-27T08:54:31+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em> </strong>courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this workshop, you gain knowledge about how to work with texts as data using the library <strong><span style=""font-family:Courier New,Courier,monospace;"">pandas</span></strong>. We will use fairy tales as our example material and combine many of them into a single dataset.&nbsp;</p>
-
-<p>You will gain knowledge about:&nbsp;</p>
-
-<ul>
-	<li>what a dataset of texts is in practice</li>
-	<li>how a DataFrame can be built from a folder of text files</li>
-	<li>how to combine multiple DataFrames using <strong><span style=""font-family:Courier New,Courier,monospace;"">pd.concat</span></strong></li>
-	<li>how to apply functions to text with <strong><span style=""font-family:Courier New,Courier,monospace;"">.apply</span></strong> (for example, for text cleaning)</li>
-	<li>how to calculate simple metrics such as word count and TTR (type-token ratio)</li>
-	<li>how to compare authors using <strong><span style=""font-family:Courier New,Courier,monospace;"">groupby</span></strong> (Split-Apply-Combine)</li>
-	<li>how to visualise simple patterns (for example, average word length by author)</li>
-	<li>how to save the data for further analysis</li>
-</ul>
-
-<p>By the end of the workshop, you will have a structured dataset that you can use in Workshop 2 and in your own projects.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4545164;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4545164;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;38246;Summer School;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen, Lars Kjær & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-27T08:54:31+02:00;TRUE;2026-08-13T16:00:00+02:00;50;30;0;0;30;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
-4545164;Python for not quite Absolute Beginners : text analysis with pandas, #summer(school);FALSE;2026-08-13T11:01:00Z;2026-08-13T14:00:00Z;2026-05-27T08:54:31+02:00;"<p><br />
-<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
-You can sign up for one course or as many as you like.</strong></p>
-
-<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
-
-<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
-
-<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
-
-<p>---</p>
-
-<p>In the <strong><em>Python for not quite Absolute Beginners</em> </strong>courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
-
-<p>In this workshop, you gain knowledge about how to work with texts as data using the library <strong><span style=""font-family:Courier New,Courier,monospace;"">pandas</span></strong>. We will use fairy tales as our example material and combine many of them into a single dataset.&nbsp;</p>
-
-<p>You will gain knowledge about:&nbsp;</p>
-
-<ul>
-	<li>what a dataset of texts is in practice</li>
-	<li>how a DataFrame can be built from a folder of text files</li>
-	<li>how to combine multiple DataFrames using <strong><span style=""font-family:Courier New,Courier,monospace;"">pd.concat</span></strong></li>
-	<li>how to apply functions to text with <strong><span style=""font-family:Courier New,Courier,monospace;"">.apply</span></strong> (for example, for text cleaning)</li>
-	<li>how to calculate simple metrics such as word count and TTR (type-token ratio)</li>
-	<li>how to compare authors using <strong><span style=""font-family:Courier New,Courier,monospace;"">groupby</span></strong> (Split-Apply-Combine)</li>
-	<li>how to visualise simple patterns (for example, average word length by author)</li>
-	<li>how to save the data for further analysis</li>
-</ul>
-
-<p>By the end of the workshop, you will have a structured dataset that you can use in Workshop 2 and in your own projects.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4545164;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4545164;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen, Lars Kjær & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-05-27T08:54:31+02:00;TRUE;2026-08-13T16:00:00+02:00;50;30;0;0;30;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/python_summer_editiion.png;;;0;0;NA;NA;NA;NA;NA;NA
 4545163;Python for not quite Absolute Beginners : text analysis with spaCy and prompts, #summer(school);FALSE;2026-08-14T07:01:00Z;2026-08-14T10:00:00Z;2026-05-27T08:54:01+02:00;"<p><br />
 <strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
 You can sign up for one course or as many as you like.</strong></p>
@@ -1685,7 +1368,7 @@ This course is intended for students who have never tried programming before and
 <p>&nbsp;</p>
 
 <p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;29;0;0;29;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;31;0;0;31;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
 4554972;Python for Absolute Beginners pt. 2;FALSE;2026-09-16T07:31:00Z;2026-09-16T10:30:00Z;2026-06-19T13:13:05+02:00;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
@@ -1700,7 +1383,7 @@ This course is intended for students who have never tried programming before and
 <p>&nbsp;</p>
 
 <p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;29;0;0;29;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;31;0;0;31;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
 4554972;Python for Absolute Beginners pt. 2;FALSE;2026-09-16T07:31:00Z;2026-09-16T10:30:00Z;2026-06-19T13:13:05+02:00;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
@@ -1715,7 +1398,7 @@ This course is intended for students who have never tried programming before and
 <p>&nbsp;</p>
 
 <p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;29;0;0;29;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;31;0;0;31;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
 4554972;Python for Absolute Beginners pt. 2;FALSE;2026-09-16T07:31:00Z;2026-09-16T10:30:00Z;2026-06-19T13:13:05+02:00;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
@@ -1730,7 +1413,7 @@ This course is intended for students who have never tried programming before and
 <p>&nbsp;</p>
 
 <p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
-<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;29;0;0;29;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>";https://kubkalender.kb.dk/event/4554972;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554972;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;FALSE;TRUE;2026-06-19T13:13:05+02:00;FALSE;2026-09-16T12:30:00+02:00;40;31;0;0;31;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;;0;0;NA;NA;NA;NA;NA;NA
 4414223;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-09-16T10:30:00Z;2026-09-16T12:30:00Z;2025-09-04T14:38:48+02:00;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
