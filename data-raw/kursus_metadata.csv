@@ -1,4 +1,194 @@
 id;title;allday;start;end;created;description;public;admin;location_id;location_type;location_name;campus_id;campus_name;audience_1_id;audience_1_name;category_id;category_name;owner_id;owner_name;owner_email;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;seats;registration;registration_form_id;registration_max_guests;registration_series_linked;has_registration_opened;registration_open_at;has_registration_closed;registration_close_at;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;featured_image_alt_text;geolocation;registration_cost;more_info;setup_time;teardown_time;online_user_id;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider;campus_1;audience_2_id;audience_2_name;audience_3_id;audience_3_name;zoom_email
+4563004;R for Absolute Beginners;FALSE;2026-10-05T07:00:00Z;2026-10-05T10:00:00Z;2026-06-24T08:19:55Z;"<p style=""margin-top:16px; margin-bottom:16px""><span style=""font-size:12pt""><span style=""line-height:116%""><span aptos="""" style=""font-family:""><i><span calibri="""" lang=""EN-US"" style=""font-family:""></span></i></span></span></span></p>
+
+<div id=""s-lc-event-desc"">
+<p>R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes. It can be used for analysing both numerical data and text.</p>
+
+<p>This course is a basic introduction to R. No prior programming experience is required to participate.</p>
+
+<p>A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
+
+<p>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
+</div>";https://kubkalender.kb.dk/event/4563004;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563004;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1021;Level 1 - Beginner / Begynder;33562;Analysis;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:19:55Z;TRUE;2026-10-05T10:00:00Z;40;38;0;0;38;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;ChIJ8VHldVVSUkYRgK6z4Au1dyg;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4563004;R for Absolute Beginners;FALSE;2026-10-05T07:00:00Z;2026-10-05T10:00:00Z;2026-06-24T08:19:55Z;"<p style=""margin-top:16px; margin-bottom:16px""><span style=""font-size:12pt""><span style=""line-height:116%""><span aptos="""" style=""font-family:""><i><span calibri="""" lang=""EN-US"" style=""font-family:""></span></i></span></span></span></p>
+
+<div id=""s-lc-event-desc"">
+<p>R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes. It can be used for analysing both numerical data and text.</p>
+
+<p>This course is a basic introduction to R. No prior programming experience is required to participate.</p>
+
+<p>A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
+
+<p>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
+</div>";https://kubkalender.kb.dk/event/4563004;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563004;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1021;Level 1 - Beginner / Begynder;33561;Cleaning;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:19:55Z;TRUE;2026-10-05T10:00:00Z;40;38;0;0;38;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;ChIJ8VHldVVSUkYRgK6z4Au1dyg;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4563004;R for Absolute Beginners;FALSE;2026-10-05T07:00:00Z;2026-10-05T10:00:00Z;2026-06-24T08:19:55Z;"<p style=""margin-top:16px; margin-bottom:16px""><span style=""font-size:12pt""><span style=""line-height:116%""><span aptos="""" style=""font-family:""><i><span calibri="""" lang=""EN-US"" style=""font-family:""></span></i></span></span></span></p>
+
+<div id=""s-lc-event-desc"">
+<p>R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes. It can be used for analysing both numerical data and text.</p>
+
+<p>This course is a basic introduction to R. No prior programming experience is required to participate.</p>
+
+<p>A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
+
+<p>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
+</div>";https://kubkalender.kb.dk/event/4563004;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563004;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1021;Level 1 - Beginner / Begynder;33564;English;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:19:55Z;TRUE;2026-10-05T10:00:00Z;40;38;0;0;38;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;ChIJ8VHldVVSUkYRgK6z4Au1dyg;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4563004;R for Absolute Beginners;FALSE;2026-10-05T07:00:00Z;2026-10-05T10:00:00Z;2026-06-24T08:19:55Z;"<p style=""margin-top:16px; margin-bottom:16px""><span style=""font-size:12pt""><span style=""line-height:116%""><span aptos="""" style=""font-family:""><i><span calibri="""" lang=""EN-US"" style=""font-family:""></span></i></span></span></span></p>
+
+<div id=""s-lc-event-desc"">
+<p>R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes. It can be used for analysing both numerical data and text.</p>
+
+<p>This course is a basic introduction to R. No prior programming experience is required to participate.</p>
+
+<p>A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
+
+<p>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
+</div>";https://kubkalender.kb.dk/event/4563004;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563004;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1021;Level 1 - Beginner / Begynder;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:19:55Z;TRUE;2026-10-05T10:00:00Z;40;38;0;0;38;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;ChIJ8VHldVVSUkYRgK6z4Au1dyg;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4563004;R for Absolute Beginners;FALSE;2026-10-05T07:00:00Z;2026-10-05T10:00:00Z;2026-06-24T08:19:55Z;"<p style=""margin-top:16px; margin-bottom:16px""><span style=""font-size:12pt""><span style=""line-height:116%""><span aptos="""" style=""font-family:""><i><span calibri="""" lang=""EN-US"" style=""font-family:""></span></i></span></span></span></p>
+
+<div id=""s-lc-event-desc"">
+<p>R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes. It can be used for analysing both numerical data and text.</p>
+
+<p>This course is a basic introduction to R. No prior programming experience is required to participate.</p>
+
+<p>A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
+
+<p>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
+</div>";https://kubkalender.kb.dk/event/4563004;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563004;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1021;Level 1 - Beginner / Begynder;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:19:55Z;TRUE;2026-10-05T10:00:00Z;40;38;0;0;38;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;ChIJ8VHldVVSUkYRgK6z4Au1dyg;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4554984;Python for not quite Absolute Beginners : data analysis with pandas;FALSE;2026-10-07T07:31:00Z;2026-10-07T10:30:00Z;2026-06-19T11:24:22Z;"<p><br />
+<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
+You can sign up for one course or as many as you like.</strong></p>
+
+<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
+
+<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
+
+<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
+
+<p>---</p>
+
+<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
+
+<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4554984;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554984;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1022;Level 2 - Basic / Let øvet;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-19T11:24:22Z;TRUE;2026-10-07T10:30:00Z;40;12;0;0;12;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4554984;Python for not quite Absolute Beginners : data analysis with pandas;FALSE;2026-10-07T07:31:00Z;2026-10-07T10:30:00Z;2026-06-19T11:24:22Z;"<p><br />
+<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
+You can sign up for one course or as many as you like.</strong></p>
+
+<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
+
+<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
+
+<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
+
+<p>---</p>
+
+<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
+
+<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4554984;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554984;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1022;Level 2 - Basic / Let øvet;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-19T11:24:22Z;TRUE;2026-10-07T10:30:00Z;40;12;0;0;12;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4554984;Python for not quite Absolute Beginners : data analysis with pandas;FALSE;2026-10-07T07:31:00Z;2026-10-07T10:30:00Z;2026-06-19T11:24:22Z;"<p><br />
+<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
+You can sign up for one course or as many as you like.</strong></p>
+
+<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
+
+<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
+
+<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
+
+<p>---</p>
+
+<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
+
+<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4554984;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554984;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1022;Level 2 - Basic / Let øvet;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-19T11:24:22Z;TRUE;2026-10-07T10:30:00Z;40;12;0;0;12;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4554984;Python for not quite Absolute Beginners : data analysis with pandas;FALSE;2026-10-07T07:31:00Z;2026-10-07T10:30:00Z;2026-06-19T11:24:22Z;"<p><br />
+<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
+You can sign up for one course or as many as you like.</strong></p>
+
+<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
+
+<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
+
+<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
+
+<p>---</p>
+
+<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
+
+<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4554984;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554984;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1022;Level 2 - Basic / Let øvet;33563;Visualisation;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-19T11:24:22Z;TRUE;2026-10-07T10:30:00Z;40;12;0;0;12;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4554984;Python for not quite Absolute Beginners : data analysis with pandas;FALSE;2026-10-07T07:31:00Z;2026-10-07T10:30:00Z;2026-06-19T11:24:22Z;"<p><br />
+<strong>This course is part of our <em>Python Summer School</em>. We will offer courses throughout the week from August 10&ndash;14.<br />
+You can sign up for one course or as many as you like.</strong></p>
+
+<p><em>Python for Absolute Beginners</em>&nbsp;Part 1 &amp; 2 are our core courses. After completing these (or if you already have Python knowledge equivalent to the course material), you can join all other Python courses in our Summer School.</p>
+
+<p>You can find all of our course materials here:&nbsp;<a href=""https://kubdatalab.github.io/python"" target=""_blank"">https://kubdatalab.github.io/python</a></p>
+
+<p>And sign up for more courses here:&nbsp;<a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">https://kubkalender.kb.dk/calendar/datalab</a></p>
+
+<p>---</p>
+
+<p>In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
+
+<p>In this part, you will learn how to import, analyse, and visualise data using the library <em>pandas</em>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Practical information:</strong> We will be working in Jupyter Lab / Jupyter Notebook, which requires some installation, but you can also work in either Google Colabs or ERDA which require only a Google or KU account, respectively. For more information and help, consult &quot;Install &amp; Run Python&quot; on the course page:<br />
+<a href=""https://kubdatalab.github.io/python/docs/howto/setup.html"" target=""_blank"">https://kubdatalab.github.io/python/docs/howto/setup.html</a></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4554984;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4554984;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;1022;Level 2 - Basic / Let øvet;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;40;TRUE;5673;0;FALSE;TRUE;2026-06-19T11:24:22Z;TRUE;2026-10-07T10:30:00Z;40;12;0;0;12;TRUE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/Python_logo.jpg;Python logo;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4414226;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-07T10:30:00Z;2026-10-07T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4414226;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4414226;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;NA;33562;Analysis;16332;Christian Knudsen;cbk@kb.dk;Søren Davidsen, Henrik Hornemann & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4414226;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-07T10:30:00Z;2026-10-07T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4414226;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4414226;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;NA;33561;Cleaning;16332;Christian Knudsen;cbk@kb.dk;Søren Davidsen, Henrik Hornemann & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4414226;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-07T10:30:00Z;2026-10-07T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4414226;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4414226;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;NA;33560;Harvesting;16332;Christian Knudsen;cbk@kb.dk;Søren Davidsen, Henrik Hornemann & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4414226;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-07T10:30:00Z;2026-10-07T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4414226;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4414226;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;Søren Davidsen, Henrik Hornemann & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4414226;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-07T10:30:00Z;2026-10-07T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
+
+<p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
+
+<p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4414226;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4414226;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Søren Davidsen, Henrik Hornemann & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4554970;Python for Absolute Beginners pt. 1;FALSE;2026-09-09T07:31:00Z;2026-09-09T10:30:00Z;2026-06-19T11:12:04Z;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
