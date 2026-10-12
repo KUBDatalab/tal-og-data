@@ -1,114 +1,4 @@
 id;title;allday;start;end;created;description;url_public;url_admin;location_id;location_type;location_name;campus_id;campus_name;audience;category_id;category_name;owner_id;owner_name;owner_email;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;registration;registration_form_id;registration_max_guests;registration_series_linked;has_registration_opened;registration_open_at;has_registration_closed;registration_close_at;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;featured_image_alt_text;more_info;setup_time;teardown_time;online_user_id;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider
-4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
-Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
-
-<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
-
-<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
-
-<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
-
-<p>&nbsp;</p>
-
-<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
-
-<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
-
-<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
-
-<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
-
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33562;Analysis;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
-4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
-Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
-
-<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
-
-<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
-
-<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
-
-<p>&nbsp;</p>
-
-<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
-
-<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
-
-<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
-
-<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
-
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33564;English;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
-4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
-Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
-
-<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
-
-<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
-
-<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
-
-<p>&nbsp;</p>
-
-<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
-
-<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
-
-<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
-
-<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
-
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
-4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
-Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
-
-<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
-
-<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
-
-<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
-
-<p>&nbsp;</p>
-
-<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
-
-<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
-
-<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
-
-<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
-
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
-4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
-Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
-
-<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
-
-<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
-
-<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
-
-<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
-
-<p>&nbsp;</p>
-
-<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
-
-<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
-
-<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
-
-<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
-
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4554972;Python for Absolute Beginners pt. 2;FALSE;2026-09-16T07:31:00Z;2026-09-16T10:30:00Z;2026-06-19T11:13:05Z;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
@@ -873,7 +763,7 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
@@ -895,7 +785,7 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
@@ -917,7 +807,7 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4414227;Åbent værksted i Labbet / drop in consultations at KUB Datalab;FALSE;2026-10-14T10:30:00Z;2026-10-14T12:30:00Z;2025-09-04T12:38:48Z;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1586,7 +1476,7 @@ This understanding can be gained by participating in our introductory NVivo cour
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;9;0;0;9;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563007;Lær at analysere tekster med R / Learn to analyse texts with R;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T08:39:53Z;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
 
 <p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
@@ -1603,7 +1493,7 @@ This understanding can be gained by participating in our introductory NVivo cour
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;38246;Summer School;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;38246;Summer School;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;9;0;0;9;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563007;Lær at analysere tekster med R / Learn to analyse texts with R;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T08:39:53Z;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
 
 <p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
@@ -1620,7 +1510,7 @@ This understanding can be gained by participating in our introductory NVivo cour
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;9;0;0;9;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4554981;Python for not quite Absolute Beginners : sets, dictionaries, functions & libraries;FALSE;2026-11-09T11:31:00Z;2026-11-09T14:30:00Z;2026-06-19T11:18:40Z;"<p><br />
 In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
 
@@ -3031,6 +2921,116 @@ You can sign up for one course or as many as you like.</strong></p>
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4507861;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4507861;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
+Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
+
+<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
+
+<p>&nbsp;</p>
+
+<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
+
+<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
+
+<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33562;Analysis;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
+Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
+
+<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
+
+<p>&nbsp;</p>
+
+<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
+
+<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
+
+<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33564;English;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
+Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
+
+<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
+
+<p>&nbsp;</p>
+
+<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
+
+<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
+
+<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
+Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
+
+<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
+
+<p>&nbsp;</p>
+
+<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
+
+<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
+
+<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4562785;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-09-11T10:00:00Z;2026-09-11T12:30:00Z;2026-06-23T10:53:18Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
+Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette.</p>
+
+<p><a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk</p>
+
+<p>&nbsp;</p>
+
+<p><em>Visualisation can be used to identify patterns in your data, as well as to tell a compelling story about your results.</em></p>
+
+<p><em>We cover the basics of ggplot2, including different types of plots, scales and faceting.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learnt, while further developing your knowledge and skills in R. A good way to prepare is therefore to attend one of our beginner courses.</em></p>
+
+<p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4562785;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4562785;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;NA;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-23T10:53:18Z;TRUE;2026-09-11T10:00:00Z;30;9;0;0;9;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/ggplot-logo.png;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
@@ -3052,7 +3052,7 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;36627;R;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
@@ -3074,7 +3074,7 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;33563;Visualisation;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
@@ -3096,7 +3096,58 @@ Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer
 
 <p><em>You are expected to have installed R and Positron/RStudio before the course, so that we do not have to spend time on this. <a href=""https://kubdatalab.github.io/R-visualisation/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;17;0;0;17;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is generally taught in Danish, but if one or more participants request it, it will be held in English.</em></p>";https://kubkalender.kb.dk/event/4563006;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563006;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;NA;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:33:52Z;FALSE;2026-10-12T10:00:00Z;40;18;0;0;18;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4563007;Lær at analysere tekster med R / Learn to analyse texts with R;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T08:39:53Z;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.</p>
+
+<p>&nbsp;</p>
+
+<p><em>Would you like to analyse volumes of text so large that you cannot read them yourself? Then this course may be for you. The course provides an introduction to the concept of text mining and demonstrates examples of how it can be applied in practice. The course is based on a collection of texts, but the skills you learn can be applied to many other types of text.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner course</a>. In this text analysis course, you will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4563007;Lær at analysere tekster med R / Learn to analyse texts with R;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T08:39:53Z;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.</p>
+
+<p>&nbsp;</p>
+
+<p><em>Would you like to analyse volumes of text so large that you cannot read them yourself? Then this course may be for you. The course provides an introduction to the concept of text mining and demonstrates examples of how it can be applied in practice. The course is based on a collection of texts, but the skills you learn can be applied to many other types of text.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner course</a>. In this text analysis course, you will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;38246;Summer School;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
+4563007;Lær at analysere tekster med R / Learn to analyse texts with R;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T08:39:53Z;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. Du kan finde hj&aelig;lp til at <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.</p>
+
+<p>&nbsp;</p>
+
+<p><em>Would you like to analyse volumes of text so large that you cannot read them yourself? Then this course may be for you. The course provides an introduction to the concept of text mining and demonstrates examples of how it can be applied in practice. The course is based on a collection of texts, but the skills you learn can be applied to many other types of text.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner course</a>. In this text analysis course, you will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Undervisningslokalet 1. sal;39;Søndre Campus;NA;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T08:39:53Z;FALSE;2026-11-01T11:00:00Z;40;8;0;0;8;FALSE;#18E0F2;NA;NA;NA;0;0;NA;NA;NA;NA;NA;NA
 4554986;Python for absolutte begyndere del 1 (dansk);FALSE;2026-10-21T10:31:00Z;2026-10-21T13:30:00Z;2026-06-19T11:27:50Z;"<p><br />
 Dette kursus er for studerende, der aldrig har programmeret f&oslash;r og gerne vil l&aelig;re Python helt fra bunden.</p>
 
