@@ -1,4 +1,187 @@
 id;title;visibility;cancelled;allday;start;end;created;description;public;admin;location_id;location_type;location_name;campus_id;campus_name;audience_1_id;audience_1_name;category_id;category_name;owner_id;owner_name;owner_email;presenter;calendar_id;calendar_name;calendar_public;calendar_admin;seats;registration;registration_form_id;registration_max_guests;registration_series_linked;has_registration_opened;registration_open_at;has_registration_closed;registration_close_at;physical_seats;physical_seats_taken;online_seats;online_seats_taken;seats_taken;wait_list;color;featured_image;featured_image_alt_text;geolocation;registration_cost;more_info;setup_time;teardown_time;online_user_id;online_meeting_id;online_host_url;online_join_url;online_join_password;online_provider;campus_1;audience_2_id;audience_2_name;audience_3_id;audience_3_name;zoom_email
+4565841;Dyk ned i data med R / Dive into data with R - ONLINE;public;FALSE;FALSE;2026-10-29T08:00:00Z;2026-10-29T10:00:00Z;2026-07-01T07:02:32Z;"<p>Har du en god basisforst&aring;else af R, og vil du pr&oslash;ve at bruge teknikkerne p&aring; et st&oslash;rre datas&aelig;t?</p>
+
+<p>P&aring; kurset udforsker vi et st&oslash;rre datas&aelig;t ud fra input fra deltagerne. Afh&aelig;ngig af &oslash;nskerne n&aring;r vi ofte omkring emner som simple statistiske metoder og visualiseringer, arbejde med udvalgte dele af data og indl&aelig;sning og kombination af flere Excel-ark.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do you have a solid basic understanding of R, and would you like to try applying these techniques to a larger dataset?</em></p>
+
+<p><em>During the course, we explore a larger dataset based on input from the participants. Depending on preferences, we often cover topics such as simple statistical methods and visualisations, working with selected subsets of data, and importing and combining multiple Excel sheets.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R. As preparation, it may be beneficial to attend one of our beginner courses.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565841;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565841;14440;0;Online på Zoom;4312;Online;1022;Level 2 - Basic / Let øvet;33562;Analysis;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;30;TRUE;5673;0;FALSE;TRUE;2026-07-01T07:02:32Z;TRUE;2026-10-29T07:00:00Z;0;0;30;15;15;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;NA;0;NA;0;0;0;NA;NA;https://kbdk.zoom.us/j/65729671199;NA;external;NA;NA;NA;NA;NA;NA
+4565841;Dyk ned i data med R / Dive into data with R - ONLINE;public;FALSE;FALSE;2026-10-29T08:00:00Z;2026-10-29T10:00:00Z;2026-07-01T07:02:32Z;"<p>Har du en god basisforst&aring;else af R, og vil du pr&oslash;ve at bruge teknikkerne p&aring; et st&oslash;rre datas&aelig;t?</p>
+
+<p>P&aring; kurset udforsker vi et st&oslash;rre datas&aelig;t ud fra input fra deltagerne. Afh&aelig;ngig af &oslash;nskerne n&aring;r vi ofte omkring emner som simple statistiske metoder og visualiseringer, arbejde med udvalgte dele af data og indl&aelig;sning og kombination af flere Excel-ark.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do you have a solid basic understanding of R, and would you like to try applying these techniques to a larger dataset?</em></p>
+
+<p><em>During the course, we explore a larger dataset based on input from the participants. Depending on preferences, we often cover topics such as simple statistical methods and visualisations, working with selected subsets of data, and importing and combining multiple Excel sheets.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R. As preparation, it may be beneficial to attend one of our beginner courses.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565841;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565841;14440;0;Online på Zoom;4312;Online;1022;Level 2 - Basic / Let øvet;33561;Cleaning;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;30;TRUE;5673;0;FALSE;TRUE;2026-07-01T07:02:32Z;TRUE;2026-10-29T07:00:00Z;0;0;30;15;15;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;NA;0;NA;0;0;0;NA;NA;https://kbdk.zoom.us/j/65729671199;NA;external;NA;NA;NA;NA;NA;NA
+4565841;Dyk ned i data med R / Dive into data with R - ONLINE;public;FALSE;FALSE;2026-10-29T08:00:00Z;2026-10-29T10:00:00Z;2026-07-01T07:02:32Z;"<p>Har du en god basisforst&aring;else af R, og vil du pr&oslash;ve at bruge teknikkerne p&aring; et st&oslash;rre datas&aelig;t?</p>
+
+<p>P&aring; kurset udforsker vi et st&oslash;rre datas&aelig;t ud fra input fra deltagerne. Afh&aelig;ngig af &oslash;nskerne n&aring;r vi ofte omkring emner som simple statistiske metoder og visualiseringer, arbejde med udvalgte dele af data og indl&aelig;sning og kombination af flere Excel-ark.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do you have a solid basic understanding of R, and would you like to try applying these techniques to a larger dataset?</em></p>
+
+<p><em>During the course, we explore a larger dataset based on input from the participants. Depending on preferences, we often cover topics such as simple statistical methods and visualisations, working with selected subsets of data, and importing and combining multiple Excel sheets.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R. As preparation, it may be beneficial to attend one of our beginner courses.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565841;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565841;14440;0;Online på Zoom;4312;Online;1022;Level 2 - Basic / Let øvet;33564;English;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;30;TRUE;5673;0;FALSE;TRUE;2026-07-01T07:02:32Z;TRUE;2026-10-29T07:00:00Z;0;0;30;15;15;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;NA;0;NA;0;0;0;NA;NA;https://kbdk.zoom.us/j/65729671199;NA;external;NA;NA;NA;NA;NA;NA
+4565841;Dyk ned i data med R / Dive into data with R - ONLINE;public;FALSE;FALSE;2026-10-29T08:00:00Z;2026-10-29T10:00:00Z;2026-07-01T07:02:32Z;"<p>Har du en god basisforst&aring;else af R, og vil du pr&oslash;ve at bruge teknikkerne p&aring; et st&oslash;rre datas&aelig;t?</p>
+
+<p>P&aring; kurset udforsker vi et st&oslash;rre datas&aelig;t ud fra input fra deltagerne. Afh&aelig;ngig af &oslash;nskerne n&aring;r vi ofte omkring emner som simple statistiske metoder og visualiseringer, arbejde med udvalgte dele af data og indl&aelig;sning og kombination af flere Excel-ark.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do you have a solid basic understanding of R, and would you like to try applying these techniques to a larger dataset?</em></p>
+
+<p><em>During the course, we explore a larger dataset based on input from the participants. Depending on preferences, we often cover topics such as simple statistical methods and visualisations, working with selected subsets of data, and importing and combining multiple Excel sheets.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R. As preparation, it may be beneficial to attend one of our beginner courses.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565841;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565841;14440;0;Online på Zoom;4312;Online;1022;Level 2 - Basic / Let øvet;36627;R;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;30;TRUE;5673;0;FALSE;TRUE;2026-07-01T07:02:32Z;TRUE;2026-10-29T07:00:00Z;0;0;30;15;15;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;NA;0;NA;0;0;0;NA;NA;https://kbdk.zoom.us/j/65729671199;NA;external;NA;NA;NA;NA;NA;NA
+4565841;Dyk ned i data med R / Dive into data with R - ONLINE;public;FALSE;FALSE;2026-10-29T08:00:00Z;2026-10-29T10:00:00Z;2026-07-01T07:02:32Z;"<p>Har du en god basisforst&aring;else af R, og vil du pr&oslash;ve at bruge teknikkerne p&aring; et st&oslash;rre datas&aelig;t?</p>
+
+<p>P&aring; kurset udforsker vi et st&oslash;rre datas&aelig;t ud fra input fra deltagerne. Afh&aelig;ngig af &oslash;nskerne n&aring;r vi ofte omkring emner som simple statistiske metoder og visualiseringer, arbejde med udvalgte dele af data og indl&aelig;sning og kombination af flere Excel-ark.</p>
+
+<p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a>. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser.</p>
+
+<p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
+
+<p>Kurset er som udgangspunkt p&aring; dansk, men hvis en eller flere deltagere &oslash;nsker det, afholdes det p&aring; engelsk.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Do you have a solid basic understanding of R, and would you like to try applying these techniques to a larger dataset?</em></p>
+
+<p><em>During the course, we explore a larger dataset based on input from the participants. Depending on preferences, we often cover topics such as simple statistical methods and visualisations, working with selected subsets of data, and importing and combining multiple Excel sheets.</em></p>
+
+<p><em>The course builds on <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">our beginner courses</a>. You will therefore have the opportunity to apply what you have already learned while expanding your knowledge and skills in R. As preparation, it may be beneficial to attend one of our beginner courses.</em></p>
+
+<p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. <a href=""https://kubdatalab.github.io/R-EDA/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
+
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565841;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565841;14440;0;Online på Zoom;4312;Online;1022;Level 2 - Basic / Let øvet;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;30;TRUE;5673;0;FALSE;TRUE;2026-07-01T07:02:32Z;TRUE;2026-10-29T07:00:00Z;0;0;30;15;15;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;NA;NA;0;NA;0;0;0;NA;NA;https://kbdk.zoom.us/j/65729671199;NA;external;NA;NA;NA;NA;NA;NA
+4564149;NVivo for Absolute Beginners;public;FALSE;FALSE;2026-10-29T12:01:00Z;2026-10-29T14:30:00Z;2026-06-25T11:49:56Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 15 on your laptop.</p>
+
+<p>You can do that here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg</a></p>
+
+<p>After download, use the registration key available through the&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>. (The key can be found under the linke &quot;QSR International - NVivo&quot;.)</p>
+
+<p>In case of any difficulties in this process, please contact Copenhagen University&rsquo;s Service desk.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/88011/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4564149;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4564149;92;0;Søndre Campus: Bibliotekets undervisningslokale 1. sal;3879;South Campus;1021;Level 1 - Beginner / Begynder;33562;Analysis;313;Erik Schwägermann;es@kb.dk;Benjamin Derksen & Erik Schwägermann;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;20;TRUE;5673;0;FALSE;TRUE;2026-06-25T11:49:56Z;TRUE;2026-10-29T14:30:00Z;20;16;0;0;16;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4564149;NVivo for Absolute Beginners;public;FALSE;FALSE;2026-10-29T12:01:00Z;2026-10-29T14:30:00Z;2026-06-25T11:49:56Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 15 on your laptop.</p>
+
+<p>You can do that here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg</a></p>
+
+<p>After download, use the registration key available through the&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>. (The key can be found under the linke &quot;QSR International - NVivo&quot;.)</p>
+
+<p>In case of any difficulties in this process, please contact Copenhagen University&rsquo;s Service desk.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/88011/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4564149;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4564149;92;0;Søndre Campus: Bibliotekets undervisningslokale 1. sal;3879;South Campus;1021;Level 1 - Beginner / Begynder;33564;English;313;Erik Schwägermann;es@kb.dk;Benjamin Derksen & Erik Schwägermann;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;20;TRUE;5673;0;FALSE;TRUE;2026-06-25T11:49:56Z;TRUE;2026-10-29T14:30:00Z;20;16;0;0;16;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+4564149;NVivo for Absolute Beginners;public;FALSE;FALSE;2026-10-29T12:01:00Z;2026-10-29T14:30:00Z;2026-06-25T11:49:56Z;"<p><br />
+Introduction to NVivo;&nbsp;a program&nbsp;which is a great help when you are working with qualitative data analysis.</p>
+
+<p>NVivo&nbsp;can be useful, if you want to organise and/or code your empirical material or literature. It can also be helpful when you want to transcribe audio- or video files, generate hypotheses etc.</p>
+
+<p>The PC version of NVivo has more functionality than the Mac version, but you can participate in all exercises with either&nbsp;and we will demonstrate in both.</p>
+
+<p>&nbsp;</p>
+
+<p>Prior to the course, you must install the version of NVivo called NVivo 15 on your laptop.</p>
+
+<p>You can do that here for Windows:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15/NVivo.x64.exe</a></p>
+
+<p>And here for Mac:<br />
+<a href=""https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg"" target=""_blank"">https://download.qsrinternational.com/Software/NVivo15forMac/NVivo.dmg</a></p>
+
+<p>After download, use the registration key available through the&nbsp;<a href=""https://kunet.ku.dk/self-service/Pages/Software-library.aspx"" target=""_blank"">UCPH Software Library</a>. (The key can be found under the linke &quot;QSR International - NVivo&quot;.)</p>
+
+<p>In case of any difficulties in this process, please contact Copenhagen University&rsquo;s Service desk.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We also recommend that you complete a set of introductory exercises before course start, that you can read about <a href=""https://absalon.ku.dk/courses/88011/pages/intro-english"" target=""_blank"">HERE</a>.</strong></p>
+
+<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4564149;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4564149;92;0;Søndre Campus: Bibliotekets undervisningslokale 1. sal;3879;South Campus;1021;Level 1 - Beginner / Begynder;32027;Datalab;313;Erik Schwägermann;es@kb.dk;Benjamin Derksen & Erik Schwägermann;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;20;TRUE;5673;0;FALSE;TRUE;2026-06-25T11:49:56Z;TRUE;2026-10-29T14:30:00Z;20;16;0;0;16;TRUE;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1674211150.jpg;NA;NA;0;NA;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
 4563006;Introduktion til visualisering med ggplot2 i R / Introduction to visualising with ggplot2 in R;public;FALSE;FALSE;2026-10-12T10:00:00Z;2026-10-12T12:30:00Z;2026-06-24T08:33:52Z;"<p>Visualisering kan bruges til at finde m&oslash;nstre i dine data, ligesom det kan bruges til at fort&aelig;lle en overbevisende historie om dine resultater.<br />
 Vi gennemg&aring;r det grundl&aelig;ggende i ggplot2, herunder forskellige typer plots, skalaer og facettering.</p>
 
