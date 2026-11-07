@@ -885,7 +885,7 @@ This understanding can be gained by participating in our introductory NVivo cour
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-text-analysis/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Bibliotekets undervisningslokale 1. sal;39;Søndre Campus;;38246;Summer School;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:39:53+02:00;TRUE;2026-11-04T12:00:00+01:00;40;9;0;0;9;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4563007;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563007;92;0;Søndre Campus: Bibliotekets undervisningslokale 1. sal;39;Søndre Campus;;38246;Winter School;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:39:53+02:00;TRUE;2026-11-04T12:00:00+01:00;40;9;0;0;9;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;NA;NA;NA;NA;NA;NA
 4563007;Lær at analysere tekster med R / Learn to analyse texts with R;public;FALSE;FALSE;2026-11-06T11:00:00Z;2026-11-06T13:30:00Z;2026-06-24T10:39:53+02:00;"<p>Vil du gerne analysere tekstm&aelig;ngder, der er s&aring; store, at du ikke selv kan n&aring; at l&aelig;se dem? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til begrebet text mining og viser eksempler p&aring;, hvordan det kan anvendes i praksis. P&aring; kurset tager vi udgangspunkt i et samling tekster, men de f&aelig;rdigheder, du l&aelig;rer p&aring; kurset, kan anvendes p&aring; mange andre typer tekst.</p>
 
 <p>Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkursus</a>. P&aring; tekstanalysekurset har du dermed mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R.</p>
@@ -991,7 +991,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we can make as much progress as possible. <a href=""https://kubdatalab.github.io/R-api/#software-setup"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565855;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565855;0;0;;4312;Online;;38246;Summer School;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-07-01T09:16:40+02:00;FALSE;2026-11-10T09:00:00+01:00;0;0;30;11;11;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;0;;;https://kbdk.zoom.us/j/68009775056;;external
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565855;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565855;0;0;;4312;Online;;38246;Winter School;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-07-01T09:16:40+02:00;FALSE;2026-11-10T09:00:00+01:00;0;0;30;11;11;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;0;;;https://kbdk.zoom.us/j/68009775056;;external
 4565855;R og API – Danmarks statistik / R and API – Statistics Denmark - ONLINE;public;FALSE;FALSE;2026-11-10T08:00:00Z;2026-11-10T10:00:00Z;2026-07-01T09:16:40+02:00;"<p>L&aelig;r hvordan du automatisk kan tr&aelig;kke data fra online kilder ved hj&aelig;lp af R. Vi gennemg&aring;r de grundl&aelig;ggende principper i de to typiske m&aring;der at lade dit R script tale sammen med online databaser, bl.a. Danmarks Statistik.&nbsp;</p>
 
 <p><span data-teams=""true""><span style=""font-size: inherit;"">Kurset ligger i forl&aelig;ngelse af <a href=""https://kubdatalab.github.io/R-intro/"" target=""_blank"">vores begynderkurser</a></span><span style=""font-size: inherit;"">. P&aring; kurset har du s&aring;ledes mulighed for at anvende de ting, du allerede har l&aelig;rt, samtidig med at du udbygger din viden og dine f&aelig;rdigheder i R. Derfor kan en god forberedelse v&aelig;re at deltage i et vores begynderkurser</span></span></p>
@@ -1040,7 +1040,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 <p style=""margin-top:16px; margin-bottom:16px"">A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
 
 <p style=""margin-top:16px; margin-bottom:16px"">It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
-</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33562;Analysis;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;21;0;0;21;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4563008;R for Absolute Beginners;public;FALSE;FALSE;2026-11-16T08:00:00Z;2026-11-16T11:00:00Z;2026-06-24T10:45:33+02:00;"<div id=""s-lc-event-desc"">
 <p style=""margin-top:16px; margin-bottom:16px"">R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes.</p>
 
@@ -1049,7 +1049,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 <p style=""margin-top:16px; margin-bottom:16px"">A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
 
 <p style=""margin-top:16px; margin-bottom:16px"">It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
-</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33561;Cleaning;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33561;Cleaning;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;21;0;0;21;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4563008;R for Absolute Beginners;public;FALSE;FALSE;2026-11-16T08:00:00Z;2026-11-16T11:00:00Z;2026-06-24T10:45:33+02:00;"<div id=""s-lc-event-desc"">
 <p style=""margin-top:16px; margin-bottom:16px"">R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes.</p>
 
@@ -1058,7 +1058,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 <p style=""margin-top:16px; margin-bottom:16px"">A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
 
 <p style=""margin-top:16px; margin-bottom:16px"">It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
-</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;33564;English;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;21;0;0;21;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4563008;R for Absolute Beginners;public;FALSE;FALSE;2026-11-16T08:00:00Z;2026-11-16T11:00:00Z;2026-06-24T10:45:33+02:00;"<div id=""s-lc-event-desc"">
 <p style=""margin-top:16px; margin-bottom:16px"">R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes.</p>
 
@@ -1067,7 +1067,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 <p style=""margin-top:16px; margin-bottom:16px"">A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
 
 <p style=""margin-top:16px; margin-bottom:16px"">It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
-</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;21;0;0;21;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4563008;R for Absolute Beginners;public;FALSE;FALSE;2026-11-16T08:00:00Z;2026-11-16T11:00:00Z;2026-06-24T10:45:33+02:00;"<div id=""s-lc-event-desc"">
 <p style=""margin-top:16px; margin-bottom:16px"">R is a programming language that was originally developed for statistical analysis, but today it is used for a wide range of purposes.</p>
 
@@ -1076,7 +1076,7 @@ In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses
 <p style=""margin-top:16px; margin-bottom:16px"">A prerequisite for carrying out analyses in R is having a basic understanding of both the programming language and the interface. This is precisely what you will learn in our introductory course.</p>
 
 <p style=""margin-top:16px; margin-bottom:16px"">It is assumed that you have installed R and Positron/RStudio before the course so that we do not need to spend time on this. You can find help with <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">installing R and Positron/RStudio here</a>.</p>
-</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;20;0;0;20;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+</div>";https://kubkalender.kb.dk/event/4563008;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4563008;98;0;Library Lighthouse, zone 1, Library Lighthouse, zone 2;41;Nørre Campus;;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen & Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-06-24T10:45:33+02:00;FALSE;2026-11-16T12:00:00+01:00;30;21;0;0;21;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4554983;Python for not quite Absolute Beginners : list comprehensions, files & errors;public;FALSE;FALSE;2026-11-16T11:31:00Z;2026-11-16T14:30:00Z;2026-06-19T13:23:17+02:00;"<p><br />
 In the <strong><em>Python for not quite Absolute Beginners</em></strong> courses, we expand on previous learning to write more structured and reliable programs. Before you attend these courses, make sure you have completed <em>Python for Absolute Beginners</em> Part 1 and 2 or are familiar with its topics.</p>
 
@@ -1318,7 +1318,7 @@ You can sign up for one course or as many as you like.</strong></p>
 
 <p><em>It is assumed that you have installed R and Positron/RStudio before the course so that we can make as much progress as possible. <a href=""https://kubdatalab.github.io/R-statistic/#software-setup"" target=""_blank"">You can find help with installing R and Positron/RStudio here</a>.</em></p>
 
-<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565858;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565858;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;38246;Summer School;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-07-01T09:42:54+02:00;FALSE;2026-11-27T09:00:00+01:00;40;22;0;0;22;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;NA;NA;NA;NA;NA;NA
+<p><em>The course is primarily conducted in Danish, but if one or more participants prefer, it can be delivered in English.</em></p>";https://kubkalender.kb.dk/event/4565858;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4565858;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;38246;Winter School;16332;Christian Knudsen;cbk@kb.dk;Christian Knudsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-07-01T09:42:54+02:00;FALSE;2026-11-27T09:00:00+01:00;40;22;0;0;22;FALSE;#18E0F2;https://dkou0skpxpnwz.cloudfront.net/customers/105/images/R_logo.jpg;R logo;;0;0;NA;NA;NA;NA;NA;NA
 4565858;Lær at lave statistiske analyser med R / Learn to perform statistical analyses with R;public;FALSE;FALSE;2026-11-27T08:00:00Z;2026-11-27T10:30:00Z;2026-07-01T09:42:54+02:00;"<p>Vil du gerne l&aelig;re, hvordan man kan foretage statistiske analyser ved hj&aelig;lp af R? S&aring; er dette kursus m&aring;ske noget for dig. Kurset giver en introduktion til, hvordan man kan lave statistiske analyser i R. P&aring; kurset vil emner som deskriptiv statistik, normalfordeling og regression blive ber&oslash;rt.</p>
 
 <p>Dette er ikke et statistikkursus, s&aring; et basalt kendskab til statistiske begreber foruds&aelig;ttes.</p>
@@ -1488,66 +1488,6 @@ You can sign up for one course or as many as you like.</strong></p>
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4507828;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4507828;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;;0;0;NA;NA;NA;NA;NA;NA
-4626741;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-26T12:01:00Z;2027-01-26T13:00:00Z;2026-11-06T08:11:24+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626741;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626741;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:24+01:00;FALSE;2027-01-26T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626741;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-26T12:01:00Z;2027-01-26T13:00:00Z;2026-11-06T08:11:24+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626741;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626741;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:24+01:00;FALSE;2027-01-26T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626741;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-26T12:01:00Z;2027-01-26T13:00:00Z;2026-11-06T08:11:24+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626741;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626741;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:24+01:00;FALSE;2027-01-26T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626741;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-26T12:01:00Z;2027-01-26T13:00:00Z;2026-11-06T08:11:24+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626741;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626741;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;38246;Summer School;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:24+01:00;FALSE;2027-01-26T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626741;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-26T12:01:00Z;2027-01-26T13:00:00Z;2026-11-06T08:11:24+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626741;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626741;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:24+01:00;FALSE;2027-01-26T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
 4507829;Åbent værksted i Labbet / drop in consultations at KUB Datalab;public;FALSE;FALSE;2027-01-27T11:30:00Z;2027-01-27T13:30:00Z;2026-01-28T14:31:49+01:00;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1573,126 +1513,6 @@ You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank""
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
 
 <p>No registration required, we try to assist everyone, but if necessary on a &quot;first-come, first-served&quot; basis</p>";https://kubkalender.kb.dk/event/4507829;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4507829;21575;2;Library Lighthouse, Zone 3;41;Nørre Campus;;32027;Datalab;16332;Christian Knudsen;cbk@kb.dk;;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;#18E0F2;https://lcimages-eu.s3.amazonaws.com/data/feat_img/1069/6416/1680706557.jpg;;;0;0;NA;NA;NA;NA;NA;NA
-4626742;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-27T12:01:00Z;2027-01-27T13:00:00Z;2026-11-06T08:11:36+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626742;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626742;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:36+01:00;FALSE;2027-01-27T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626742;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-27T12:01:00Z;2027-01-27T13:00:00Z;2026-11-06T08:11:36+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626742;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626742;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:36+01:00;FALSE;2027-01-27T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626742;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-27T12:01:00Z;2027-01-27T13:00:00Z;2026-11-06T08:11:36+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626742;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626742;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:36+01:00;FALSE;2027-01-27T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626742;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-27T12:01:00Z;2027-01-27T13:00:00Z;2026-11-06T08:11:36+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626742;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626742;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;38246;Summer School;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:36+01:00;FALSE;2027-01-27T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626742;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-27T12:01:00Z;2027-01-27T13:00:00Z;2026-11-06T08:11:36+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626742;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626742;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:36+01:00;FALSE;2027-01-27T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626743;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-28T12:01:00Z;2027-01-28T13:00:00Z;2026-11-06T08:11:50+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626743;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626743;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33562;Analysis;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:50+01:00;FALSE;2027-01-28T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626743;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-28T12:01:00Z;2027-01-28T13:00:00Z;2026-11-06T08:11:50+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626743;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626743;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;33564;English;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:50+01:00;FALSE;2027-01-28T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626743;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-28T12:01:00Z;2027-01-28T13:00:00Z;2026-11-06T08:11:50+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626743;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626743;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;36626;Python;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:50+01:00;FALSE;2027-01-28T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626743;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-28T12:01:00Z;2027-01-28T13:00:00Z;2026-11-06T08:11:50+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626743;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626743;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;38246;Summer School;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:50+01:00;FALSE;2027-01-28T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
-4626743;Python Practice Session, #winter(school);public;FALSE;FALSE;2027-01-28T12:01:00Z;2027-01-28T13:00:00Z;2026-11-06T08:11:50+01:00;"<p><br />
-<strong>This session is part of our <em>Python Winter School</em>. We will offer Python courses throughout the week from January 25&ndash;29.<br />
-The week before (January 18-22) we will be running <em>R Winter School</em>.<br />
-You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank"">sign up for one course or as many as you like</a>.</strong></p>
-
-<p>This guided practice session gives you the opportunity to put what you have learned in the Python course earlier in the day into practice.</p>
-
-<p>During the session, you will work on a series of exercises based on the topics covered in the course. Our instructors will be available to answer questions and help you if you get stuck. After each exercise, we will go through the solution together, giving you a chance to ask questions and discuss different approaches.</p>
-
-<p><strong>Prerequisites:</strong> This session is intended for participants who have attended the Python course earlier in the day or have equivalent knowledge.</p>
-
-<p>&nbsp;</p>";https://kubkalender.kb.dk/event/4626743;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626743;21573;2;Library Lighthouse, Zone 1, Library Lighthouse, Zone 2;41;Nørre Campus;;32027;Datalab;28221;Daniel Pryn;pryn@kb.dk;Benjamin Derksen & Daniel Pryn;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-06T08:11:50+01:00;FALSE;2027-01-28T14:00:00+01:00;45;0;0;0;0;TRUE;#18E0F2;https://dbjywyrc2efmd.cloudfront.net/misc/1069/events/6416/2026_11_04_13_19_31.png;python winter edition;;0;0;NA;NA;NA;NA;NA;NA
 4507830;Åbent værksted i Labbet / drop in consultations at KUB Datalab;public;FALSE;FALSE;2027-02-03T11:30:00Z;2027-02-03T13:30:00Z;2026-01-28T14:31:49+01:00;"<p>Having problems importing data? Or cleaning it? Is the structure weird, or are you getting strange error messages when you try to fit a model?</p>
 
 <p>Drop in with your data and your problem, and we will do our best to help you. We offer no opinions on what statistical test you should run on your data. But we will get it to work.&nbsp;</p>
@@ -1776,7 +1596,7 @@ You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank""
 
 <p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
 
-<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;33562;Analysis;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;0;0;0;0;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;33562;Analysis;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4626358;R for absolutte nybegyndere;public;FALSE;FALSE;2027-02-23T08:00:00Z;2027-02-23T11:00:00Z;2026-11-04T13:59:19+01:00;"<p>R er et programmeringssprog, som oprindeligt blev udviklet til statistiske analyser men i dag bruges til mange forskellige form&aring;l. Derfor kan det b&aring;de bruges til analyser af tal og tekst.</p>
 
 <p>Dette kursus er en grundl&aelig;ggende introduktion til R. Der kr&aelig;ves ingen erfaring med programmering for at kunne deltage.</p>
@@ -1785,7 +1605,7 @@ You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank""
 
 <p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
 
-<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;33561;Cleaning;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;0;0;0;0;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;33561;Cleaning;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4626358;R for absolutte nybegyndere;public;FALSE;FALSE;2027-02-23T08:00:00Z;2027-02-23T11:00:00Z;2026-11-04T13:59:19+01:00;"<p>R er et programmeringssprog, som oprindeligt blev udviklet til statistiske analyser men i dag bruges til mange forskellige form&aring;l. Derfor kan det b&aring;de bruges til analyser af tal og tekst.</p>
 
 <p>Dette kursus er en grundl&aelig;ggende introduktion til R. Der kr&aelig;ves ingen erfaring med programmering for at kunne deltage.</p>
@@ -1794,7 +1614,7 @@ You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank""
 
 <p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
 
-<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;0;0;0;0;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;36627;R;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4626358;R for absolutte nybegyndere;public;FALSE;FALSE;2027-02-23T08:00:00Z;2027-02-23T11:00:00Z;2026-11-04T13:59:19+01:00;"<p>R er et programmeringssprog, som oprindeligt blev udviklet til statistiske analyser men i dag bruges til mange forskellige form&aring;l. Derfor kan det b&aring;de bruges til analyser af tal og tekst.</p>
 
 <p>Dette kursus er en grundl&aelig;ggende introduktion til R. Der kr&aelig;ves ingen erfaring med programmering for at kunne deltage.</p>
@@ -1803,7 +1623,7 @@ You can <a href=""https://kubkalender.kb.dk/calendar/datalab"" target=""_blank""
 
 <p>Det foruds&aelig;ttes at du har installeret R og Positron/RStudio f&oslash;r kurset, s&aring;dan at vi ikke skal bruge tid p&aring; dette. <a href=""https://kubdatalab.github.io/R-intro/#software-setup"" target=""_blank"">Du kan finde hj&aelig;lp til at installere R og Positron/RStudio her</a>.</p>
 
-<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;0;0;0;0;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
+<p>Please note: this course will be held in Danish. As part of our summer school, this course is also offered in English. Read more and sign up <a href=""https://kubkalender.kb.dk/event/4540859"" target=""_blank"">here</a>.</p>";https://kubkalender.kb.dk/event/4626358;https://kubkalender.kb.dk/aevent.php?c=6416&m=edit&event_id=4626358;21573;2;Library Lighthouse, Zone 1;39;Søndre Campus;;32027;Datalab;44253;Søren Davidsen;sdav@kb.dk;Søren Davidsen;6416;Datalab;https://kubkalender.kb.dk/calendar/datalab;https://kubkalender.kb.dk/admin/calendar/6416;TRUE;5673;0;FALSE;TRUE;2026-11-04T13:59:19+01:00;FALSE;2027-02-23T09:00:00+01:00;30;1;0;0;1;TRUE;#18E0F2;https://libapps-eu.s3.amazonaws.com/customers/105/images/R_logo.jpg;;;0;0;NA;NA;NA;NA;NA;NA
 4626373;Python for Absolute Beginners pt. 1;public;FALSE;FALSE;2027-02-24T08:31:00Z;2027-02-24T11:30:00Z;2026-11-04T14:21:30+01:00;"<p><br />
 This course is intended for students who have never tried programming before and want to build their skills in Python from the bottom up.</p>
 
